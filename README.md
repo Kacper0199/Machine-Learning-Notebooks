@@ -5,9 +5,9 @@ This collection provides hands-on exploration of various machine learning techni
 
 ---
 
-## Colab notebooks:
+## Google Colab notebooks:
 
-You can also check out these projects on Colab:
+You can also check out these projects on Google Colab:
 
 - [[EDA & Dimensionality Reduction] Bank Marketing](https://drive.google.com/file/d/10TmpBAchH-TEIrfDNBgStycRXbxPYB7i/view?usp=sharing)
 
