@@ -1,0 +1,1663 @@
+
+
+--- New Trial ---
+Trial 0 - 2024-10-29 22:56:56.930794
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.12431151722752289, weight_decay=0.00013591046872643477, batch_size=128, scheduler_lr1=0.9181127559848112, scheduler_lr2=0.08045463904744396, scheduler_lr3=0.008479524685417746, scheduler_lr4=0.006414411494247865, scheduler_epoch1=11, scheduler_epoch2=23, , scheduler_epoch3=32
+Epoch 1/40 - 2024-10-29 22:56:56.930907
+Train Loss: 2.1607, Val Loss: 1.8506, Val Accuracy: 0.2772
+Epoch 2/40 - 2024-10-29 22:57:17.253272
+Train Loss: 1.7624, Val Loss: 1.6396, Val Accuracy: 0.3908
+Epoch 3/40 - 2024-10-29 22:57:37.442311
+Train Loss: 1.5959, Val Loss: 1.5641, Val Accuracy: 0.4104
+Epoch 4/40 - 2024-10-29 22:57:57.643936
+Train Loss: 1.4490, Val Loss: 1.5086, Val Accuracy: 0.4468
+Epoch 5/40 - 2024-10-29 22:58:18.097762
+Train Loss: 1.2939, Val Loss: 1.2579, Val Accuracy: 0.5498
+Epoch 6/40 - 2024-10-29 22:58:38.329669
+Train Loss: 1.1740, Val Loss: 1.2986, Val Accuracy: 0.5480
+Epoch 7/40 - 2024-10-29 22:58:58.474262
+Train Loss: 1.0539, Val Loss: 1.1281, Val Accuracy: 0.5986
+Epoch 8/40 - 2024-10-29 22:59:18.705061
+Train Loss: 0.9721, Val Loss: 0.9221, Val Accuracy: 0.6640
+Epoch 9/40 - 2024-10-29 22:59:38.863492
+Train Loss: 0.8949, Val Loss: 0.8913, Val Accuracy: 0.6838
+Epoch 10/40 - 2024-10-29 22:59:59.049869
+Train Loss: 0.8288, Val Loss: 0.9013, Val Accuracy: 0.6878
+Epoch 11/40 - 2024-10-29 23:00:19.280854
+Train Loss: 0.7691, Val Loss: 1.0581, Val Accuracy: 0.6810
+Epoch 12/40 - 2024-10-29 23:00:39.602627
+Train Loss: 0.5777, Val Loss: 0.5864, Val Accuracy: 0.7972
+Epoch 13/40 - 2024-10-29 23:00:59.780087
+Train Loss: 0.5183, Val Loss: 0.5775, Val Accuracy: 0.8034
+Epoch 14/40 - 2024-10-29 23:01:20.093961
+Train Loss: 0.4880, Val Loss: 0.5734, Val Accuracy: 0.8104
+Epoch 15/40 - 2024-10-29 23:01:40.336671
+Train Loss: 0.4632, Val Loss: 0.5692, Val Accuracy: 0.8042
+Epoch 16/40 - 2024-10-29 23:02:00.499222
+Train Loss: 0.4405, Val Loss: 0.5841, Val Accuracy: 0.8094
+Epoch 17/40 - 2024-10-29 23:02:20.672154
+Train Loss: 0.4141, Val Loss: 0.5764, Val Accuracy: 0.8068
+Epoch 18/40 - 2024-10-29 23:02:41.067702
+Train Loss: 0.3923, Val Loss: 0.5953, Val Accuracy: 0.8034
+Epoch 19/40 - 2024-10-29 23:03:01.384980
+Train Loss: 0.3698, Val Loss: 0.5922, Val Accuracy: 0.8098
+Epoch 20/40 - 2024-10-29 23:03:21.615816
+Train Loss: 0.3439, Val Loss: 0.6013, Val Accuracy: 0.8114
+Epoch 21/40 - 2024-10-29 23:03:41.799926
+Train Loss: 0.3225, Val Loss: 0.6601, Val Accuracy: 0.8026
+Epoch 22/40 - 2024-10-29 23:04:02.022226
+Train Loss: 0.3025, Val Loss: 0.6673, Val Accuracy: 0.8010
+Epoch 23/40 - 2024-10-29 23:04:22.207687
+Train Loss: 0.2743, Val Loss: 0.7170, Val Accuracy: 0.7898
+Early stopping at epoch 23
+Final Test Accuracy: 0.7902 - 2024-10-29 23:04:44.596732
+
+
+--- New Trial ---
+Trial 1 - 2024-10-29 23:04:44.647867
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14585081754571186, weight_decay=0.00015366606793122532, batch_size=128, scheduler_lr1=0.9441548464799673, scheduler_lr2=0.09347239755262156, scheduler_lr3=0.009500812589760365, scheduler_lr4=0.006500831308046674, scheduler_epoch1=9, scheduler_epoch2=25, , scheduler_epoch3=35
+Epoch 1/40 - 2024-10-29 23:04:44.647973
+Train Loss: 1.8406, Val Loss: 1.6751, Val Accuracy: 0.3760
+Epoch 2/40 - 2024-10-29 23:05:05.519261
+Train Loss: 1.3753, Val Loss: 1.3021, Val Accuracy: 0.5166
+Epoch 3/40 - 2024-10-29 23:05:26.283504
+Train Loss: 1.1291, Val Loss: 1.0160, Val Accuracy: 0.6338
+Epoch 4/40 - 2024-10-29 23:05:47.048816
+Train Loss: 0.9743, Val Loss: 0.9247, Val Accuracy: 0.6676
+Epoch 5/40 - 2024-10-29 23:06:07.893516
+Train Loss: 0.8470, Val Loss: 0.9068, Val Accuracy: 0.6780
+Epoch 6/40 - 2024-10-29 23:06:28.664938
+Train Loss: 0.7709, Val Loss: 0.7906, Val Accuracy: 0.7178
+Epoch 7/40 - 2024-10-29 23:06:49.648412
+Train Loss: 0.7026, Val Loss: 0.8337, Val Accuracy: 0.7200
+Epoch 8/40 - 2024-10-29 23:07:10.459922
+Train Loss: 0.6480, Val Loss: 0.6771, Val Accuracy: 0.7656
+Epoch 9/40 - 2024-10-29 23:07:31.153961
+Train Loss: 0.6001, Val Loss: 0.7107, Val Accuracy: 0.7538
+Epoch 10/40 - 2024-10-29 23:07:52.036823
+Train Loss: 0.4226, Val Loss: 0.4785, Val Accuracy: 0.8284
+Epoch 11/40 - 2024-10-29 23:08:13.050248
+Train Loss: 0.3652, Val Loss: 0.4781, Val Accuracy: 0.8292
+Epoch 12/40 - 2024-10-29 23:08:33.820122
+Train Loss: 0.3411, Val Loss: 0.4848, Val Accuracy: 0.8316
+Epoch 13/40 - 2024-10-29 23:08:54.747879
+Train Loss: 0.3218, Val Loss: 0.4815, Val Accuracy: 0.8308
+Epoch 14/40 - 2024-10-29 23:09:15.590324
+Train Loss: 0.3027, Val Loss: 0.4813, Val Accuracy: 0.8364
+Epoch 15/40 - 2024-10-29 23:09:36.588453
+Train Loss: 0.2821, Val Loss: 0.4811, Val Accuracy: 0.8366
+Epoch 16/40 - 2024-10-29 23:09:57.437331
+Train Loss: 0.2614, Val Loss: 0.5069, Val Accuracy: 0.8308
+Epoch 17/40 - 2024-10-29 23:10:18.395942
+Train Loss: 0.2463, Val Loss: 0.5191, Val Accuracy: 0.8324
+Epoch 18/40 - 2024-10-29 23:10:39.335271
+Train Loss: 0.2268, Val Loss: 0.5169, Val Accuracy: 0.8344
+Epoch 19/40 - 2024-10-29 23:11:00.335536
+Train Loss: 0.2113, Val Loss: 0.5646, Val Accuracy: 0.8214
+Early stopping at epoch 19
+Final Test Accuracy: 0.8277 - 2024-10-29 23:11:23.798203
+
+
+--- New Trial ---
+Trial 2 - 2024-10-29 23:11:23.853127
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08378070351554599, weight_decay=6.068982403586522e-06, batch_size=128, scheduler_lr1=0.9482794656246223, scheduler_lr2=0.09643689467172152, scheduler_lr3=0.008747259261900212, scheduler_lr4=0.007131000652626127, scheduler_epoch1=11, scheduler_epoch2=12, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-29 23:11:23.853230
+Train Loss: 1.8349, Val Loss: 1.5835, Val Accuracy: 0.4124
+Epoch 2/40 - 2024-10-29 23:11:44.814210
+Train Loss: 1.3619, Val Loss: 1.3220, Val Accuracy: 0.5176
+Epoch 3/40 - 2024-10-29 23:12:05.781996
+Train Loss: 1.1279, Val Loss: 1.1743, Val Accuracy: 0.5890
+Epoch 4/40 - 2024-10-29 23:12:26.794945
+Train Loss: 0.9512, Val Loss: 0.8852, Val Accuracy: 0.6862
+Epoch 5/40 - 2024-10-29 23:12:47.764906
+Train Loss: 0.8281, Val Loss: 0.7874, Val Accuracy: 0.7202
+Epoch 6/40 - 2024-10-29 23:13:09.026748
+Train Loss: 0.7382, Val Loss: 0.7461, Val Accuracy: 0.7404
+Epoch 7/40 - 2024-10-29 23:13:30.422555
+Train Loss: 0.6624, Val Loss: 0.7513, Val Accuracy: 0.7362
+Epoch 8/40 - 2024-10-29 23:13:51.536660
+Train Loss: 0.5928, Val Loss: 0.6703, Val Accuracy: 0.7678
+Epoch 9/40 - 2024-10-29 23:14:12.388337
+Train Loss: 0.5349, Val Loss: 0.7011, Val Accuracy: 0.7628
+Epoch 10/40 - 2024-10-29 23:14:33.032633
+Train Loss: 0.4834, Val Loss: 0.6349, Val Accuracy: 0.7802
+Epoch 11/40 - 2024-10-29 23:14:53.716474
+Train Loss: 0.4347, Val Loss: 0.6057, Val Accuracy: 0.7950
+Epoch 12/40 - 2024-10-29 23:15:14.375291
+Train Loss: 0.2713, Val Loss: 0.5073, Val Accuracy: 0.8308
+Epoch 13/40 - 2024-10-29 23:15:35.065571
+Train Loss: 0.2247, Val Loss: 0.5030, Val Accuracy: 0.8356
+Epoch 14/40 - 2024-10-29 23:15:55.767912
+Train Loss: 0.2204, Val Loss: 0.5026, Val Accuracy: 0.8344
+Epoch 15/40 - 2024-10-29 23:16:16.421434
+Train Loss: 0.2154, Val Loss: 0.5069, Val Accuracy: 0.8370
+Epoch 16/40 - 2024-10-29 23:16:37.122351
+Train Loss: 0.2128, Val Loss: 0.5033, Val Accuracy: 0.8362
+Epoch 17/40 - 2024-10-29 23:16:57.783488
+Train Loss: 0.2081, Val Loss: 0.5091, Val Accuracy: 0.8352
+Epoch 18/40 - 2024-10-29 23:17:18.414254
+Train Loss: 0.2061, Val Loss: 0.5095, Val Accuracy: 0.8334
+Epoch 19/40 - 2024-10-29 23:17:39.074519
+Train Loss: 0.2031, Val Loss: 0.5096, Val Accuracy: 0.8346
+Epoch 20/40 - 2024-10-29 23:17:59.758250
+Train Loss: 0.2011, Val Loss: 0.5122, Val Accuracy: 0.8344
+Epoch 21/40 - 2024-10-29 23:18:20.428149
+Train Loss: 0.1980, Val Loss: 0.5141, Val Accuracy: 0.8356
+Epoch 22/40 - 2024-10-29 23:18:41.145056
+Train Loss: 0.1958, Val Loss: 0.5172, Val Accuracy: 0.8338
+Early stopping at epoch 22
+Final Test Accuracy: 0.8262 - 2024-10-29 23:19:03.532617
+
+
+--- New Trial ---
+Trial 3 - 2024-10-29 23:19:03.587494
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.11032830118763605, weight_decay=2.288430429199579e-05, batch_size=128, scheduler_lr1=0.9119655213395428, scheduler_lr2=0.08782351632142352, scheduler_lr3=0.008501893608980376, scheduler_lr4=0.006685727963326962, scheduler_epoch1=12, scheduler_epoch2=13, , scheduler_epoch3=15
+Epoch 1/40 - 2024-10-29 23:19:03.587653
+Train Loss: 1.8075, Val Loss: 1.5276, Val Accuracy: 0.4584
+Epoch 2/40 - 2024-10-29 23:19:24.392323
+Train Loss: 1.2902, Val Loss: 1.2060, Val Accuracy: 0.5660
+Epoch 3/40 - 2024-10-29 23:19:45.093113
+Train Loss: 1.0844, Val Loss: 0.9572, Val Accuracy: 0.6586
+Epoch 4/40 - 2024-10-29 23:20:05.803079
+Train Loss: 0.9491, Val Loss: 0.9332, Val Accuracy: 0.6616
+Epoch 5/40 - 2024-10-29 23:20:26.510885
+Train Loss: 0.8503, Val Loss: 0.8586, Val Accuracy: 0.7000
+Epoch 6/40 - 2024-10-29 23:20:47.208663
+Train Loss: 0.7698, Val Loss: 0.7874, Val Accuracy: 0.7206
+Epoch 7/40 - 2024-10-29 23:21:07.900858
+Train Loss: 0.6848, Val Loss: 0.6974, Val Accuracy: 0.7582
+Epoch 8/40 - 2024-10-29 23:21:28.603737
+Train Loss: 0.6220, Val Loss: 0.9957, Val Accuracy: 0.6822
+Epoch 9/40 - 2024-10-29 23:21:49.329352
+Train Loss: 0.5652, Val Loss: 0.7711, Val Accuracy: 0.7414
+Epoch 10/40 - 2024-10-29 23:22:10.041741
+Train Loss: 0.5184, Val Loss: 0.6453, Val Accuracy: 0.7792
+Epoch 11/40 - 2024-10-29 23:22:30.777521
+Train Loss: 0.4738, Val Loss: 0.6783, Val Accuracy: 0.7702
+Epoch 12/40 - 2024-10-29 23:22:51.501819
+Train Loss: 0.4313, Val Loss: 0.5966, Val Accuracy: 0.7894
+Epoch 13/40 - 2024-10-29 23:23:12.130403
+Train Loss: 0.2722, Val Loss: 0.4888, Val Accuracy: 0.8314
+Epoch 14/40 - 2024-10-29 23:23:32.883513
+Train Loss: 0.2224, Val Loss: 0.4877, Val Accuracy: 0.8336
+Epoch 15/40 - 2024-10-29 23:23:53.589099
+Train Loss: 0.2159, Val Loss: 0.4897, Val Accuracy: 0.8312
+Epoch 16/40 - 2024-10-29 23:24:14.313296
+Train Loss: 0.2138, Val Loss: 0.4921, Val Accuracy: 0.8320
+Epoch 17/40 - 2024-10-29 23:24:35.049392
+Train Loss: 0.2092, Val Loss: 0.4937, Val Accuracy: 0.8322
+Epoch 18/40 - 2024-10-29 23:24:55.671388
+Train Loss: 0.2066, Val Loss: 0.4941, Val Accuracy: 0.8296
+Epoch 19/40 - 2024-10-29 23:25:16.305778
+Train Loss: 0.2056, Val Loss: 0.4943, Val Accuracy: 0.8308
+Epoch 20/40 - 2024-10-29 23:25:36.937236
+Train Loss: 0.2012, Val Loss: 0.4965, Val Accuracy: 0.8320
+Epoch 21/40 - 2024-10-29 23:25:57.524086
+Train Loss: 0.2003, Val Loss: 0.5008, Val Accuracy: 0.8316
+Epoch 22/40 - 2024-10-29 23:26:18.189310
+Train Loss: 0.1977, Val Loss: 0.4987, Val Accuracy: 0.8296
+Early stopping at epoch 22
+Final Test Accuracy: 0.8343 - 2024-10-29 23:26:40.536229
+
+
+--- New Trial ---
+Trial 4 - 2024-10-29 23:26:40.592901
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09083442727802134, weight_decay=0.0013814446938496083, batch_size=128, scheduler_lr1=0.9819993783149824, scheduler_lr2=0.09912955849625159, scheduler_lr3=0.00862931474451939, scheduler_lr4=0.006342789210740259, scheduler_epoch1=4, scheduler_epoch2=15, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-29 23:26:40.593019
+Train Loss: 1.7373, Val Loss: 1.4756, Val Accuracy: 0.4534
+Epoch 2/40 - 2024-10-29 23:27:01.336445
+Train Loss: 1.2491, Val Loss: 1.6119, Val Accuracy: 0.4700
+Epoch 3/40 - 2024-10-29 23:27:22.011151
+Train Loss: 1.0160, Val Loss: 1.0836, Val Accuracy: 0.6078
+Epoch 4/40 - 2024-10-29 23:27:42.611467
+Train Loss: 0.8978, Val Loss: 1.2781, Val Accuracy: 0.5330
+Epoch 5/40 - 2024-10-29 23:28:03.217776
+Train Loss: 0.6530, Val Loss: 0.6089, Val Accuracy: 0.7862
+Epoch 6/40 - 2024-10-29 23:28:23.829232
+Train Loss: 0.5799, Val Loss: 0.5952, Val Accuracy: 0.7898
+Epoch 7/40 - 2024-10-29 23:28:44.431220
+Train Loss: 0.5466, Val Loss: 0.5896, Val Accuracy: 0.7910
+Epoch 8/40 - 2024-10-29 23:29:05.067621
+Train Loss: 0.5196, Val Loss: 0.6254, Val Accuracy: 0.7834
+Epoch 9/40 - 2024-10-29 23:29:25.666213
+Train Loss: 0.4954, Val Loss: 0.6995, Val Accuracy: 0.7560
+Epoch 10/40 - 2024-10-29 23:29:46.241673
+Train Loss: 0.4737, Val Loss: 0.6429, Val Accuracy: 0.7728
+Epoch 11/40 - 2024-10-29 23:30:06.869530
+Train Loss: 0.4516, Val Loss: 0.7153, Val Accuracy: 0.7606
+Epoch 12/40 - 2024-10-29 23:30:27.550183
+Train Loss: 0.4366, Val Loss: 0.6697, Val Accuracy: 0.7708
+Epoch 13/40 - 2024-10-29 23:30:48.228694
+Train Loss: 0.4177, Val Loss: 0.7951, Val Accuracy: 0.7446
+Epoch 14/40 - 2024-10-29 23:31:08.866058
+Train Loss: 0.4028, Val Loss: 0.6337, Val Accuracy: 0.7840
+Epoch 15/40 - 2024-10-29 23:31:29.519641
+Train Loss: 0.3797, Val Loss: 0.8275, Val Accuracy: 0.7382
+Early stopping at epoch 15
+Final Test Accuracy: 0.7370 - 2024-10-29 23:31:51.850014
+
+
+--- New Trial ---
+Trial 5 - 2024-10-29 23:31:51.901573
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08627146629079858, weight_decay=1.4148509005926598e-05, batch_size=128, scheduler_lr1=0.8645268578634245, scheduler_lr2=0.0850374671516517, scheduler_lr3=0.008279375145769673, scheduler_lr4=0.006967939303233612, scheduler_epoch1=9, scheduler_epoch2=11, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-29 23:31:51.901709
+Train Loss: 1.6834, Val Loss: 1.4798, Val Accuracy: 0.4512
+Epoch 2/40 - 2024-10-29 23:32:12.714952
+Train Loss: 1.1889, Val Loss: 1.1730, Val Accuracy: 0.5760
+Epoch 3/40 - 2024-10-29 23:32:33.342735
+Train Loss: 0.9666, Val Loss: 1.0494, Val Accuracy: 0.6424
+Epoch 4/40 - 2024-10-29 23:32:54.023211
+Train Loss: 0.8146, Val Loss: 0.8405, Val Accuracy: 0.6952
+Epoch 5/40 - 2024-10-29 23:33:14.682319
+Train Loss: 0.6956, Val Loss: 0.7460, Val Accuracy: 0.7346
+Epoch 6/40 - 2024-10-29 23:33:35.283169
+Train Loss: 0.6077, Val Loss: 0.6243, Val Accuracy: 0.7780
+Epoch 7/40 - 2024-10-29 23:33:55.889894
+Train Loss: 0.5392, Val Loss: 0.6310, Val Accuracy: 0.7696
+Epoch 8/40 - 2024-10-29 23:34:16.461933
+Train Loss: 0.4837, Val Loss: 0.5805, Val Accuracy: 0.8018
+Epoch 9/40 - 2024-10-29 23:34:37.061300
+Train Loss: 0.4320, Val Loss: 0.5996, Val Accuracy: 0.8000
+Epoch 10/40 - 2024-10-29 23:34:57.657096
+Train Loss: 0.2694, Val Loss: 0.4840, Val Accuracy: 0.8406
+Epoch 11/40 - 2024-10-29 23:35:18.245231
+Train Loss: 0.2176, Val Loss: 0.4899, Val Accuracy: 0.8428
+Epoch 12/40 - 2024-10-29 23:35:38.917840
+Train Loss: 0.1921, Val Loss: 0.4893, Val Accuracy: 0.8456
+Epoch 13/40 - 2024-10-29 23:35:59.546239
+Train Loss: 0.1876, Val Loss: 0.4897, Val Accuracy: 0.8442
+Epoch 14/40 - 2024-10-29 23:36:20.118623
+Train Loss: 0.1846, Val Loss: 0.4912, Val Accuracy: 0.8454
+Epoch 15/40 - 2024-10-29 23:36:40.732334
+Train Loss: 0.1824, Val Loss: 0.4909, Val Accuracy: 0.8456
+Epoch 16/40 - 2024-10-29 23:37:01.417622
+Train Loss: 0.1805, Val Loss: 0.4949, Val Accuracy: 0.8450
+Epoch 17/40 - 2024-10-29 23:37:22.154091
+Train Loss: 0.1756, Val Loss: 0.4980, Val Accuracy: 0.8446
+Epoch 18/40 - 2024-10-29 23:37:42.961382
+Train Loss: 0.1746, Val Loss: 0.4977, Val Accuracy: 0.8432
+Early stopping at epoch 18
+Final Test Accuracy: 0.8380 - 2024-10-29 23:38:05.395021
+
+
+--- New Trial ---
+Trial 6 - 2024-10-29 23:38:05.455664
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06686059295951463, weight_decay=0.0015450339335378585, batch_size=128, scheduler_lr1=0.8959547049875924, scheduler_lr2=0.0991574681345244, scheduler_lr3=0.008759036319274157, scheduler_lr4=0.007211900138868797, scheduler_epoch1=8, scheduler_epoch2=21, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-29 23:38:05.455765
+Train Loss: 1.6556, Val Loss: 1.3597, Val Accuracy: 0.5004
+Epoch 2/40 - 2024-10-29 23:38:26.280477
+Train Loss: 1.1834, Val Loss: 1.1157, Val Accuracy: 0.6056
+Epoch 3/40 - 2024-10-29 23:38:46.990831
+Train Loss: 0.9995, Val Loss: 1.1949, Val Accuracy: 0.5620
+Trial 6 pruned at epoch 3
+
+
+--- New Trial ---
+Trial 7 - 2024-10-29 23:39:07.711129
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.10645950517309068, weight_decay=8.732045171651545e-05, batch_size=128, scheduler_lr1=0.8469591538411362, scheduler_lr2=0.09568281422329726, scheduler_lr3=0.00915457016318858, scheduler_lr4=0.007811296304197666, scheduler_epoch1=4, scheduler_epoch2=12, , scheduler_epoch3=28
+Epoch 1/40 - 2024-10-29 23:39:07.711254
+Train Loss: 2.0322, Val Loss: 1.7591, Val Accuracy: 0.3494
+Trial 7 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 8 - 2024-10-29 23:39:27.947888
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08694425308746687, weight_decay=6.487537787591226e-06, batch_size=128, scheduler_lr1=0.9451241309998807, scheduler_lr2=0.09273778414338715, scheduler_lr3=0.008913390023988166, scheduler_lr4=0.006959783007814246, scheduler_epoch1=7, scheduler_epoch2=11, , scheduler_epoch3=14
+Epoch 1/40 - 2024-10-29 23:39:27.948042
+Train Loss: 2.1013, Val Loss: 1.7529, Val Accuracy: 0.3416
+Trial 8 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 9 - 2024-10-29 23:39:48.768104
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.13664340912023007, weight_decay=1.3874597060397687e-05, batch_size=128, scheduler_lr1=0.8809828231035327, scheduler_lr2=0.08956447749809747, scheduler_lr3=0.009225124556444928, scheduler_lr4=0.006947773686177387, scheduler_epoch1=14, scheduler_epoch2=17, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-29 23:39:48.768225
+Train Loss: 2.1420, Val Loss: 2.1146, Val Accuracy: 0.2554
+Trial 9 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 10 - 2024-10-29 23:40:09.565031
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.05417176376795045, weight_decay=1.1073672967807617e-06, batch_size=128, scheduler_lr1=0.8061249626937045, scheduler_lr2=0.08240269924989073, scheduler_lr3=0.008070562313979068, scheduler_lr4=0.007614237612692194, scheduler_epoch1=15, scheduler_epoch2=19, , scheduler_epoch3=30
+Epoch 1/40 - 2024-10-29 23:40:09.565160
+Train Loss: 2.0842, Val Loss: 1.7176, Val Accuracy: 0.3690
+Trial 10 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 11 - 2024-10-29 23:40:29.746717
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10835631382014636, weight_decay=3.238137021799697e-05, batch_size=128, scheduler_lr1=0.8616099906047622, scheduler_lr2=0.08560686167648635, scheduler_lr3=0.008263030953899539, scheduler_lr4=0.006129799645540854, scheduler_epoch1=12, scheduler_epoch2=15, , scheduler_epoch3=19
+Epoch 1/40 - 2024-10-29 23:40:29.746807
+Train Loss: 1.9367, Val Loss: 1.6688, Val Accuracy: 0.3920
+Trial 11 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 12 - 2024-10-29 23:40:50.482206
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.11805115888922658, weight_decay=2.797657902841553e-06, batch_size=128, scheduler_lr1=0.8292562520465836, scheduler_lr2=0.08635780197383901, scheduler_lr3=0.00830812351590862, scheduler_lr4=0.006689435970580719, scheduler_epoch1=6, scheduler_epoch2=8, , scheduler_epoch3=9
+Epoch 1/40 - 2024-10-29 23:40:50.482301
+Train Loss: 1.8805, Val Loss: 1.6229, Val Accuracy: 0.4226
+Trial 12 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 13 - 2024-10-29 23:41:11.292898
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07767819052839046, weight_decay=3.706976000930517e-05, batch_size=128, scheduler_lr1=0.8939650632814979, scheduler_lr2=0.08667267730604925, scheduler_lr3=0.008003931469297591, scheduler_lr4=0.00741184098361245, scheduler_epoch1=13, scheduler_epoch2=16, , scheduler_epoch3=21
+Epoch 1/40 - 2024-10-29 23:41:11.292988
+Train Loss: 2.0285, Val Loss: 1.7047, Val Accuracy: 0.3892
+Trial 13 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 14 - 2024-10-29 23:41:32.060611
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.0985899777080918, weight_decay=0.00045171808221690656, batch_size=128, scheduler_lr1=0.8585398466261358, scheduler_lr2=0.08879685359844428, scheduler_lr3=0.009896274477734758, scheduler_lr4=0.006710800945997886, scheduler_epoch1=10, scheduler_epoch2=13, , scheduler_epoch3=18
+Epoch 1/40 - 2024-10-29 23:41:32.060747
+Train Loss: 2.1405, Val Loss: 1.7647, Val Accuracy: 0.3110
+Trial 14 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 15 - 2024-10-29 23:41:52.164836
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06562038085952257, weight_decay=0.005214337817910494, batch_size=128, scheduler_lr1=0.9218921919481752, scheduler_lr2=0.08414113459541038, scheduler_lr3=0.00840913764574423, scheduler_lr4=0.0067681169377460755, scheduler_epoch1=9, scheduler_epoch2=10, , scheduler_epoch3=15
+Epoch 1/40 - 2024-10-29 23:41:52.164958
+Train Loss: 1.6252, Val Loss: 2.2000, Val Accuracy: 0.2664
+Trial 15 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 16 - 2024-10-29 23:42:12.969222
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.12280997299472264, weight_decay=2.582316163451692e-05, batch_size=128, scheduler_lr1=0.9986285456176172, scheduler_lr2=0.08961002073676372, scheduler_lr3=0.008184490556679285, scheduler_lr4=0.0060397343675065215, scheduler_epoch1=6, scheduler_epoch2=8, , scheduler_epoch3=10
+Epoch 1/40 - 2024-10-29 23:42:12.969352
+Train Loss: 2.1862, Val Loss: 1.9183, Val Accuracy: 0.3196
+Trial 16 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 17 - 2024-10-29 23:42:33.716081
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09805872415005132, weight_decay=8.054582293247163e-06, batch_size=128, scheduler_lr1=0.8281704174546284, scheduler_lr2=0.08313593493911609, scheduler_lr3=0.008485415665001786, scheduler_lr4=0.007254339154898621, scheduler_epoch1=13, scheduler_epoch2=18, , scheduler_epoch3=35
+Epoch 1/40 - 2024-10-29 23:42:33.716213
+Train Loss: 1.7832, Val Loss: 1.4113, Val Accuracy: 0.4782
+Epoch 2/40 - 2024-10-29 23:42:54.393993
+Train Loss: 1.2551, Val Loss: 1.1157, Val Accuracy: 0.5994
+Epoch 3/40 - 2024-10-29 23:43:15.055604
+Train Loss: 1.0002, Val Loss: 0.9835, Val Accuracy: 0.6424
+Epoch 4/40 - 2024-10-29 23:43:35.690558
+Train Loss: 0.8449, Val Loss: 0.8294, Val Accuracy: 0.7084
+Epoch 5/40 - 2024-10-29 23:43:56.306935
+Train Loss: 0.7300, Val Loss: 0.7112, Val Accuracy: 0.7554
+Epoch 6/40 - 2024-10-29 23:44:16.864510
+Train Loss: 0.6376, Val Loss: 0.6577, Val Accuracy: 0.7668
+Epoch 7/40 - 2024-10-29 23:44:37.417812
+Train Loss: 0.5599, Val Loss: 0.6739, Val Accuracy: 0.7720
+Epoch 8/40 - 2024-10-29 23:44:58.020787
+Train Loss: 0.4959, Val Loss: 0.6763, Val Accuracy: 0.7716
+Epoch 9/40 - 2024-10-29 23:45:18.652921
+Train Loss: 0.4485, Val Loss: 0.6642, Val Accuracy: 0.7794
+Epoch 10/40 - 2024-10-29 23:45:39.234241
+Train Loss: 0.3985, Val Loss: 0.5779, Val Accuracy: 0.8002
+Epoch 11/40 - 2024-10-29 23:45:59.843876
+Train Loss: 0.3559, Val Loss: 0.7003, Val Accuracy: 0.7828
+Epoch 12/40 - 2024-10-29 23:46:20.479468
+Train Loss: 0.3176, Val Loss: 0.6391, Val Accuracy: 0.7990
+Trial 17 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 18 - 2024-10-29 23:46:41.151689
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.11415362828425127, weight_decay=2.1312625366756747e-06, batch_size=128, scheduler_lr1=0.8734407067535204, scheduler_lr2=0.08019287192997063, scheduler_lr3=0.00862717740005028, scheduler_lr4=0.007974647290545854, scheduler_epoch1=11, scheduler_epoch2=14, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-29 23:46:41.151816
+Train Loss: 2.2793, Val Loss: 1.9412, Val Accuracy: 0.2794
+Trial 18 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 19 - 2024-10-29 23:47:01.223203
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07322672011335116, weight_decay=5.8588919695577354e-05, batch_size=128, scheduler_lr1=0.9137681657751158, scheduler_lr2=0.08756188899289737, scheduler_lr3=0.009026949687142509, scheduler_lr4=0.006538961172336774, scheduler_epoch1=15, scheduler_epoch2=20, , scheduler_epoch3=31
+Epoch 1/40 - 2024-10-29 23:47:01.223331
+Train Loss: 1.7268, Val Loss: 1.4424, Val Accuracy: 0.4778
+Epoch 2/40 - 2024-10-29 23:47:21.855611
+Train Loss: 1.2323, Val Loss: 1.0794, Val Accuracy: 0.6104
+Epoch 3/40 - 2024-10-29 23:47:42.501021
+Train Loss: 0.9758, Val Loss: 1.0326, Val Accuracy: 0.6366
+Epoch 4/40 - 2024-10-29 23:48:03.119926
+Train Loss: 0.8157, Val Loss: 0.8153, Val Accuracy: 0.7086
+Epoch 5/40 - 2024-10-29 23:48:23.725425
+Train Loss: 0.6938, Val Loss: 0.7401, Val Accuracy: 0.7430
+Epoch 6/40 - 2024-10-29 23:48:44.412902
+Train Loss: 0.6154, Val Loss: 0.7292, Val Accuracy: 0.7418
+Epoch 7/40 - 2024-10-29 23:49:05.128825
+Train Loss: 0.5473, Val Loss: 0.6375, Val Accuracy: 0.7768
+Epoch 8/40 - 2024-10-29 23:49:25.673555
+Train Loss: 0.4826, Val Loss: 0.6135, Val Accuracy: 0.7900
+Epoch 9/40 - 2024-10-29 23:49:46.299624
+Train Loss: 0.4386, Val Loss: 0.6133, Val Accuracy: 0.7846
+Epoch 10/40 - 2024-10-29 23:50:06.932563
+Train Loss: 0.3994, Val Loss: 0.5563, Val Accuracy: 0.8050
+Epoch 11/40 - 2024-10-29 23:50:27.529063
+Train Loss: 0.3560, Val Loss: 0.5601, Val Accuracy: 0.8078
+Epoch 12/40 - 2024-10-29 23:50:48.148544
+Train Loss: 0.3212, Val Loss: 0.5914, Val Accuracy: 0.8062
+Trial 19 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 20 - 2024-10-29 23:51:08.866060
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05574327341976519, weight_decay=0.00034433941054985576, batch_size=128, scheduler_lr1=0.8352632264030283, scheduler_lr2=0.09098736889457466, scheduler_lr3=0.009406166146605086, scheduler_lr4=0.006878213135784479, scheduler_epoch1=8, scheduler_epoch2=10, , scheduler_epoch3=15
+Epoch 1/40 - 2024-10-29 23:51:08.866201
+Train Loss: 1.5664, Val Loss: 1.1978, Val Accuracy: 0.5640
+Epoch 2/40 - 2024-10-29 23:51:29.495372
+Train Loss: 1.0971, Val Loss: 0.9856, Val Accuracy: 0.6508
+Epoch 3/40 - 2024-10-29 23:51:50.128070
+Train Loss: 0.9155, Val Loss: 1.2460, Val Accuracy: 0.5930
+Epoch 4/40 - 2024-10-29 23:52:10.719681
+Train Loss: 0.7898, Val Loss: 0.8124, Val Accuracy: 0.6994
+Epoch 5/40 - 2024-10-29 23:52:31.333244
+Train Loss: 0.7042, Val Loss: 0.7386, Val Accuracy: 0.7412
+Epoch 6/40 - 2024-10-29 23:52:51.892596
+Train Loss: 0.6410, Val Loss: 0.8366, Val Accuracy: 0.7032
+Epoch 7/40 - 2024-10-29 23:53:12.485181
+Train Loss: 0.5900, Val Loss: 0.6577, Val Accuracy: 0.7718
+Epoch 8/40 - 2024-10-29 23:53:33.048321
+Train Loss: 0.5379, Val Loss: 0.6863, Val Accuracy: 0.7604
+Epoch 9/40 - 2024-10-29 23:53:53.680251
+Train Loss: 0.3607, Val Loss: 0.4804, Val Accuracy: 0.8338
+Epoch 10/40 - 2024-10-29 23:54:14.258130
+Train Loss: 0.3013, Val Loss: 0.4862, Val Accuracy: 0.8314
+Epoch 11/40 - 2024-10-29 23:54:34.867894
+Train Loss: 0.2643, Val Loss: 0.4708, Val Accuracy: 0.8364
+Epoch 12/40 - 2024-10-29 23:54:55.458011
+Train Loss: 0.2595, Val Loss: 0.4698, Val Accuracy: 0.8380
+Epoch 13/40 - 2024-10-29 23:55:16.081724
+Train Loss: 0.2542, Val Loss: 0.4716, Val Accuracy: 0.8380
+Epoch 14/40 - 2024-10-29 23:55:36.701749
+Train Loss: 0.2491, Val Loss: 0.4737, Val Accuracy: 0.8362
+Epoch 15/40 - 2024-10-29 23:55:57.290552
+Train Loss: 0.2446, Val Loss: 0.4743, Val Accuracy: 0.8362
+Epoch 16/40 - 2024-10-29 23:56:17.899857
+Train Loss: 0.2423, Val Loss: 0.4758, Val Accuracy: 0.8362
+Epoch 17/40 - 2024-10-29 23:56:38.536463
+Train Loss: 0.2374, Val Loss: 0.4749, Val Accuracy: 0.8372
+Epoch 18/40 - 2024-10-29 23:56:59.151446
+Train Loss: 0.2375, Val Loss: 0.4755, Val Accuracy: 0.8398
+Epoch 19/40 - 2024-10-29 23:57:19.736104
+Train Loss: 0.2345, Val Loss: 0.4752, Val Accuracy: 0.8376
+Epoch 20/40 - 2024-10-29 23:57:40.327452
+Train Loss: 0.2302, Val Loss: 0.4777, Val Accuracy: 0.8382
+Early stopping at epoch 20
+Final Test Accuracy: 0.8395 - 2024-10-29 23:58:02.514049
+
+
+--- New Trial ---
+Trial 21 - 2024-10-29 23:58:02.584933
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05233461871749263, weight_decay=0.00035016563718879055, batch_size=128, scheduler_lr1=0.8318249207449795, scheduler_lr2=0.09140273779678605, scheduler_lr3=0.009730227761040685, scheduler_lr4=0.0068196862709369605, scheduler_epoch1=8, scheduler_epoch2=10, , scheduler_epoch3=15
+Epoch 1/40 - 2024-10-29 23:58:02.585035
+Train Loss: 1.6132, Val Loss: 1.3696, Val Accuracy: 0.5056
+Epoch 2/40 - 2024-10-29 23:58:23.131065
+Train Loss: 1.1258, Val Loss: 0.9755, Val Accuracy: 0.6460
+Epoch 3/40 - 2024-10-29 23:58:43.659258
+Train Loss: 0.9443, Val Loss: 0.8875, Val Accuracy: 0.6866
+Epoch 4/40 - 2024-10-29 23:59:04.237612
+Train Loss: 0.8069, Val Loss: 0.8367, Val Accuracy: 0.7022
+Epoch 5/40 - 2024-10-29 23:59:24.818151
+Train Loss: 0.7226, Val Loss: 0.7656, Val Accuracy: 0.7350
+Epoch 6/40 - 2024-10-29 23:59:45.414738
+Train Loss: 0.6590, Val Loss: 0.7643, Val Accuracy: 0.7392
+Epoch 7/40 - 2024-10-30 00:00:06.052976
+Train Loss: 0.6012, Val Loss: 0.6715, Val Accuracy: 0.7654
+Epoch 8/40 - 2024-10-30 00:00:26.674995
+Train Loss: 0.5629, Val Loss: 0.7521, Val Accuracy: 0.7444
+Trial 21 pruned at epoch 8
+
+
+--- New Trial ---
+Trial 22 - 2024-10-30 00:00:47.360683
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.062119478813004884, weight_decay=0.00046220805730381683, batch_size=128, scheduler_lr1=0.8093943131545029, scheduler_lr2=0.09096067604701406, scheduler_lr3=0.009424570743982884, scheduler_lr4=0.007047405381716129, scheduler_epoch1=10, scheduler_epoch2=13, , scheduler_epoch3=18
+Epoch 1/40 - 2024-10-30 00:00:47.360838
+Train Loss: 1.6069, Val Loss: 1.4817, Val Accuracy: 0.4632
+Epoch 2/40 - 2024-10-30 00:01:07.981961
+Train Loss: 1.1127, Val Loss: 0.9908, Val Accuracy: 0.6486
+Epoch 3/40 - 2024-10-30 00:01:28.584290
+Train Loss: 0.9206, Val Loss: 1.0420, Val Accuracy: 0.6456
+Epoch 4/40 - 2024-10-30 00:01:49.201504
+Train Loss: 0.8011, Val Loss: 0.7567, Val Accuracy: 0.7408
+Epoch 5/40 - 2024-10-30 00:02:09.819960
+Train Loss: 0.7213, Val Loss: 1.0178, Val Accuracy: 0.6548
+Epoch 6/40 - 2024-10-30 00:02:30.418012
+Train Loss: 0.6507, Val Loss: 0.7027, Val Accuracy: 0.7604
+Epoch 7/40 - 2024-10-30 00:02:50.984531
+Train Loss: 0.6036, Val Loss: 0.8133, Val Accuracy: 0.7308
+Epoch 8/40 - 2024-10-30 00:03:11.573752
+Train Loss: 0.5618, Val Loss: 0.6925, Val Accuracy: 0.7598
+Trial 22 pruned at epoch 8
+
+
+--- New Trial ---
+Trial 23 - 2024-10-30 00:03:32.249310
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07482526715305975, weight_decay=1.7206752765618524e-05, batch_size=128, scheduler_lr1=0.8393267777588383, scheduler_lr2=0.08438146520848484, scheduler_lr3=0.009505119031965395, scheduler_lr4=0.006275314968906089, scheduler_epoch1=6, scheduler_epoch2=9, , scheduler_epoch3=12
+Epoch 1/40 - 2024-10-30 00:03:32.249420
+Train Loss: 1.7663, Val Loss: 1.4451, Val Accuracy: 0.4692
+Epoch 2/40 - 2024-10-30 00:03:52.895255
+Train Loss: 1.2971, Val Loss: 1.3762, Val Accuracy: 0.5276
+Epoch 3/40 - 2024-10-30 00:04:13.500804
+Train Loss: 1.0684, Val Loss: 1.0245, Val Accuracy: 0.6334
+Epoch 4/40 - 2024-10-30 00:04:34.126349
+Train Loss: 0.8886, Val Loss: 0.8420, Val Accuracy: 0.6942
+Epoch 5/40 - 2024-10-30 00:04:54.744062
+Train Loss: 0.7703, Val Loss: 0.8108, Val Accuracy: 0.7168
+Trial 23 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 24 - 2024-10-30 00:05:15.423646
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09361615457750538, weight_decay=0.0002464161208038384, batch_size=128, scheduler_lr1=0.8571922341098813, scheduler_lr2=0.08781210157438846, scheduler_lr3=0.008913185880879177, scheduler_lr4=0.006585564271750001, scheduler_epoch1=8, scheduler_epoch2=11, , scheduler_epoch3=17
+Epoch 1/40 - 2024-10-30 00:05:15.423784
+Train Loss: 1.9225, Val Loss: 1.5499, Val Accuracy: 0.4234
+Trial 24 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 25 - 2024-10-30 00:05:36.119562
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.1313941778741876, weight_decay=0.0010501842388511648, batch_size=128, scheduler_lr1=0.8861342815246108, scheduler_lr2=0.0851012816983428, scheduler_lr3=0.00929174443789302, scheduler_lr4=0.007386620747338955, scheduler_epoch1=10, scheduler_epoch2=13, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-30 00:05:36.119691
+Train Loss: 2.1766, Val Loss: 1.8667, Val Accuracy: 0.3198
+Trial 25 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 26 - 2024-10-30 00:05:56.853772
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.10517852281244675, weight_decay=6.31613214517252e-05, batch_size=128, scheduler_lr1=0.8165475023075356, scheduler_lr2=0.0914923432125622, scheduler_lr3=0.008235035662848458, scheduler_lr4=0.007048289240439964, scheduler_epoch1=7, scheduler_epoch2=10, , scheduler_epoch3=20
+Epoch 1/40 - 2024-10-30 00:05:56.853904
+Train Loss: 2.2305, Val Loss: 1.9200, Val Accuracy: 0.2666
+Trial 26 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 27 - 2024-10-30 00:06:16.868429
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08221106815594806, weight_decay=0.0032687147936083356, batch_size=128, scheduler_lr1=0.8733265746839203, scheduler_lr2=0.09351530957298236, scheduler_lr3=0.009633400137490282, scheduler_lr4=0.006839314224296057, scheduler_epoch1=5, scheduler_epoch2=7, , scheduler_epoch3=12
+Epoch 1/40 - 2024-10-30 00:06:16.868615
+Train Loss: 1.9148, Val Loss: 1.8959, Val Accuracy: 0.3318
+Trial 27 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 28 - 2024-10-30 00:06:37.565464
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.1115838890262496, weight_decay=1.212436250304507e-05, batch_size=128, scheduler_lr1=0.9099506746794475, scheduler_lr2=0.08215014136565736, scheduler_lr3=0.008126830595841301, scheduler_lr4=0.0066315330985690975, scheduler_epoch1=12, scheduler_epoch2=15, , scheduler_epoch3=28
+Epoch 1/40 - 2024-10-30 00:06:37.565584
+Train Loss: 1.6918, Val Loss: 1.5294, Val Accuracy: 0.4500
+Trial 28 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 29 - 2024-10-30 00:06:58.220842
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.06071954503195695, weight_decay=0.00014641915433413576, batch_size=128, scheduler_lr1=0.9320290787147368, scheduler_lr2=0.08721368685930125, scheduler_lr3=0.008523602377308419, scheduler_lr4=0.006440835201175278, scheduler_epoch1=9, scheduler_epoch2=12, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-30 00:06:58.220956
+Train Loss: 2.0215, Val Loss: 1.7316, Val Accuracy: 0.3316
+Trial 29 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 30 - 2024-10-30 00:07:18.285493
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.12487117667935863, weight_decay=4.859645576394194e-06, batch_size=128, scheduler_lr1=0.846408385588727, scheduler_lr2=0.08128325198971775, scheduler_lr3=0.0083816273381654, scheduler_lr4=0.006885372725713175, scheduler_epoch1=3, scheduler_epoch2=4, , scheduler_epoch3=6
+Epoch 1/40 - 2024-10-30 00:07:18.285583
+Train Loss: 1.7189, Val Loss: 1.4487, Val Accuracy: 0.4724
+Epoch 2/40 - 2024-10-30 00:07:38.893411
+Train Loss: 1.2737, Val Loss: 1.1685, Val Accuracy: 0.5826
+Epoch 3/40 - 2024-10-30 00:07:59.502532
+Train Loss: 1.0706, Val Loss: 0.9945, Val Accuracy: 0.6486
+Epoch 4/40 - 2024-10-30 00:08:20.127997
+Train Loss: 0.8148, Val Loss: 0.7919, Val Accuracy: 0.7144
+Epoch 5/40 - 2024-10-30 00:08:41.111417
+Train Loss: 0.7494, Val Loss: 0.7775, Val Accuracy: 0.7176
+Trial 30 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 31 - 2024-10-30 00:09:01.808532
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14202432284268987, weight_decay=0.00013970525648415475, batch_size=128, scheduler_lr1=0.9632269637088449, scheduler_lr2=0.09442683647591643, scheduler_lr3=0.009934088730566852, scheduler_lr4=0.0064463166709189945, scheduler_epoch1=9, scheduler_epoch2=22, , scheduler_epoch3=34
+Epoch 1/40 - 2024-10-30 00:09:01.808653
+Train Loss: 1.9126, Val Loss: 1.5299, Val Accuracy: 0.4238
+Trial 31 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 32 - 2024-10-30 00:09:22.486068
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.1488082897295439, weight_decay=0.00020178022386397674, batch_size=128, scheduler_lr1=0.9553127322595012, scheduler_lr2=0.09034662793803662, scheduler_lr3=0.009440706851297326, scheduler_lr4=0.006493143190966185, scheduler_epoch1=10, scheduler_epoch2=25, , scheduler_epoch3=33
+Epoch 1/40 - 2024-10-30 00:09:22.486182
+Train Loss: 2.1607, Val Loss: 1.7553, Val Accuracy: 0.3354
+Trial 32 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 33 - 2024-10-30 00:09:43.191704
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.1296936225453022, weight_decay=4.7616746777664656e-05, batch_size=128, scheduler_lr1=0.9313404469955371, scheduler_lr2=0.09626665701072493, scheduler_lr3=0.009076986862029388, scheduler_lr4=0.006292302653820021, scheduler_epoch1=7, scheduler_epoch2=25, , scheduler_epoch3=32
+Epoch 1/40 - 2024-10-30 00:09:43.191822
+Train Loss: 1.8041, Val Loss: 1.6384, Val Accuracy: 0.4306
+Trial 33 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 34 - 2024-10-30 00:10:03.864965
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14359450487947434, weight_decay=0.0006124821769464325, batch_size=128, scheduler_lr1=0.9021313478005055, scheduler_lr2=0.09270116698776804, scheduler_lr3=0.009719190193104158, scheduler_lr4=0.007111939659544781, scheduler_epoch1=11, scheduler_epoch2=23, , scheduler_epoch3=35
+Epoch 1/40 - 2024-10-30 00:10:03.865127
+Train Loss: 1.7692, Val Loss: 1.7019, Val Accuracy: 0.3778
+Trial 34 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 35 - 2024-10-30 00:10:24.559627
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0899747820400994, weight_decay=0.00011329936725963538, batch_size=128, scheduler_lr1=0.9429977586350367, scheduler_lr2=0.08857611763698048, scheduler_lr3=0.008764067737286912, scheduler_lr4=0.006681777697098416, scheduler_epoch1=8, scheduler_epoch2=12, , scheduler_epoch3=29
+Epoch 1/40 - 2024-10-30 00:10:24.559752
+Train Loss: 1.6124, Val Loss: 1.7549, Val Accuracy: 0.4066
+Trial 35 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 36 - 2024-10-30 00:10:45.269085
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07011101455996901, weight_decay=0.0007967032019856201, batch_size=128, scheduler_lr1=0.9719194908416932, scheduler_lr2=0.09774072130965254, scheduler_lr3=0.009314364713535271, scheduler_lr4=0.006181325553193022, scheduler_epoch1=11, scheduler_epoch2=14, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-30 00:10:45.269210
+Train Loss: 1.9479, Val Loss: 1.7061, Val Accuracy: 0.3538
+Trial 36 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 37 - 2024-10-30 00:11:05.934376
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07956605898340152, weight_decay=8.19174855652987e-05, batch_size=128, scheduler_lr1=0.9269993708016585, scheduler_lr2=0.09379259188498545, scheduler_lr3=0.008670015413469718, scheduler_lr4=0.00696342764142776, scheduler_epoch1=9, scheduler_epoch2=17, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 00:11:05.934506
+Train Loss: 1.5631, Val Loss: 1.4180, Val Accuracy: 0.4784
+Epoch 2/40 - 2024-10-30 00:11:26.565423
+Train Loss: 1.1169, Val Loss: 1.0901, Val Accuracy: 0.6058
+Epoch 3/40 - 2024-10-30 00:11:47.141739
+Train Loss: 0.8897, Val Loss: 0.8919, Val Accuracy: 0.6788
+Epoch 4/40 - 2024-10-30 00:12:07.739396
+Train Loss: 0.7485, Val Loss: 0.7320, Val Accuracy: 0.7336
+Epoch 5/40 - 2024-10-30 00:12:28.314240
+Train Loss: 0.6562, Val Loss: 0.9121, Val Accuracy: 0.6946
+Epoch 6/40 - 2024-10-30 00:12:48.909885
+Train Loss: 0.5851, Val Loss: 0.6617, Val Accuracy: 0.7648
+Epoch 7/40 - 2024-10-30 00:13:09.525791
+Train Loss: 0.5233, Val Loss: 0.6568, Val Accuracy: 0.7726
+Epoch 8/40 - 2024-10-30 00:13:30.141623
+Train Loss: 0.4676, Val Loss: 0.6417, Val Accuracy: 0.7830
+Epoch 9/40 - 2024-10-30 00:13:50.775998
+Train Loss: 0.4291, Val Loss: 0.6070, Val Accuracy: 0.7952
+Epoch 10/40 - 2024-10-30 00:14:11.379812
+Train Loss: 0.2540, Val Loss: 0.5057, Val Accuracy: 0.8350
+Epoch 11/40 - 2024-10-30 00:14:31.979789
+Train Loss: 0.1975, Val Loss: 0.5237, Val Accuracy: 0.8324
+Epoch 12/40 - 2024-10-30 00:14:52.563530
+Train Loss: 0.1681, Val Loss: 0.5398, Val Accuracy: 0.8302
+Epoch 13/40 - 2024-10-30 00:15:13.115945
+Train Loss: 0.1451, Val Loss: 0.5661, Val Accuracy: 0.8312
+Epoch 14/40 - 2024-10-30 00:15:33.728359
+Train Loss: 0.1262, Val Loss: 0.5874, Val Accuracy: 0.8246
+Epoch 15/40 - 2024-10-30 00:15:54.325162
+Train Loss: 0.1078, Val Loss: 0.6288, Val Accuracy: 0.8284
+Trial 37 pruned at epoch 15
+
+
+--- New Trial ---
+Trial 38 - 2024-10-30 00:16:14.993630
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.05777579760114905, weight_decay=2.241693906291399e-05, batch_size=128, scheduler_lr1=0.9040656766035736, scheduler_lr2=0.09533275556454883, scheduler_lr3=0.008824289808982139, scheduler_lr4=0.007266543937085795, scheduler_epoch1=12, scheduler_epoch2=24, , scheduler_epoch3=28
+Epoch 1/40 - 2024-10-30 00:16:14.993760
+Train Loss: 1.9819, Val Loss: 1.6281, Val Accuracy: 0.4096
+Trial 38 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 39 - 2024-10-30 00:16:34.984743
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10227680311768413, weight_decay=0.0017212337021274132, batch_size=128, scheduler_lr1=0.8693858903261741, scheduler_lr2=0.0922287259290316, scheduler_lr3=0.009550066597751252, scheduler_lr4=0.006354436198268279, scheduler_epoch1=7, scheduler_epoch2=11, , scheduler_epoch3=16
+Epoch 1/40 - 2024-10-30 00:16:34.984923
+Train Loss: 3.6527, Val Loss: 2.3278, Val Accuracy: 0.1660
+Trial 39 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 40 - 2024-10-30 00:16:55.678657
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.13606927248912942, weight_decay=0.00023498047411339324, batch_size=128, scheduler_lr1=0.9397860849972504, scheduler_lr2=0.09784700397874826, scheduler_lr3=0.009155460864706267, scheduler_lr4=0.006549141966232083, scheduler_epoch1=8, scheduler_epoch2=21, , scheduler_epoch3=27
+Epoch 1/40 - 2024-10-30 00:16:55.678781
+Train Loss: 1.6697, Val Loss: 1.5365, Val Accuracy: 0.4604
+Epoch 2/40 - 2024-10-30 00:17:16.293348
+Train Loss: 1.2124, Val Loss: 1.0529, Val Accuracy: 0.6192
+Epoch 3/40 - 2024-10-30 00:17:36.879869
+Train Loss: 1.0149, Val Loss: 0.8689, Val Accuracy: 0.6878
+Epoch 4/40 - 2024-10-30 00:17:57.479742
+Train Loss: 0.8616, Val Loss: 1.0645, Val Accuracy: 0.6228
+Epoch 5/40 - 2024-10-30 00:18:18.004894
+Train Loss: 0.7816, Val Loss: 0.8493, Val Accuracy: 0.6972
+Trial 40 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 41 - 2024-10-30 00:18:38.680900
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08255991532962116, weight_decay=3.504718003317702e-06, batch_size=128, scheduler_lr1=0.9607360809404293, scheduler_lr2=0.09723381551550188, scheduler_lr3=0.008628893287954, scheduler_lr4=0.007192164546505957, scheduler_epoch1=13, scheduler_epoch2=16, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 00:18:38.681031
+Train Loss: 1.8158, Val Loss: 1.4723, Val Accuracy: 0.4586
+Epoch 2/40 - 2024-10-30 00:18:59.311919
+Train Loss: 1.3207, Val Loss: 1.2514, Val Accuracy: 0.5370
+Epoch 3/40 - 2024-10-30 00:19:19.908184
+Train Loss: 1.0562, Val Loss: 1.2156, Val Accuracy: 0.5976
+Trial 41 pruned at epoch 3
+
+
+--- New Trial ---
+Trial 42 - 2024-10-30 00:19:40.588890
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08653664821675863, weight_decay=8.433436049037055e-06, batch_size=128, scheduler_lr1=0.9877977804660432, scheduler_lr2=0.09566254765451468, scheduler_lr3=0.00835143435096186, scheduler_lr4=0.006941572305558766, scheduler_epoch1=12, scheduler_epoch2=14, , scheduler_epoch3=30
+Epoch 1/40 - 2024-10-30 00:19:40.589015
+Train Loss: 1.8957, Val Loss: 1.5403, Val Accuracy: 0.4290
+Trial 42 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 43 - 2024-10-30 00:20:01.309392
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09377074410843525, weight_decay=1.5243723185935091e-06, batch_size=128, scheduler_lr1=0.886418186531215, scheduler_lr2=0.08579233015031984, scheduler_lr3=0.008507997089023627, scheduler_lr4=0.0074564729281782855, scheduler_epoch1=10, scheduler_epoch2=12, , scheduler_epoch3=21
+Epoch 1/40 - 2024-10-30 00:20:01.309633
+Train Loss: 1.6154, Val Loss: 1.3855, Val Accuracy: 0.4934
+Epoch 2/40 - 2024-10-30 00:20:21.913481
+Train Loss: 1.1606, Val Loss: 1.2615, Val Accuracy: 0.5742
+Epoch 3/40 - 2024-10-30 00:20:42.443509
+Train Loss: 0.9266, Val Loss: 1.4728, Val Accuracy: 0.5418
+Trial 43 pruned at epoch 3
+
+
+--- New Trial ---
+Trial 44 - 2024-10-30 00:21:03.098647
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.11954878728155001, weight_decay=1.1586994525035988e-05, batch_size=128, scheduler_lr1=0.950445500678099, scheduler_lr2=0.09936946537747267, scheduler_lr3=0.008866571869956534, scheduler_lr4=0.006741587872819108, scheduler_epoch1=9, scheduler_epoch2=12, , scheduler_epoch3=19
+Epoch 1/40 - 2024-10-30 00:21:03.098773
+Train Loss: 1.7263, Val Loss: 1.3790, Val Accuracy: 0.4960
+Epoch 2/40 - 2024-10-30 00:21:23.691082
+Train Loss: 1.2308, Val Loss: 1.0512, Val Accuracy: 0.6250
+Epoch 3/40 - 2024-10-30 00:21:44.289548
+Train Loss: 0.9880, Val Loss: 0.9139, Val Accuracy: 0.6728
+Epoch 4/40 - 2024-10-30 00:22:04.883094
+Train Loss: 0.8392, Val Loss: 0.8310, Val Accuracy: 0.7044
+Epoch 5/40 - 2024-10-30 00:22:25.498372
+Train Loss: 0.7330, Val Loss: 0.7456, Val Accuracy: 0.7496
+Epoch 6/40 - 2024-10-30 00:22:46.117308
+Train Loss: 0.6539, Val Loss: 0.7264, Val Accuracy: 0.7506
+Epoch 7/40 - 2024-10-30 00:23:06.709401
+Train Loss: 0.5950, Val Loss: 0.8492, Val Accuracy: 0.7266
+Trial 44 pruned at epoch 7
+
+
+--- New Trial ---
+Trial 45 - 2024-10-30 00:23:27.359495
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08573282046145939, weight_decay=4.839501576364079e-06, batch_size=128, scheduler_lr1=0.9742227964594078, scheduler_lr2=0.08863846481802781, scheduler_lr3=0.008681886621549355, scheduler_lr4=0.007046615429593196, scheduler_epoch1=14, scheduler_epoch2=19, , scheduler_epoch3=27
+Epoch 1/40 - 2024-10-30 00:23:27.359639
+Train Loss: 1.6529, Val Loss: 1.4923, Val Accuracy: 0.4832
+Epoch 2/40 - 2024-10-30 00:23:47.967343
+Train Loss: 1.1852, Val Loss: 1.0660, Val Accuracy: 0.6182
+Epoch 3/40 - 2024-10-30 00:24:08.544702
+Train Loss: 0.9475, Val Loss: 0.8627, Val Accuracy: 0.6836
+Epoch 4/40 - 2024-10-30 00:24:29.143682
+Train Loss: 0.8059, Val Loss: 0.7540, Val Accuracy: 0.7296
+Epoch 5/40 - 2024-10-30 00:24:49.695024
+Train Loss: 0.7032, Val Loss: 0.6688, Val Accuracy: 0.7610
+Epoch 6/40 - 2024-10-30 00:25:10.232029
+Train Loss: 0.6196, Val Loss: 0.6780, Val Accuracy: 0.7648
+Epoch 7/40 - 2024-10-30 00:25:30.841897
+Train Loss: 0.5613, Val Loss: 0.6399, Val Accuracy: 0.7742
+Epoch 8/40 - 2024-10-30 00:25:51.419957
+Train Loss: 0.5033, Val Loss: 0.5695, Val Accuracy: 0.7956
+Epoch 9/40 - 2024-10-30 00:26:11.977666
+Train Loss: 0.4560, Val Loss: 0.5997, Val Accuracy: 0.7832
+Epoch 10/40 - 2024-10-30 00:26:32.582191
+Train Loss: 0.4069, Val Loss: 0.6470, Val Accuracy: 0.7896
+Epoch 11/40 - 2024-10-30 00:26:53.158650
+Train Loss: 0.3708, Val Loss: 0.6938, Val Accuracy: 0.7646
+Epoch 12/40 - 2024-10-30 00:27:13.777191
+Train Loss: 0.3285, Val Loss: 0.6342, Val Accuracy: 0.7978
+Trial 45 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 46 - 2024-10-30 00:27:34.432828
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.06958324465205655, weight_decay=3.1802498130112806e-05, batch_size=128, scheduler_lr1=0.9166905496316555, scheduler_lr2=0.08959288747505692, scheduler_lr3=0.009024337780665439, scheduler_lr4=0.006781596461783423, scheduler_epoch1=11, scheduler_epoch2=14, , scheduler_epoch3=18
+Epoch 1/40 - 2024-10-30 00:27:34.432965
+Train Loss: 2.0635, Val Loss: 1.7015, Val Accuracy: 0.3530
+Trial 46 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 47 - 2024-10-30 00:27:54.465709
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09773127192604222, weight_decay=1.5025147425718166e-05, batch_size=128, scheduler_lr1=0.8514308121955471, scheduler_lr2=0.09464270391969547, scheduler_lr3=0.008426453531122011, scheduler_lr4=0.0075376175470917685, scheduler_epoch1=10, scheduler_epoch2=13, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-30 00:27:54.465859
+Train Loss: 1.7126, Val Loss: 1.4119, Val Accuracy: 0.4830
+Epoch 2/40 - 2024-10-30 00:28:15.096438
+Train Loss: 1.1978, Val Loss: 1.0877, Val Accuracy: 0.5928
+Epoch 3/40 - 2024-10-30 00:28:35.682373
+Train Loss: 0.9382, Val Loss: 0.8679, Val Accuracy: 0.6818
+Epoch 4/40 - 2024-10-30 00:28:56.277281
+Train Loss: 0.7727, Val Loss: 0.7588, Val Accuracy: 0.7318
+Epoch 5/40 - 2024-10-30 00:29:16.881653
+Train Loss: 0.6645, Val Loss: 0.7207, Val Accuracy: 0.7470
+Epoch 6/40 - 2024-10-30 00:29:37.458472
+Train Loss: 0.5777, Val Loss: 0.7177, Val Accuracy: 0.7536
+Epoch 7/40 - 2024-10-30 00:29:58.022019
+Train Loss: 0.5147, Val Loss: 0.6683, Val Accuracy: 0.7678
+Epoch 8/40 - 2024-10-30 00:30:18.604842
+Train Loss: 0.4555, Val Loss: 0.7285, Val Accuracy: 0.7580
+Epoch 9/40 - 2024-10-30 00:30:39.212250
+Train Loss: 0.4031, Val Loss: 0.6662, Val Accuracy: 0.7738
+Epoch 10/40 - 2024-10-30 00:30:59.817799
+Train Loss: 0.3562, Val Loss: 0.6702, Val Accuracy: 0.7718
+Trial 47 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 48 - 2024-10-30 00:31:20.493273
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10987931130996487, weight_decay=6.180683735912734e-06, batch_size=128, scheduler_lr1=0.8929424367625297, scheduler_lr2=0.09024276783856501, scheduler_lr3=0.008567427368973476, scheduler_lr4=0.007157866057772397, scheduler_epoch1=14, scheduler_epoch2=16, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-30 00:31:20.493389
+Train Loss: 1.9600, Val Loss: 1.5636, Val Accuracy: 0.4404
+Trial 48 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 49 - 2024-10-30 00:31:41.193872
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.050796043201881046, weight_decay=2.3301057857507897e-05, batch_size=128, scheduler_lr1=0.8003710042551813, scheduler_lr2=0.09656539578391231, scheduler_lr3=0.009837766091712354, scheduler_lr4=0.007283560491869238, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 00:31:41.194002
+Train Loss: 1.7559, Val Loss: 1.3713, Val Accuracy: 0.5014
+Epoch 2/40 - 2024-10-30 00:32:01.847117
+Train Loss: 1.2230, Val Loss: 1.1042, Val Accuracy: 0.5988
+Epoch 3/40 - 2024-10-30 00:32:22.435907
+Train Loss: 0.9697, Val Loss: 0.9300, Val Accuracy: 0.6678
+Epoch 4/40 - 2024-10-30 00:32:42.990227
+Train Loss: 0.8008, Val Loss: 0.8216, Val Accuracy: 0.7098
+Epoch 5/40 - 2024-10-30 00:33:03.583017
+Train Loss: 0.6969, Val Loss: 0.7876, Val Accuracy: 0.7276
+Epoch 6/40 - 2024-10-30 00:33:24.194761
+Train Loss: 0.6109, Val Loss: 0.6612, Val Accuracy: 0.7690
+Epoch 7/40 - 2024-10-30 00:33:44.761749
+Train Loss: 0.5413, Val Loss: 0.6547, Val Accuracy: 0.7770
+Epoch 8/40 - 2024-10-30 00:34:05.346146
+Train Loss: 0.4821, Val Loss: 0.6062, Val Accuracy: 0.7850
+Epoch 9/40 - 2024-10-30 00:34:25.930668
+Train Loss: 0.4338, Val Loss: 0.6815, Val Accuracy: 0.7712
+Epoch 10/40 - 2024-10-30 00:34:46.519857
+Train Loss: 0.3973, Val Loss: 0.5881, Val Accuracy: 0.8062
+Epoch 11/40 - 2024-10-30 00:35:07.112727
+Train Loss: 0.3462, Val Loss: 0.5943, Val Accuracy: 0.8030
+Epoch 12/40 - 2024-10-30 00:35:27.681452
+Train Loss: 0.1935, Val Loss: 0.5022, Val Accuracy: 0.8336
+Epoch 13/40 - 2024-10-30 00:35:48.300042
+Train Loss: 0.1430, Val Loss: 0.5329, Val Accuracy: 0.8356
+Epoch 14/40 - 2024-10-30 00:36:08.881614
+Train Loss: 0.1143, Val Loss: 0.5320, Val Accuracy: 0.8326
+Epoch 15/40 - 2024-10-30 00:36:29.499274
+Train Loss: 0.1105, Val Loss: 0.5365, Val Accuracy: 0.8332
+Trial 49 pruned at epoch 15
+
+
+--- New Trial ---
+Trial 50 - 2024-10-30 00:36:50.117299
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10283393918375805, weight_decay=8.305318512408133e-05, batch_size=128, scheduler_lr1=0.8226221873103903, scheduler_lr2=0.08406593296258393, scheduler_lr3=0.00828599462338191, scheduler_lr4=0.006908022408312114, scheduler_epoch1=13, scheduler_epoch2=15, , scheduler_epoch3=30
+Epoch 1/40 - 2024-10-30 00:36:50.117427
+Train Loss: 1.6916, Val Loss: 1.5643, Val Accuracy: 0.4548
+Epoch 2/40 - 2024-10-30 00:37:10.737229
+Train Loss: 1.1703, Val Loss: 1.0940, Val Accuracy: 0.6160
+Epoch 3/40 - 2024-10-30 00:37:31.362878
+Train Loss: 0.9199, Val Loss: 0.8909, Val Accuracy: 0.6784
+Epoch 4/40 - 2024-10-30 00:37:51.944380
+Train Loss: 0.7669, Val Loss: 0.7914, Val Accuracy: 0.7208
+Epoch 5/40 - 2024-10-30 00:38:12.508195
+Train Loss: 0.6747, Val Loss: 0.6967, Val Accuracy: 0.7574
+Epoch 6/40 - 2024-10-30 00:38:33.140031
+Train Loss: 0.5982, Val Loss: 0.7487, Val Accuracy: 0.7452
+Epoch 7/40 - 2024-10-30 00:38:53.748446
+Train Loss: 0.5379, Val Loss: 0.6662, Val Accuracy: 0.7718
+Epoch 8/40 - 2024-10-30 00:39:14.305742
+Train Loss: 0.4844, Val Loss: 0.6455, Val Accuracy: 0.7684
+Epoch 9/40 - 2024-10-30 00:39:34.893283
+Train Loss: 0.4344, Val Loss: 0.5936, Val Accuracy: 0.7946
+Epoch 10/40 - 2024-10-30 00:39:55.502685
+Train Loss: 0.4036, Val Loss: 0.6175, Val Accuracy: 0.7974
+Epoch 11/40 - 2024-10-30 00:40:16.066389
+Train Loss: 0.3632, Val Loss: 0.6772, Val Accuracy: 0.7838
+Epoch 12/40 - 2024-10-30 00:40:36.651779
+Train Loss: 0.3281, Val Loss: 0.6844, Val Accuracy: 0.7878
+Trial 50 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 51 - 2024-10-30 00:40:57.336858
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.11718752168673038, weight_decay=4.836266075597859e-05, batch_size=128, scheduler_lr1=0.93663052228994, scheduler_lr2=0.08003798911032849, scheduler_lr3=0.008448636890221638, scheduler_lr4=0.006645152725153005, scheduler_epoch1=12, scheduler_epoch2=24, , scheduler_epoch3=32
+Epoch 1/40 - 2024-10-30 00:40:57.336979
+Train Loss: 2.3687, Val Loss: 1.9522, Val Accuracy: 0.2466
+Trial 51 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 52 - 2024-10-30 00:41:17.341299
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.1266906133502858, weight_decay=0.00017978617490327213, batch_size=128, scheduler_lr1=0.9239759222846732, scheduler_lr2=0.08108685005634172, scheduler_lr3=0.008746958107592262, scheduler_lr4=0.006346171105181208, scheduler_epoch1=8, scheduler_epoch2=11, , scheduler_epoch3=35
+Epoch 1/40 - 2024-10-30 00:41:17.341620
+Train Loss: 2.2578, Val Loss: 2.1556, Val Accuracy: 0.1792
+Trial 52 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 53 - 2024-10-30 00:41:37.363608
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.13598935956751482, weight_decay=0.0002993469747419695, batch_size=128, scheduler_lr1=0.9482124862353797, scheduler_lr2=0.08301350927828383, scheduler_lr3=0.008208837768357896, scheduler_lr4=0.007698953594716536, scheduler_epoch1=10, scheduler_epoch2=24, , scheduler_epoch3=34
+Epoch 1/40 - 2024-10-30 00:41:37.363745
+Train Loss: 2.3889, Val Loss: 2.0437, Val Accuracy: 0.2378
+Trial 53 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 54 - 2024-10-30 00:41:57.384725
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.11437084284234256, weight_decay=0.0004055151254218146, batch_size=128, scheduler_lr1=0.8384014157280446, scheduler_lr2=0.09329272904976119, scheduler_lr3=0.008132148232418972, scheduler_lr4=0.00644948786312801, scheduler_epoch1=11, scheduler_epoch2=23, , scheduler_epoch3=31
+Epoch 1/40 - 2024-10-30 00:41:57.384865
+Train Loss: 2.2922, Val Loss: 2.0132, Val Accuracy: 0.2074
+Trial 54 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 55 - 2024-10-30 00:42:17.355037
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.12192136670386056, weight_decay=9.011030216848413e-06, batch_size=128, scheduler_lr1=0.9188063910951831, scheduler_lr2=0.09183689902596347, scheduler_lr3=0.008016417434840868, scheduler_lr4=0.007005539657915622, scheduler_epoch1=9, scheduler_epoch2=11, , scheduler_epoch3=14
+Epoch 1/40 - 2024-10-30 00:42:17.355151
+Train Loss: 2.5430, Val Loss: 2.1933, Val Accuracy: 0.1830
+Trial 55 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 56 - 2024-10-30 00:42:37.384502
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.1070037158224701, weight_decay=3.422349883090268e-05, batch_size=128, scheduler_lr1=0.9095094640487953, scheduler_lr2=0.08623323774997053, scheduler_lr3=0.00834246674567253, scheduler_lr4=0.006114159314471776, scheduler_epoch1=7, scheduler_epoch2=9, , scheduler_epoch3=12
+Epoch 1/40 - 2024-10-30 00:42:37.384638
+Train Loss: 1.9803, Val Loss: 1.6337, Val Accuracy: 0.3882
+Trial 56 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 57 - 2024-10-30 00:42:58.020638
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.0953651941102441, weight_decay=3.291099816041913e-06, batch_size=128, scheduler_lr1=0.9003851655980738, scheduler_lr2=0.09068860172916172, scheduler_lr3=0.008548961180416825, scheduler_lr4=0.006843199596665619, scheduler_epoch1=12, scheduler_epoch2=21, , scheduler_epoch3=34
+Epoch 1/40 - 2024-10-30 00:42:58.020737
+Train Loss: 2.5018, Val Loss: 2.1340, Val Accuracy: 0.2050
+Trial 57 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 58 - 2024-10-30 00:43:18.041654
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07613040918387275, weight_decay=0.00010359813595977974, batch_size=128, scheduler_lr1=0.8645695284405246, scheduler_lr2=0.08485242484290954, scheduler_lr3=0.009245133873107431, scheduler_lr4=0.006574353234739743, scheduler_epoch1=8, scheduler_epoch2=10, , scheduler_epoch3=14
+Epoch 1/40 - 2024-10-30 00:43:18.041880
+Train Loss: 1.7859, Val Loss: 1.5432, Val Accuracy: 0.4206
+Trial 58 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 59 - 2024-10-30 00:43:38.739879
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14977746375040216, weight_decay=0.0017291024685664048, batch_size=128, scheduler_lr1=0.883139494512356, scheduler_lr2=0.0871226575359808, scheduler_lr3=0.009648207899659453, scheduler_lr4=0.006723189183011963, scheduler_epoch1=10, scheduler_epoch2=18, , scheduler_epoch3=29
+Epoch 1/40 - 2024-10-30 00:43:38.739995
+Train Loss: 2.2158, Val Loss: 1.9694, Val Accuracy: 0.2964
+Trial 59 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 60 - 2024-10-30 00:43:59.415900
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08996913182344696, weight_decay=1.9338830070190664e-06, batch_size=128, scheduler_lr1=0.8932798237659914, scheduler_lr2=0.08823019771192109, scheduler_lr3=0.00941126517557763, scheduler_lr4=0.0063895411392626885, scheduler_epoch1=9, scheduler_epoch2=25, , scheduler_epoch3=32
+Epoch 1/40 - 2024-10-30 00:43:59.416031
+Train Loss: 1.6369, Val Loss: 1.5945, Val Accuracy: 0.4440
+Trial 60 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 61 - 2024-10-30 00:44:20.120555
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08867275271657707, weight_decay=0.009594277287540243, batch_size=128, scheduler_lr1=0.9896657567960111, scheduler_lr2=0.09832129356369078, scheduler_lr3=0.00859545517221698, scheduler_lr4=0.006216526367321551, scheduler_epoch1=4, scheduler_epoch2=8, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-30 00:44:20.120683
+Train Loss: 1.8287, Val Loss: 2.0763, Val Accuracy: 0.2420
+Trial 61 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 62 - 2024-10-30 00:44:40.802276
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14015002934154533, weight_decay=0.002663258191403439, batch_size=128, scheduler_lr1=0.9858303380248011, scheduler_lr2=0.09854192406972045, scheduler_lr3=0.008750364159570362, scheduler_lr4=0.006002726391578403, scheduler_epoch1=3, scheduler_epoch2=7, , scheduler_epoch3=20
+Epoch 1/40 - 2024-10-30 00:44:40.802424
+Train Loss: 1.9952, Val Loss: 1.9440, Val Accuracy: 0.2962
+Trial 62 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 63 - 2024-10-30 00:45:01.461428
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08366528840231269, weight_decay=0.0005036965356531625, batch_size=128, scheduler_lr1=0.9746721817966173, scheduler_lr2=0.0967150825542645, scheduler_lr3=0.008462204566168365, scheduler_lr4=0.006509260538647294, scheduler_epoch1=5, scheduler_epoch2=9, , scheduler_epoch3=16
+Epoch 1/40 - 2024-10-30 00:45:01.461557
+Train Loss: 1.6493, Val Loss: 1.4402, Val Accuracy: 0.4598
+Epoch 2/40 - 2024-10-30 00:45:22.092347
+Train Loss: 1.1567, Val Loss: 1.1563, Val Accuracy: 0.5922
+Epoch 3/40 - 2024-10-30 00:45:42.715193
+Train Loss: 0.9576, Val Loss: 1.1393, Val Accuracy: 0.6208
+Epoch 4/40 - 2024-10-30 00:46:03.284284
+Train Loss: 0.8448, Val Loss: 0.9233, Val Accuracy: 0.6712
+Epoch 5/40 - 2024-10-30 00:46:23.926008
+Train Loss: 0.7554, Val Loss: 0.8153, Val Accuracy: 0.7144
+Trial 63 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 64 - 2024-10-30 00:46:44.613259
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06619613926504667, weight_decay=0.0003013286818516945, batch_size=128, scheduler_lr1=0.9673662233804395, scheduler_lr2=0.09480554426631385, scheduler_lr3=0.008678549685933196, scheduler_lr4=0.006626850759351042, scheduler_epoch1=5, scheduler_epoch2=10, , scheduler_epoch3=33
+Epoch 1/40 - 2024-10-30 00:46:44.613384
+Train Loss: 1.6840, Val Loss: 1.3329, Val Accuracy: 0.5216
+Epoch 2/40 - 2024-10-30 00:47:05.252069
+Train Loss: 1.1355, Val Loss: 1.1560, Val Accuracy: 0.5896
+Epoch 3/40 - 2024-10-30 00:47:25.844580
+Train Loss: 0.9272, Val Loss: 1.0774, Val Accuracy: 0.6370
+Epoch 4/40 - 2024-10-30 00:47:46.458870
+Train Loss: 0.7924, Val Loss: 0.8300, Val Accuracy: 0.7112
+Epoch 5/40 - 2024-10-30 00:48:07.083601
+Train Loss: 0.6984, Val Loss: 0.7864, Val Accuracy: 0.7248
+Epoch 6/40 - 2024-10-30 00:48:27.711740
+Train Loss: 0.4975, Val Loss: 0.5614, Val Accuracy: 0.7998
+Epoch 7/40 - 2024-10-30 00:48:48.348028
+Train Loss: 0.4428, Val Loss: 0.5678, Val Accuracy: 0.8004
+Epoch 8/40 - 2024-10-30 00:49:08.976167
+Train Loss: 0.4139, Val Loss: 0.5630, Val Accuracy: 0.8030
+Epoch 9/40 - 2024-10-30 00:49:29.594400
+Train Loss: 0.3861, Val Loss: 0.5595, Val Accuracy: 0.8062
+Epoch 10/40 - 2024-10-30 00:49:50.205088
+Train Loss: 0.3634, Val Loss: 0.5614, Val Accuracy: 0.8096
+Epoch 11/40 - 2024-10-30 00:50:10.766733
+Train Loss: 0.3140, Val Loss: 0.5512, Val Accuracy: 0.8124
+Epoch 12/40 - 2024-10-30 00:50:31.369604
+Train Loss: 0.3058, Val Loss: 0.5523, Val Accuracy: 0.8112
+Trial 64 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 65 - 2024-10-30 00:50:52.062546
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.13129139019071898, weight_decay=6.182199344514714e-05, batch_size=128, scheduler_lr1=0.955302928640364, scheduler_lr2=0.09945203518041582, scheduler_lr3=0.008947041801080908, scheduler_lr4=0.0071073270902119595, scheduler_epoch1=6, scheduler_epoch2=11, , scheduler_epoch3=17
+Epoch 1/40 - 2024-10-30 00:50:52.062684
+Train Loss: 2.9355, Val Loss: 2.0191, Val Accuracy: 0.2704
+Trial 65 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 66 - 2024-10-30 00:51:12.754095
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07860849204030909, weight_decay=0.0010367020574908188, batch_size=128, scheduler_lr1=0.9332053944359564, scheduler_lr2=0.08929989008767929, scheduler_lr3=0.008270968189861996, scheduler_lr4=0.00626895315320693, scheduler_epoch1=4, scheduler_epoch2=15, , scheduler_epoch3=27
+Epoch 1/40 - 2024-10-30 00:51:12.754233
+Train Loss: 1.5432, Val Loss: 1.5210, Val Accuracy: 0.4828
+Epoch 2/40 - 2024-10-30 00:51:33.342584
+Train Loss: 1.0967, Val Loss: 0.9910, Val Accuracy: 0.6480
+Epoch 3/40 - 2024-10-30 00:51:53.903936
+Train Loss: 0.9218, Val Loss: 0.9694, Val Accuracy: 0.6576
+Epoch 4/40 - 2024-10-30 00:52:14.463179
+Train Loss: 0.8181, Val Loss: 0.9337, Val Accuracy: 0.6624
+Trial 66 pruned at epoch 4
+
+
+--- New Trial ---
+Trial 67 - 2024-10-30 00:52:35.064747
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.10025015902761396, weight_decay=0.0001593549839224286, batch_size=128, scheduler_lr1=0.8764647835102137, scheduler_lr2=0.08343528695061966, scheduler_lr3=0.00879487486600557, scheduler_lr4=0.006812524459992977, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=29
+Epoch 1/40 - 2024-10-30 00:52:35.064931
+Train Loss: 2.2582, Val Loss: 1.8396, Val Accuracy: 0.3206
+Trial 67 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 68 - 2024-10-30 00:52:55.107500
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0726315243862603, weight_decay=1.980058108043922e-05, batch_size=128, scheduler_lr1=0.9980994973686133, scheduler_lr2=0.0998000649344761, scheduler_lr3=0.008506825042938461, scheduler_lr4=0.006400239348363404, scheduler_epoch1=13, scheduler_epoch2=22, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 00:52:55.107644
+Train Loss: 2.0082, Val Loss: 1.5511, Val Accuracy: 0.4206
+Trial 68 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 69 - 2024-10-30 00:53:15.792325
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.11321244390693844, weight_decay=0.0005941742542724094, batch_size=128, scheduler_lr1=0.9109468242620177, scheduler_lr2=0.09276626455421323, scheduler_lr3=0.00840683038898399, scheduler_lr4=0.006878794570515247, scheduler_epoch1=14, scheduler_epoch2=20, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-30 00:53:15.792457
+Train Loss: 1.9317, Val Loss: 1.6794, Val Accuracy: 0.3726
+Trial 69 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 70 - 2024-10-30 00:53:36.482658
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08093990693036912, weight_decay=0.00011836111063665973, batch_size=128, scheduler_lr1=0.8432549118657968, scheduler_lr2=0.080827397801932, scheduler_lr3=0.009372923416590894, scheduler_lr4=0.006682663768493059, scheduler_epoch1=12, scheduler_epoch2=14, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-30 00:53:36.482778
+Train Loss: 1.6393, Val Loss: 1.4507, Val Accuracy: 0.4978
+Epoch 2/40 - 2024-10-30 00:53:57.115798
+Train Loss: 1.1440, Val Loss: 1.3753, Val Accuracy: 0.5272
+Epoch 3/40 - 2024-10-30 00:54:17.657005
+Train Loss: 0.9339, Val Loss: 1.0803, Val Accuracy: 0.6182
+Epoch 4/40 - 2024-10-30 00:54:38.214367
+Train Loss: 0.7975, Val Loss: 0.8315, Val Accuracy: 0.7022
+Epoch 5/40 - 2024-10-30 00:54:58.826989
+Train Loss: 0.7036, Val Loss: 0.7558, Val Accuracy: 0.7256
+Epoch 6/40 - 2024-10-30 00:55:19.359735
+Train Loss: 0.6287, Val Loss: 0.6724, Val Accuracy: 0.7638
+Epoch 7/40 - 2024-10-30 00:55:39.980082
+Train Loss: 0.5642, Val Loss: 0.6134, Val Accuracy: 0.7866
+Epoch 8/40 - 2024-10-30 00:56:00.533927
+Train Loss: 0.5195, Val Loss: 0.6754, Val Accuracy: 0.7694
+Epoch 9/40 - 2024-10-30 00:56:21.139455
+Train Loss: 0.4681, Val Loss: 0.7297, Val Accuracy: 0.7632
+Epoch 10/40 - 2024-10-30 00:56:41.742958
+Train Loss: 0.4355, Val Loss: 0.6177, Val Accuracy: 0.7870
+Epoch 11/40 - 2024-10-30 00:57:02.338349
+Train Loss: 0.3932, Val Loss: 0.5898, Val Accuracy: 0.7962
+Epoch 12/40 - 2024-10-30 00:57:22.914119
+Train Loss: 0.3627, Val Loss: 0.6199, Val Accuracy: 0.7934
+Trial 70 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 71 - 2024-10-30 00:57:43.611919
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05487070181839467, weight_decay=1.0700855417773075e-05, batch_size=128, scheduler_lr1=0.8081856571652397, scheduler_lr2=0.09639416246963532, scheduler_lr3=0.009856460913776014, scheduler_lr4=0.0072825641674165555, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=21
+Epoch 1/40 - 2024-10-30 00:57:43.612045
+Train Loss: 1.7559, Val Loss: 1.4591, Val Accuracy: 0.4574
+Epoch 2/40 - 2024-10-30 00:58:04.247568
+Train Loss: 1.1953, Val Loss: 1.2344, Val Accuracy: 0.5752
+Epoch 3/40 - 2024-10-30 00:58:24.871309
+Train Loss: 0.9316, Val Loss: 0.9362, Val Accuracy: 0.6730
+Epoch 4/40 - 2024-10-30 00:58:45.461979
+Train Loss: 0.7852, Val Loss: 0.8212, Val Accuracy: 0.7182
+Epoch 5/40 - 2024-10-30 00:59:06.064965
+Train Loss: 0.6779, Val Loss: 0.8549, Val Accuracy: 0.7032
+Trial 71 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 72 - 2024-10-30 00:59:26.751574
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05169794141496884, weight_decay=2.5131689686200366e-05, batch_size=128, scheduler_lr1=0.813065165378719, scheduler_lr2=0.09395444140967675, scheduler_lr3=0.00984777598462946, scheduler_lr4=0.006992758321086962, scheduler_epoch1=10, scheduler_epoch2=12, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 00:59:26.751709
+Train Loss: 1.5746, Val Loss: 1.3406, Val Accuracy: 0.5192
+Epoch 2/40 - 2024-10-30 00:59:47.370149
+Train Loss: 1.0814, Val Loss: 1.0483, Val Accuracy: 0.6250
+Epoch 3/40 - 2024-10-30 01:00:07.992074
+Train Loss: 0.8711, Val Loss: 0.7919, Val Accuracy: 0.7142
+Epoch 4/40 - 2024-10-30 01:00:28.587633
+Train Loss: 0.7450, Val Loss: 0.7713, Val Accuracy: 0.7324
+Epoch 5/40 - 2024-10-30 01:00:49.060349
+Train Loss: 0.6629, Val Loss: 0.7874, Val Accuracy: 0.7254
+Epoch 6/40 - 2024-10-30 01:01:09.602280
+Train Loss: 0.5856, Val Loss: 0.6761, Val Accuracy: 0.7632
+Epoch 7/40 - 2024-10-30 01:01:30.166004
+Train Loss: 0.5258, Val Loss: 0.6526, Val Accuracy: 0.7792
+Epoch 8/40 - 2024-10-30 01:01:50.726997
+Train Loss: 0.4768, Val Loss: 0.6469, Val Accuracy: 0.7788
+Epoch 9/40 - 2024-10-30 01:02:11.300726
+Train Loss: 0.4271, Val Loss: 0.6377, Val Accuracy: 0.7864
+Epoch 10/40 - 2024-10-30 01:02:31.907861
+Train Loss: 0.3888, Val Loss: 0.6428, Val Accuracy: 0.7938
+Epoch 11/40 - 2024-10-30 01:02:52.614728
+Train Loss: 0.2267, Val Loss: 0.5283, Val Accuracy: 0.8302
+Epoch 12/40 - 2024-10-30 01:03:13.220087
+Train Loss: 0.1723, Val Loss: 0.5448, Val Accuracy: 0.8282
+Trial 72 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 73 - 2024-10-30 01:03:33.875413
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05515952011638349, weight_decay=1.9379324994425267e-05, batch_size=128, scheduler_lr1=0.8203865395871073, scheduler_lr2=0.0954526458038401, scheduler_lr3=0.009972843471204789, scheduler_lr4=0.006503556260637943, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 01:03:33.875553
+Train Loss: 1.6254, Val Loss: 1.3961, Val Accuracy: 0.4998
+Epoch 2/40 - 2024-10-30 01:03:54.500180
+Train Loss: 1.1466, Val Loss: 1.0550, Val Accuracy: 0.6190
+Epoch 3/40 - 2024-10-30 01:04:15.103556
+Train Loss: 0.9081, Val Loss: 0.8342, Val Accuracy: 0.7050
+Epoch 4/40 - 2024-10-30 01:04:35.674604
+Train Loss: 0.7536, Val Loss: 0.8577, Val Accuracy: 0.7036
+Epoch 5/40 - 2024-10-30 01:04:56.289375
+Train Loss: 0.6472, Val Loss: 0.7031, Val Accuracy: 0.7578
+Epoch 6/40 - 2024-10-30 01:05:16.831862
+Train Loss: 0.5653, Val Loss: 0.6512, Val Accuracy: 0.7740
+Epoch 7/40 - 2024-10-30 01:05:37.438841
+Train Loss: 0.4998, Val Loss: 0.7187, Val Accuracy: 0.7636
+Epoch 8/40 - 2024-10-30 01:05:58.053211
+Train Loss: 0.4479, Val Loss: 0.7844, Val Accuracy: 0.7538
+Epoch 9/40 - 2024-10-30 01:06:18.631164
+Train Loss: 0.3998, Val Loss: 0.6102, Val Accuracy: 0.7916
+Epoch 10/40 - 2024-10-30 01:06:39.259960
+Train Loss: 0.3574, Val Loss: 0.5937, Val Accuracy: 0.8094
+Epoch 11/40 - 2024-10-30 01:06:59.877468
+Train Loss: 0.3124, Val Loss: 0.6142, Val Accuracy: 0.8032
+Epoch 12/40 - 2024-10-30 01:07:20.469685
+Train Loss: 0.1634, Val Loss: 0.5073, Val Accuracy: 0.8406
+Epoch 13/40 - 2024-10-30 01:07:41.097511
+Train Loss: 0.1187, Val Loss: 0.5349, Val Accuracy: 0.8368
+Epoch 14/40 - 2024-10-30 01:08:01.685435
+Train Loss: 0.0934, Val Loss: 0.5310, Val Accuracy: 0.8396
+Epoch 15/40 - 2024-10-30 01:08:22.266723
+Train Loss: 0.0894, Val Loss: 0.5347, Val Accuracy: 0.8384
+Epoch 16/40 - 2024-10-30 01:08:42.878026
+Train Loss: 0.0872, Val Loss: 0.5396, Val Accuracy: 0.8398
+Epoch 17/40 - 2024-10-30 01:09:03.471707
+Train Loss: 0.0851, Val Loss: 0.5431, Val Accuracy: 0.8392
+Epoch 18/40 - 2024-10-30 01:09:24.076958
+Train Loss: 0.0830, Val Loss: 0.5483, Val Accuracy: 0.8390
+Epoch 19/40 - 2024-10-30 01:09:44.740865
+Train Loss: 0.0814, Val Loss: 0.5524, Val Accuracy: 0.8398
+Epoch 20/40 - 2024-10-30 01:10:05.393517
+Train Loss: 0.0793, Val Loss: 0.5532, Val Accuracy: 0.8358
+Early stopping at epoch 20
+Final Test Accuracy: 0.8426 - 2024-10-30 01:10:27.730881
+
+
+--- New Trial ---
+Trial 74 - 2024-10-30 01:10:27.802341
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06212667150005179, weight_decay=4.736827745233556e-06, batch_size=128, scheduler_lr1=0.8173267016577541, scheduler_lr2=0.09528157568461679, scheduler_lr3=0.009567624834264968, scheduler_lr4=0.00646030276805614, scheduler_epoch1=9, scheduler_epoch2=12, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-30 01:10:27.802439
+Train Loss: 1.8452, Val Loss: 1.5138, Val Accuracy: 0.4430
+Trial 74 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 75 - 2024-10-30 01:10:48.543401
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.09223333479318138, weight_decay=6.9396392512855126e-06, batch_size=128, scheduler_lr1=0.8529638163957639, scheduler_lr2=0.0819273396987242, scheduler_lr3=0.009771586103367112, scheduler_lr4=0.006324305968940202, scheduler_epoch1=12, scheduler_epoch2=14, , scheduler_epoch3=19
+Epoch 1/40 - 2024-10-30 01:10:48.543504
+Train Loss: 1.6949, Val Loss: 1.3208, Val Accuracy: 0.5202
+Epoch 2/40 - 2024-10-30 01:11:09.213696
+Train Loss: 1.1722, Val Loss: 1.0629, Val Accuracy: 0.6234
+Epoch 3/40 - 2024-10-30 01:11:29.881343
+Train Loss: 0.9252, Val Loss: 0.8867, Val Accuracy: 0.6842
+Epoch 4/40 - 2024-10-30 01:11:50.535222
+Train Loss: 0.7836, Val Loss: 0.8110, Val Accuracy: 0.7158
+Epoch 5/40 - 2024-10-30 01:12:11.190043
+Train Loss: 0.6788, Val Loss: 0.6952, Val Accuracy: 0.7606
+Epoch 6/40 - 2024-10-30 01:12:31.853310
+Train Loss: 0.5988, Val Loss: 0.6624, Val Accuracy: 0.7668
+Epoch 7/40 - 2024-10-30 01:12:52.514035
+Train Loss: 0.5403, Val Loss: 0.7064, Val Accuracy: 0.7628
+Epoch 8/40 - 2024-10-30 01:13:13.183342
+Train Loss: 0.4855, Val Loss: 0.6528, Val Accuracy: 0.7774
+Epoch 9/40 - 2024-10-30 01:13:33.840712
+Train Loss: 0.4365, Val Loss: 0.6555, Val Accuracy: 0.7802
+Epoch 10/40 - 2024-10-30 01:13:54.489449
+Train Loss: 0.3925, Val Loss: 0.6313, Val Accuracy: 0.7914
+Trial 75 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 76 - 2024-10-30 01:14:15.245324
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05840168763064628, weight_decay=1.545752021267654e-05, batch_size=128, scheduler_lr1=0.8326347596189363, scheduler_lr2=0.09747159619945973, scheduler_lr3=0.00999920902891067, scheduler_lr4=0.006500646796627277, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=17
+Epoch 1/40 - 2024-10-30 01:14:15.245434
+Train Loss: 1.6030, Val Loss: 1.4098, Val Accuracy: 0.4776
+Epoch 2/40 - 2024-10-30 01:14:35.922846
+Train Loss: 1.1207, Val Loss: 1.0763, Val Accuracy: 0.5984
+Epoch 3/40 - 2024-10-30 01:14:56.604050
+Train Loss: 0.9024, Val Loss: 0.8856, Val Accuracy: 0.6924
+Epoch 4/40 - 2024-10-30 01:15:17.296239
+Train Loss: 0.7651, Val Loss: 0.7688, Val Accuracy: 0.7272
+Epoch 5/40 - 2024-10-30 01:15:37.964668
+Train Loss: 0.6706, Val Loss: 0.7361, Val Accuracy: 0.7442
+Epoch 6/40 - 2024-10-30 01:15:58.658976
+Train Loss: 0.5971, Val Loss: 0.6856, Val Accuracy: 0.7646
+Epoch 7/40 - 2024-10-30 01:16:19.354320
+Train Loss: 0.5391, Val Loss: 0.6455, Val Accuracy: 0.7740
+Epoch 8/40 - 2024-10-30 01:16:40.021873
+Train Loss: 0.4881, Val Loss: 0.6846, Val Accuracy: 0.7708
+Epoch 9/40 - 2024-10-30 01:17:00.732427
+Train Loss: 0.4318, Val Loss: 0.6476, Val Accuracy: 0.7828
+Epoch 10/40 - 2024-10-30 01:17:21.389728
+Train Loss: 0.3870, Val Loss: 0.6126, Val Accuracy: 0.7976
+Epoch 11/40 - 2024-10-30 01:17:42.031253
+Train Loss: 0.3491, Val Loss: 0.7106, Val Accuracy: 0.7846
+Trial 76 pruned at epoch 11
+
+
+--- New Trial ---
+Trial 77 - 2024-10-30 01:18:02.784168
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0560460507029259, weight_decay=4.997030396094398e-05, batch_size=128, scheduler_lr1=0.927356324219096, scheduler_lr2=0.09590637247796545, scheduler_lr3=0.009123378794461921, scheduler_lr4=0.006621727252484929, scheduler_epoch1=8, scheduler_epoch2=17, , scheduler_epoch3=28
+Epoch 1/40 - 2024-10-30 01:18:02.784301
+Train Loss: 1.5777, Val Loss: 1.2171, Val Accuracy: 0.5646
+Epoch 2/40 - 2024-10-30 01:18:23.478321
+Train Loss: 1.0991, Val Loss: 1.0197, Val Accuracy: 0.6246
+Epoch 3/40 - 2024-10-30 01:18:44.175293
+Train Loss: 0.9025, Val Loss: 0.8862, Val Accuracy: 0.6756
+Epoch 4/40 - 2024-10-30 01:19:04.854602
+Train Loss: 0.7873, Val Loss: 0.9691, Val Accuracy: 0.6650
+Trial 77 pruned at epoch 4
+
+
+--- New Trial ---
+Trial 78 - 2024-10-30 01:19:25.598505
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.09645351839074442, weight_decay=0.00022751845169784844, batch_size=128, scheduler_lr1=0.9429054803812297, scheduler_lr2=0.09121150684517852, scheduler_lr3=0.008599055134907618, scheduler_lr4=0.006224119780285673, scheduler_epoch1=10, scheduler_epoch2=12, , scheduler_epoch3=20
+Epoch 1/40 - 2024-10-30 01:19:25.598637
+Train Loss: 2.1338, Val Loss: 1.7758, Val Accuracy: 0.3438
+Trial 78 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 79 - 2024-10-30 01:19:45.728934
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.14498157496565794, weight_decay=8.003137559512128e-05, batch_size=128, scheduler_lr1=0.8270645823066567, scheduler_lr2=0.09323018395046129, scheduler_lr3=0.008895212567324935, scheduler_lr4=0.006398193307486657, scheduler_epoch1=15, scheduler_epoch2=23, , scheduler_epoch3=27
+Epoch 1/40 - 2024-10-30 01:19:45.729080
+Train Loss: 2.2550, Val Loss: 1.7365, Val Accuracy: 0.3550
+Trial 79 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 80 - 2024-10-30 01:20:06.486545
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10304830949039276, weight_decay=3.672439323661096e-05, batch_size=128, scheduler_lr1=0.9054752400847279, scheduler_lr2=0.09708359857401455, scheduler_lr3=0.008163310104148615, scheduler_lr4=0.006570282411582522, scheduler_epoch1=9, scheduler_epoch2=15, , scheduler_epoch3=33
+Epoch 1/40 - 2024-10-30 01:20:06.486678
+Train Loss: 1.7814, Val Loss: 1.7439, Val Accuracy: 0.4024
+Trial 80 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 81 - 2024-10-30 01:20:27.261408
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.051706191268562615, weight_decay=1.945956381878965e-05, batch_size=128, scheduler_lr1=0.8120365360973855, scheduler_lr2=0.09861761654442211, scheduler_lr3=0.009985785593237418, scheduler_lr4=0.007399790756047316, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-30 01:20:27.261539
+Train Loss: 1.8027, Val Loss: 1.4352, Val Accuracy: 0.4632
+Epoch 2/40 - 2024-10-30 01:20:47.978105
+Train Loss: 1.2790, Val Loss: 1.2615, Val Accuracy: 0.5520
+Epoch 3/40 - 2024-10-30 01:21:08.659663
+Train Loss: 1.0214, Val Loss: 0.9806, Val Accuracy: 0.6546
+Epoch 4/40 - 2024-10-30 01:21:29.361943
+Train Loss: 0.8370, Val Loss: 0.7787, Val Accuracy: 0.7264
+Epoch 5/40 - 2024-10-30 01:21:50.070957
+Train Loss: 0.7129, Val Loss: 0.7424, Val Accuracy: 0.7420
+Epoch 6/40 - 2024-10-30 01:22:10.737324
+Train Loss: 0.6313, Val Loss: 0.8147, Val Accuracy: 0.7342
+Epoch 7/40 - 2024-10-30 01:22:31.431775
+Train Loss: 0.5639, Val Loss: 0.6247, Val Accuracy: 0.7874
+Epoch 8/40 - 2024-10-30 01:22:52.096452
+Train Loss: 0.4977, Val Loss: 0.6608, Val Accuracy: 0.7816
+Epoch 9/40 - 2024-10-30 01:23:12.780081
+Train Loss: 0.4470, Val Loss: 0.6982, Val Accuracy: 0.7756
+Epoch 10/40 - 2024-10-30 01:23:33.476377
+Train Loss: 0.4004, Val Loss: 0.6688, Val Accuracy: 0.7818
+Trial 81 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 82 - 2024-10-30 01:23:54.212442
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06340521075965469, weight_decay=1.2714732301270696e-05, batch_size=128, scheduler_lr1=0.8036361291547318, scheduler_lr2=0.09428782507204372, scheduler_lr3=0.009763298346109589, scheduler_lr4=0.007318053103614404, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 01:23:54.212591
+Train Loss: 1.6638, Val Loss: 1.3691, Val Accuracy: 0.4876
+Epoch 2/40 - 2024-10-30 01:24:14.914241
+Train Loss: 1.1662, Val Loss: 1.0827, Val Accuracy: 0.6028
+Epoch 3/40 - 2024-10-30 01:24:35.595605
+Train Loss: 0.9296, Val Loss: 0.8562, Val Accuracy: 0.6942
+Epoch 4/40 - 2024-10-30 01:24:56.264876
+Train Loss: 0.7822, Val Loss: 0.8605, Val Accuracy: 0.6948
+Epoch 5/40 - 2024-10-30 01:25:16.960099
+Train Loss: 0.6814, Val Loss: 0.7181, Val Accuracy: 0.7534
+Epoch 6/40 - 2024-10-30 01:25:37.651323
+Train Loss: 0.6081, Val Loss: 0.6810, Val Accuracy: 0.7560
+Epoch 7/40 - 2024-10-30 01:25:58.317178
+Train Loss: 0.5432, Val Loss: 0.6881, Val Accuracy: 0.7624
+Epoch 8/40 - 2024-10-30 01:26:19.018015
+Train Loss: 0.4800, Val Loss: 0.6437, Val Accuracy: 0.7802
+Epoch 9/40 - 2024-10-30 01:26:39.702912
+Train Loss: 0.4321, Val Loss: 0.6392, Val Accuracy: 0.7860
+Epoch 10/40 - 2024-10-30 01:27:00.382301
+Train Loss: 0.3867, Val Loss: 0.6548, Val Accuracy: 0.7810
+Trial 82 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 83 - 2024-10-30 01:27:21.153328
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05070573802237408, weight_decay=3.1703727157642366e-05, batch_size=128, scheduler_lr1=0.8007441521976696, scheduler_lr2=0.09497413081574696, scheduler_lr3=0.009907728275401121, scheduler_lr4=0.007212795246761496, scheduler_epoch1=10, scheduler_epoch2=12, , scheduler_epoch3=15
+Epoch 1/40 - 2024-10-30 01:27:21.153463
+Train Loss: 1.6367, Val Loss: 1.8056, Val Accuracy: 0.4142
+Trial 83 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 84 - 2024-10-30 01:27:41.917160
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.05450416500421673, weight_decay=2.4311233886672367e-05, batch_size=128, scheduler_lr1=0.8206859350522436, scheduler_lr2=0.09573799143320906, scheduler_lr3=0.00981531184171792, scheduler_lr4=0.007136385049973513, scheduler_epoch1=13, scheduler_epoch2=15, , scheduler_epoch3=21
+Epoch 1/40 - 2024-10-30 01:27:41.917331
+Train Loss: 1.6013, Val Loss: 1.3005, Val Accuracy: 0.5262
+Epoch 2/40 - 2024-10-30 01:28:02.609379
+Train Loss: 1.0966, Val Loss: 1.0321, Val Accuracy: 0.6332
+Epoch 3/40 - 2024-10-30 01:28:23.243860
+Train Loss: 0.8939, Val Loss: 0.8775, Val Accuracy: 0.6868
+Epoch 4/40 - 2024-10-30 01:28:43.901131
+Train Loss: 0.7704, Val Loss: 0.7186, Val Accuracy: 0.7436
+Epoch 5/40 - 2024-10-30 01:29:04.579026
+Train Loss: 0.6761, Val Loss: 0.6772, Val Accuracy: 0.7638
+Epoch 6/40 - 2024-10-30 01:29:25.243232
+Train Loss: 0.5951, Val Loss: 0.6596, Val Accuracy: 0.7702
+Epoch 7/40 - 2024-10-30 01:29:45.913391
+Train Loss: 0.5429, Val Loss: 0.6445, Val Accuracy: 0.7796
+Epoch 8/40 - 2024-10-30 01:30:06.576134
+Train Loss: 0.4883, Val Loss: 0.7390, Val Accuracy: 0.7518
+Epoch 9/40 - 2024-10-30 01:30:27.235078
+Train Loss: 0.4388, Val Loss: 0.6698, Val Accuracy: 0.7738
+Epoch 10/40 - 2024-10-30 01:30:47.910081
+Train Loss: 0.3930, Val Loss: 0.6598, Val Accuracy: 0.7790
+Trial 84 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 85 - 2024-10-30 01:31:08.683721
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06840246610412341, weight_decay=1.0308941121219016e-06, batch_size=128, scheduler_lr1=0.981831506169034, scheduler_lr2=0.09246982986833101, scheduler_lr3=0.009661089373158696, scheduler_lr4=0.0070884420964660395, scheduler_epoch1=12, scheduler_epoch2=14, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 01:31:08.683858
+Train Loss: 1.7273, Val Loss: 1.3969, Val Accuracy: 0.4948
+Epoch 2/40 - 2024-10-30 01:31:29.362278
+Train Loss: 1.2354, Val Loss: 1.1912, Val Accuracy: 0.5694
+Epoch 3/40 - 2024-10-30 01:31:50.037476
+Train Loss: 1.0341, Val Loss: 1.0193, Val Accuracy: 0.6358
+Epoch 4/40 - 2024-10-30 01:32:10.676707
+Train Loss: 0.8817, Val Loss: 0.9272, Val Accuracy: 0.6594
+Trial 85 pruned at epoch 4
+
+
+--- New Trial ---
+Trial 86 - 2024-10-30 01:32:31.518286
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0917249858703327, weight_decay=0.0001295584384894391, batch_size=128, scheduler_lr1=0.835455071757404, scheduler_lr2=0.08997637481043572, scheduler_lr3=0.008705136390930016, scheduler_lr4=0.007964412870679805, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 01:32:31.518407
+Train Loss: 1.7824, Val Loss: 1.4712, Val Accuracy: 0.4568
+Epoch 2/40 - 2024-10-30 01:32:52.228483
+Train Loss: 1.2379, Val Loss: 1.7003, Val Accuracy: 0.4982
+Trial 86 pruned at epoch 2
+
+
+--- New Trial ---
+Trial 87 - 2024-10-30 01:33:12.973139
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.05832914588622367, weight_decay=9.42913188690558e-06, batch_size=128, scheduler_lr1=0.9203167071399845, scheduler_lr2=0.09689700691992104, scheduler_lr3=0.009499383958919146, scheduler_lr4=0.007341874620788462, scheduler_epoch1=10, scheduler_epoch2=25, , scheduler_epoch3=31
+Epoch 1/40 - 2024-10-30 01:33:12.973264
+Train Loss: 2.0110, Val Loss: 1.7925, Val Accuracy: 0.3190
+Trial 87 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 88 - 2024-10-30 01:33:33.104813
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0842235021301402, weight_decay=6.0350288150646445e-06, batch_size=128, scheduler_lr1=0.8271054263191864, scheduler_lr2=0.09807856015580647, scheduler_lr3=0.008337487887884257, scheduler_lr4=0.006770455395029925, scheduler_epoch1=7, scheduler_epoch2=11, , scheduler_epoch3=16
+Epoch 1/40 - 2024-10-30 01:33:33.104945
+Train Loss: 1.6519, Val Loss: 1.2955, Val Accuracy: 0.5380
+Epoch 2/40 - 2024-10-30 01:33:53.815603
+Train Loss: 1.1631, Val Loss: 1.2957, Val Accuracy: 0.5728
+Epoch 3/40 - 2024-10-30 01:34:14.474829
+Train Loss: 0.9541, Val Loss: 0.8430, Val Accuracy: 0.6984
+Epoch 4/40 - 2024-10-30 01:34:35.170834
+Train Loss: 0.8155, Val Loss: 0.7499, Val Accuracy: 0.7306
+Epoch 5/40 - 2024-10-30 01:34:55.839107
+Train Loss: 0.7109, Val Loss: 0.7253, Val Accuracy: 0.7478
+Epoch 6/40 - 2024-10-30 01:35:16.526686
+Train Loss: 0.6336, Val Loss: 0.6975, Val Accuracy: 0.7560
+Epoch 7/40 - 2024-10-30 01:35:37.201945
+Train Loss: 0.5703, Val Loss: 0.6370, Val Accuracy: 0.7812
+Epoch 8/40 - 2024-10-30 01:35:57.865392
+Train Loss: 0.3955, Val Loss: 0.5019, Val Accuracy: 0.8234
+Epoch 9/40 - 2024-10-30 01:36:18.571588
+Train Loss: 0.3386, Val Loss: 0.5108, Val Accuracy: 0.8240
+Epoch 10/40 - 2024-10-30 01:36:39.250969
+Train Loss: 0.3090, Val Loss: 0.5148, Val Accuracy: 0.8284
+Epoch 11/40 - 2024-10-30 01:36:59.922726
+Train Loss: 0.2831, Val Loss: 0.5256, Val Accuracy: 0.8270
+Epoch 12/40 - 2024-10-30 01:37:20.608545
+Train Loss: 0.2429, Val Loss: 0.5245, Val Accuracy: 0.8260
+Trial 88 pruned at epoch 12
+
+
+--- New Trial ---
+Trial 89 - 2024-10-30 01:37:41.371105
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.12807568188161797, weight_decay=0.002447100566384998, batch_size=128, scheduler_lr1=0.9573225937751313, scheduler_lr2=0.09623749921213297, scheduler_lr3=0.008829415222069032, scheduler_lr4=0.006524868289802336, scheduler_epoch1=12, scheduler_epoch2=14, , scheduler_epoch3=23
+Epoch 1/40 - 2024-10-30 01:37:41.371246
+Train Loss: 1.8367, Val Loss: 1.8494, Val Accuracy: 0.3222
+Trial 89 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 90 - 2024-10-30 01:38:02.117840
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.13336809630838647, weight_decay=0.005046724898100301, batch_size=128, scheduler_lr1=0.9154490993987241, scheduler_lr2=0.09177049097339875, scheduler_lr3=0.009687869604952168, scheduler_lr4=0.006124394712464231, scheduler_epoch1=9, scheduler_epoch2=12, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-30 01:38:02.117975
+Train Loss: 2.4351, Val Loss: 2.1352, Val Accuracy: 0.2032
+Trial 90 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 91 - 2024-10-30 01:38:22.873343
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07794451171407789, weight_decay=9.467089153076776e-05, batch_size=128, scheduler_lr1=0.9252980929965369, scheduler_lr2=0.09348695326050298, scheduler_lr3=0.008663478459687268, scheduler_lr4=0.006985475555033458, scheduler_epoch1=9, scheduler_epoch2=16, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 01:38:22.873477
+Train Loss: 1.5565, Val Loss: 1.4976, Val Accuracy: 0.4940
+Epoch 2/40 - 2024-10-30 01:38:43.620099
+Train Loss: 1.0664, Val Loss: 1.0320, Val Accuracy: 0.6450
+Epoch 3/40 - 2024-10-30 01:39:04.296347
+Train Loss: 0.8591, Val Loss: 0.8335, Val Accuracy: 0.7020
+Epoch 4/40 - 2024-10-30 01:39:24.980390
+Train Loss: 0.7284, Val Loss: 0.7471, Val Accuracy: 0.7350
+Epoch 5/40 - 2024-10-30 01:39:45.642744
+Train Loss: 0.6443, Val Loss: 0.7356, Val Accuracy: 0.7510
+Epoch 6/40 - 2024-10-30 01:40:06.245092
+Train Loss: 0.5820, Val Loss: 0.6318, Val Accuracy: 0.7738
+Epoch 7/40 - 2024-10-30 01:40:26.814584
+Train Loss: 0.5223, Val Loss: 0.6708, Val Accuracy: 0.7756
+Epoch 8/40 - 2024-10-30 01:40:47.376850
+Train Loss: 0.4763, Val Loss: 0.5901, Val Accuracy: 0.7946
+Epoch 9/40 - 2024-10-30 01:41:07.964556
+Train Loss: 0.4360, Val Loss: 0.6733, Val Accuracy: 0.7660
+Epoch 10/40 - 2024-10-30 01:41:28.509795
+Train Loss: 0.2718, Val Loss: 0.4592, Val Accuracy: 0.8462
+Epoch 11/40 - 2024-10-30 01:41:49.093088
+Train Loss: 0.2175, Val Loss: 0.4707, Val Accuracy: 0.8460
+Epoch 12/40 - 2024-10-30 01:42:09.679814
+Train Loss: 0.1900, Val Loss: 0.4932, Val Accuracy: 0.8408
+Epoch 13/40 - 2024-10-30 01:42:30.244942
+Train Loss: 0.1691, Val Loss: 0.5020, Val Accuracy: 0.8430
+Epoch 14/40 - 2024-10-30 01:42:50.823699
+Train Loss: 0.1497, Val Loss: 0.5276, Val Accuracy: 0.8444
+Epoch 15/40 - 2024-10-30 01:43:11.393694
+Train Loss: 0.1302, Val Loss: 0.5435, Val Accuracy: 0.8374
+Epoch 16/40 - 2024-10-30 01:43:31.956444
+Train Loss: 0.1153, Val Loss: 0.5697, Val Accuracy: 0.8400
+Epoch 17/40 - 2024-10-30 01:43:52.538638
+Train Loss: 0.0890, Val Loss: 0.5613, Val Accuracy: 0.8422
+Epoch 18/40 - 2024-10-30 01:44:13.125658
+Train Loss: 0.0851, Val Loss: 0.5597, Val Accuracy: 0.8410
+Early stopping at epoch 18
+Final Test Accuracy: 0.8335 - 2024-10-30 01:44:35.353231
+
+
+--- New Trial ---
+Trial 92 - 2024-10-30 01:44:35.427521
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08698925008917915, weight_decay=4.414658454194654e-05, batch_size=128, scheduler_lr1=0.9270556864606487, scheduler_lr2=0.08780726334971853, scheduler_lr3=0.008481371957546283, scheduler_lr4=0.00704071868716383, scheduler_epoch1=9, scheduler_epoch2=16, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-30 01:44:35.427642
+Train Loss: 1.6739, Val Loss: 1.4630, Val Accuracy: 0.4592
+Epoch 2/40 - 2024-10-30 01:44:56.023816
+Train Loss: 1.2199, Val Loss: 1.1896, Val Accuracy: 0.5696
+Epoch 3/40 - 2024-10-30 01:45:16.575207
+Train Loss: 0.9763, Val Loss: 1.0021, Val Accuracy: 0.6476
+Epoch 4/40 - 2024-10-30 01:45:37.160580
+Train Loss: 0.8174, Val Loss: 0.8073, Val Accuracy: 0.7164
+Epoch 5/40 - 2024-10-30 01:45:57.732380
+Train Loss: 0.7181, Val Loss: 0.8377, Val Accuracy: 0.7086
+Trial 92 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 93 - 2024-10-30 01:46:18.346926
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0712226298752015, weight_decay=7.687971445947428e-05, batch_size=128, scheduler_lr1=0.8969444327013664, scheduler_lr2=0.09405814594303478, scheduler_lr3=0.008642990087025574, scheduler_lr4=0.0069063104268396085, scheduler_epoch1=8, scheduler_epoch2=17, , scheduler_epoch3=24
+Epoch 1/40 - 2024-10-30 01:46:18.347042
+Train Loss: 1.5578, Val Loss: 1.2640, Val Accuracy: 0.5544
+Epoch 2/40 - 2024-10-30 01:46:38.923057
+Train Loss: 1.0556, Val Loss: 1.0013, Val Accuracy: 0.6378
+Epoch 3/40 - 2024-10-30 01:46:59.485473
+Train Loss: 0.8521, Val Loss: 0.7997, Val Accuracy: 0.7188
+Epoch 4/40 - 2024-10-30 01:47:20.050944
+Train Loss: 0.7247, Val Loss: 0.7971, Val Accuracy: 0.7188
+Epoch 5/40 - 2024-10-30 01:47:40.651151
+Train Loss: 0.6471, Val Loss: 0.6779, Val Accuracy: 0.7612
+Epoch 6/40 - 2024-10-30 01:48:01.221160
+Train Loss: 0.5630, Val Loss: 0.7723, Val Accuracy: 0.7408
+Epoch 7/40 - 2024-10-30 01:48:21.813473
+Train Loss: 0.5147, Val Loss: 0.6514, Val Accuracy: 0.7788
+Epoch 8/40 - 2024-10-30 01:48:42.382717
+Train Loss: 0.4685, Val Loss: 0.6778, Val Accuracy: 0.7660
+Epoch 9/40 - 2024-10-30 01:49:02.950238
+Train Loss: 0.2935, Val Loss: 0.4946, Val Accuracy: 0.8328
+Epoch 10/40 - 2024-10-30 01:49:23.520268
+Train Loss: 0.2373, Val Loss: 0.5061, Val Accuracy: 0.8306
+Epoch 11/40 - 2024-10-30 01:49:44.067800
+Train Loss: 0.2074, Val Loss: 0.5333, Val Accuracy: 0.8262
+Epoch 12/40 - 2024-10-30 01:50:04.640829
+Train Loss: 0.1865, Val Loss: 0.5388, Val Accuracy: 0.8304
+Epoch 13/40 - 2024-10-30 01:50:25.227803
+Train Loss: 0.1640, Val Loss: 0.5711, Val Accuracy: 0.8246
+Trial 93 pruned at epoch 13
+
+
+--- New Trial ---
+Trial 94 - 2024-10-30 01:50:45.866577
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.0601191600976141, weight_decay=0.00017474370530065186, batch_size=128, scheduler_lr1=0.9379817617870034, scheduler_lr2=0.09883369741531928, scheduler_lr3=0.00960598308123892, scheduler_lr4=0.006972202673179686, scheduler_epoch1=10, scheduler_epoch2=16, , scheduler_epoch3=26
+Epoch 1/40 - 2024-10-30 01:50:45.866731
+Train Loss: 1.5605, Val Loss: 1.3151, Val Accuracy: 0.5244
+Epoch 2/40 - 2024-10-30 01:51:06.470030
+Train Loss: 1.0844, Val Loss: 0.9993, Val Accuracy: 0.6388
+Epoch 3/40 - 2024-10-30 01:51:27.082448
+Train Loss: 0.8821, Val Loss: 0.9110, Val Accuracy: 0.6706
+Epoch 4/40 - 2024-10-30 01:51:47.628689
+Train Loss: 0.7510, Val Loss: 0.8604, Val Accuracy: 0.6906
+Epoch 5/40 - 2024-10-30 01:52:08.207899
+Train Loss: 0.6564, Val Loss: 0.6883, Val Accuracy: 0.7560
+Epoch 6/40 - 2024-10-30 01:52:28.765359
+Train Loss: 0.5799, Val Loss: 0.7571, Val Accuracy: 0.7426
+Epoch 7/40 - 2024-10-30 01:52:49.346982
+Train Loss: 0.5200, Val Loss: 0.6163, Val Accuracy: 0.7846
+Epoch 8/40 - 2024-10-30 01:53:09.925799
+Train Loss: 0.4683, Val Loss: 0.6076, Val Accuracy: 0.7862
+Epoch 9/40 - 2024-10-30 01:53:30.468220
+Train Loss: 0.4280, Val Loss: 0.5981, Val Accuracy: 0.7940
+Epoch 10/40 - 2024-10-30 01:53:51.041595
+Train Loss: 0.3906, Val Loss: 0.6102, Val Accuracy: 0.7956
+Trial 94 pruned at epoch 10
+
+
+--- New Trial ---
+Trial 95 - 2024-10-30 01:54:11.685558
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.06446051615742339, weight_decay=0.0008644930137567234, batch_size=128, scheduler_lr1=0.9329383674611518, scheduler_lr2=0.08915724863642238, scheduler_lr3=0.008998126542151917, scheduler_lr4=0.007169884310369235, scheduler_epoch1=11, scheduler_epoch2=13, , scheduler_epoch3=35
+Epoch 1/40 - 2024-10-30 01:54:11.685673
+Train Loss: 1.5201, Val Loss: 1.1708, Val Accuracy: 0.5856
+Epoch 2/40 - 2024-10-30 01:54:32.267831
+Train Loss: 1.0304, Val Loss: 1.0182, Val Accuracy: 0.6408
+Epoch 3/40 - 2024-10-30 01:54:52.832169
+Train Loss: 0.8607, Val Loss: 0.8916, Val Accuracy: 0.6810
+Epoch 4/40 - 2024-10-30 01:55:13.372312
+Train Loss: 0.7673, Val Loss: 0.8345, Val Accuracy: 0.7122
+Epoch 5/40 - 2024-10-30 01:55:33.940399
+Train Loss: 0.7013, Val Loss: 0.9149, Val Accuracy: 0.6830
+Trial 95 pruned at epoch 5
+
+
+--- New Trial ---
+Trial 96 - 2024-10-30 01:55:54.583307
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ReLU'>, optimizer=SGD, lr=0.0997899316233514, weight_decay=0.0013604020739550924, batch_size=128, scheduler_lr1=0.8649308197066614, scheduler_lr2=0.09295529519490245, scheduler_lr3=0.008538074872829739, scheduler_lr4=0.0072118088296230344, scheduler_epoch1=6, scheduler_epoch2=18, , scheduler_epoch3=25
+Epoch 1/40 - 2024-10-30 01:55:54.583439
+Train Loss: 2.2531, Val Loss: 1.9789, Val Accuracy: 0.2710
+Trial 96 pruned at epoch 1
+
+
+--- New Trial ---
+Trial 97 - 2024-10-30 01:56:14.575201
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.07577842159055773, weight_decay=0.0002919760614636544, batch_size=128, scheduler_lr1=0.9461569562788308, scheduler_lr2=0.09519186793992263, scheduler_lr3=0.009951409653288284, scheduler_lr4=0.007497210184618177, scheduler_epoch1=8, scheduler_epoch2=11, , scheduler_epoch3=13
+Epoch 1/40 - 2024-10-30 01:56:14.575325
+Train Loss: 1.7534, Val Loss: 1.4545, Val Accuracy: 0.4642
+Epoch 2/40 - 2024-10-30 01:56:35.154203
+Train Loss: 1.2936, Val Loss: 1.3184, Val Accuracy: 0.5368
+Trial 97 pruned at epoch 2
+
+
+--- New Trial ---
+Trial 98 - 2024-10-30 01:56:55.799408
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.10900873285469515, weight_decay=1.730017152346542e-05, batch_size=128, scheduler_lr1=0.9226957452197735, scheduler_lr2=0.09217918679609449, scheduler_lr3=0.008710641133151243, scheduler_lr4=0.006856500983496566, scheduler_epoch1=10, scheduler_epoch2=24, , scheduler_epoch3=28
+Epoch 1/40 - 2024-10-30 01:56:55.799531
+Train Loss: 1.8088, Val Loss: 1.4557, Val Accuracy: 0.4716
+Epoch 2/40 - 2024-10-30 01:57:16.390763
+Train Loss: 1.3235, Val Loss: 1.2436, Val Accuracy: 0.5568
+Trial 98 pruned at epoch 2
+
+
+--- New Trial ---
+Trial 99 - 2024-10-30 01:57:37.060458
+Hyperparameters: activation=<class 'torch.nn.modules.activation.ELU'>, optimizer=SGD, lr=0.08109454875453123, weight_decay=2.9582977572137334e-05, batch_size=128, scheduler_lr1=0.9121743062100289, scheduler_lr2=0.08677869662315169, scheduler_lr3=0.008374882044696576, scheduler_lr4=0.006473069117921359, scheduler_epoch1=13, scheduler_epoch2=19, , scheduler_epoch3=22
+Epoch 1/40 - 2024-10-30 01:57:37.060585
+Train Loss: 1.7053, Val Loss: 1.3856, Val Accuracy: 0.4930
+Epoch 2/40 - 2024-10-30 01:57:57.673117
+Train Loss: 1.1978, Val Loss: 1.2565, Val Accuracy: 0.5532
+Trial 99 pruned at epoch 2

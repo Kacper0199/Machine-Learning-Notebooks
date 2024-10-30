@@ -1,0 +1,1109 @@
+
+
+--- New Trial ---
+Trial 0 - 2024-10-28 23:27:40.443928
+Hyperparameters: lr=0.00030048022431969275, conv1_out_channels=24, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.0955010286809535, weight_decay=0.0009180029880606135, batch_size=64
+Epoch 1/20 - 2024-10-28 23:27:40.444191
+Train Loss: 1.9146, Val Loss: 1.7201, Val Accuracy: 0.3656
+Epoch 2/20 - 2024-10-28 23:27:53.283448
+Train Loss: 1.6859, Val Loss: 1.6225, Val Accuracy: 0.4140
+Epoch 3/20 - 2024-10-28 23:28:04.646632
+Train Loss: 1.6045, Val Loss: 1.5530, Val Accuracy: 0.4400
+Epoch 4/20 - 2024-10-28 23:28:15.896834
+Train Loss: 1.5524, Val Loss: 1.5034, Val Accuracy: 0.4500
+Epoch 5/20 - 2024-10-28 23:28:27.132018
+Train Loss: 1.5182, Val Loss: 1.4822, Val Accuracy: 0.4684
+Epoch 6/20 - 2024-10-28 23:28:38.406608
+Train Loss: 1.4847, Val Loss: 1.4407, Val Accuracy: 0.4766
+Epoch 7/20 - 2024-10-28 23:28:49.651394
+Train Loss: 1.4531, Val Loss: 1.4151, Val Accuracy: 0.4908
+Epoch 8/20 - 2024-10-28 23:29:00.917866
+Train Loss: 1.4216, Val Loss: 1.3741, Val Accuracy: 0.5048
+Epoch 9/20 - 2024-10-28 23:29:12.154663
+Train Loss: 1.3996, Val Loss: 1.3643, Val Accuracy: 0.5034
+Epoch 10/20 - 2024-10-28 23:29:23.397708
+Train Loss: 1.3693, Val Loss: 1.3144, Val Accuracy: 0.5284
+Epoch 11/20 - 2024-10-28 23:29:34.668204
+Train Loss: 1.3476, Val Loss: 1.3429, Val Accuracy: 0.5138
+Epoch 12/20 - 2024-10-28 23:29:45.913616
+Train Loss: 1.3261, Val Loss: 1.2746, Val Accuracy: 0.5400
+Epoch 13/20 - 2024-10-28 23:29:57.172428
+Train Loss: 1.3024, Val Loss: 1.2630, Val Accuracy: 0.5372
+Epoch 14/20 - 2024-10-28 23:30:08.395978
+Train Loss: 1.2867, Val Loss: 1.2369, Val Accuracy: 0.5436
+Epoch 15/20 - 2024-10-28 23:30:19.620288
+Train Loss: 1.2669, Val Loss: 1.2474, Val Accuracy: 0.5540
+Epoch 16/20 - 2024-10-28 23:30:30.977720
+Train Loss: 1.2574, Val Loss: 1.1885, Val Accuracy: 0.5722
+Epoch 17/20 - 2024-10-28 23:30:42.402181
+Train Loss: 1.2388, Val Loss: 1.1958, Val Accuracy: 0.5680
+Epoch 18/20 - 2024-10-28 23:30:53.676980
+Train Loss: 1.2184, Val Loss: 1.1851, Val Accuracy: 0.5726
+Epoch 19/20 - 2024-10-28 23:31:05.055670
+Train Loss: 1.2068, Val Loss: 1.1572, Val Accuracy: 0.5896
+Epoch 20/20 - 2024-10-28 23:31:16.296128
+Train Loss: 1.1947, Val Loss: 1.1611, Val Accuracy: 0.5820
+Final Test Accuracy: 0.5787 - 2024-10-28 23:31:29.215500
+
+
+--- New Trial ---
+Trial 1 - 2024-10-28 23:31:29.220604
+Hyperparameters: lr=4.7281704849568736e-05, conv1_out_channels=6, conv2_out_channels=32, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.011221372338064806, weight_decay=2.0321048174018825e-05, batch_size=128
+Epoch 1/20 - 2024-10-28 23:31:29.220661
+Train Loss: 2.1745, Val Loss: 2.0256, Val Accuracy: 0.2668
+Epoch 2/20 - 2024-10-28 23:31:38.915793
+Train Loss: 1.9532, Val Loss: 1.9038, Val Accuracy: 0.3110
+Epoch 3/20 - 2024-10-28 23:31:47.285614
+Train Loss: 1.8765, Val Loss: 1.8380, Val Accuracy: 0.3326
+Epoch 4/20 - 2024-10-28 23:31:55.678137
+Train Loss: 1.8261, Val Loss: 1.8048, Val Accuracy: 0.3418
+Epoch 5/20 - 2024-10-28 23:32:03.951787
+Train Loss: 1.7909, Val Loss: 1.7659, Val Accuracy: 0.3628
+Epoch 6/20 - 2024-10-28 23:32:12.098744
+Train Loss: 1.7673, Val Loss: 1.7544, Val Accuracy: 0.3534
+Epoch 7/20 - 2024-10-28 23:32:20.603624
+Train Loss: 1.7438, Val Loss: 1.7342, Val Accuracy: 0.3658
+Epoch 8/20 - 2024-10-28 23:32:29.058558
+Train Loss: 1.7305, Val Loss: 1.7224, Val Accuracy: 0.3678
+Epoch 9/20 - 2024-10-28 23:32:37.288373
+Train Loss: 1.7129, Val Loss: 1.7094, Val Accuracy: 0.3800
+Epoch 10/20 - 2024-10-28 23:32:45.506051
+Train Loss: 1.6988, Val Loss: 1.6881, Val Accuracy: 0.3822
+Epoch 11/20 - 2024-10-28 23:32:53.733934
+Train Loss: 1.6890, Val Loss: 1.6738, Val Accuracy: 0.3876
+Epoch 12/20 - 2024-10-28 23:33:01.982286
+Train Loss: 1.6781, Val Loss: 1.6733, Val Accuracy: 0.3836
+Epoch 13/20 - 2024-10-28 23:33:10.122209
+Train Loss: 1.6660, Val Loss: 1.6603, Val Accuracy: 0.3904
+Epoch 14/20 - 2024-10-28 23:33:18.307427
+Train Loss: 1.6571, Val Loss: 1.6482, Val Accuracy: 0.3962
+Epoch 15/20 - 2024-10-28 23:33:26.630227
+Train Loss: 1.6472, Val Loss: 1.6323, Val Accuracy: 0.4024
+Epoch 16/20 - 2024-10-28 23:33:34.867013
+Train Loss: 1.6415, Val Loss: 1.6316, Val Accuracy: 0.3962
+Epoch 17/20 - 2024-10-28 23:33:43.113684
+Train Loss: 1.6279, Val Loss: 1.6194, Val Accuracy: 0.4102
+Epoch 18/20 - 2024-10-28 23:33:51.542644
+Train Loss: 1.6221, Val Loss: 1.6172, Val Accuracy: 0.4078
+Epoch 19/20 - 2024-10-28 23:33:59.655087
+Train Loss: 1.6137, Val Loss: 1.6104, Val Accuracy: 0.4178
+Epoch 20/20 - 2024-10-28 23:34:07.911385
+Train Loss: 1.6062, Val Loss: 1.5952, Val Accuracy: 0.4134
+Final Test Accuracy: 0.4219 - 2024-10-28 23:34:17.403195
+
+
+--- New Trial ---
+Trial 2 - 2024-10-28 23:34:17.410470
+Hyperparameters: lr=0.00035995127577887625, conv1_out_channels=6, conv2_out_channels=32, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.0937760136899895, weight_decay=1.711062433842264e-06, batch_size=128
+Epoch 1/20 - 2024-10-28 23:34:17.410568
+Train Loss: 1.9594, Val Loss: 1.7742, Val Accuracy: 0.3576
+Epoch 2/20 - 2024-10-28 23:34:26.004040
+Train Loss: 1.7361, Val Loss: 1.6532, Val Accuracy: 0.4024
+Epoch 3/20 - 2024-10-28 23:34:34.314297
+Train Loss: 1.6357, Val Loss: 1.5935, Val Accuracy: 0.4272
+Epoch 4/20 - 2024-10-28 23:34:42.855806
+Train Loss: 1.5750, Val Loss: 1.5234, Val Accuracy: 0.4496
+Epoch 5/20 - 2024-10-28 23:34:52.150534
+Train Loss: 1.5266, Val Loss: 1.4854, Val Accuracy: 0.4602
+Epoch 6/20 - 2024-10-28 23:35:00.515445
+Train Loss: 1.4932, Val Loss: 1.4575, Val Accuracy: 0.4698
+Epoch 7/20 - 2024-10-28 23:35:09.525740
+Train Loss: 1.4542, Val Loss: 1.4378, Val Accuracy: 0.4804
+Epoch 8/20 - 2024-10-28 23:35:17.995333
+Train Loss: 1.4225, Val Loss: 1.3929, Val Accuracy: 0.4938
+Epoch 9/20 - 2024-10-28 23:35:26.658536
+Train Loss: 1.3977, Val Loss: 1.3874, Val Accuracy: 0.5002
+Epoch 10/20 - 2024-10-28 23:35:35.909052
+Train Loss: 1.3724, Val Loss: 1.3439, Val Accuracy: 0.5116
+Epoch 11/20 - 2024-10-28 23:35:44.237131
+Train Loss: 1.3516, Val Loss: 1.3307, Val Accuracy: 0.5238
+Epoch 12/20 - 2024-10-28 23:35:52.543346
+Train Loss: 1.3336, Val Loss: 1.3182, Val Accuracy: 0.5286
+Epoch 13/20 - 2024-10-28 23:36:00.851793
+Train Loss: 1.3107, Val Loss: 1.2951, Val Accuracy: 0.5396
+Epoch 14/20 - 2024-10-28 23:36:09.156819
+Train Loss: 1.2896, Val Loss: 1.2933, Val Accuracy: 0.5320
+Epoch 15/20 - 2024-10-28 23:36:17.289724
+Train Loss: 1.2770, Val Loss: 1.2731, Val Accuracy: 0.5434
+Epoch 16/20 - 2024-10-28 23:36:25.761459
+Train Loss: 1.2638, Val Loss: 1.2296, Val Accuracy: 0.5560
+Epoch 17/20 - 2024-10-28 23:36:34.447690
+Train Loss: 1.2424, Val Loss: 1.2321, Val Accuracy: 0.5560
+Epoch 18/20 - 2024-10-28 23:36:42.849002
+Train Loss: 1.2216, Val Loss: 1.2103, Val Accuracy: 0.5668
+Epoch 19/20 - 2024-10-28 23:36:51.110815
+Train Loss: 1.2135, Val Loss: 1.2091, Val Accuracy: 0.5668
+Epoch 20/20 - 2024-10-28 23:36:59.254636
+Train Loss: 1.1986, Val Loss: 1.1905, Val Accuracy: 0.5744
+Final Test Accuracy: 0.5755 - 2024-10-28 23:37:08.559927
+
+
+--- New Trial ---
+Trial 3 - 2024-10-28 23:37:08.564986
+Hyperparameters: lr=0.0018288837915411552, conv1_out_channels=6, conv2_out_channels=32, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.163373843395542, weight_decay=4.919053672995655e-05, batch_size=128
+Epoch 1/20 - 2024-10-28 23:37:08.565042
+Train Loss: 1.8272, Val Loss: 1.6228, Val Accuracy: 0.3844
+Epoch 2/20 - 2024-10-28 23:37:17.387024
+Train Loss: 1.5773, Val Loss: 1.4866, Val Accuracy: 0.4548
+Epoch 3/20 - 2024-10-28 23:37:25.471167
+Train Loss: 1.4929, Val Loss: 1.4241, Val Accuracy: 0.4836
+Epoch 4/20 - 2024-10-28 23:37:33.937228
+Train Loss: 1.4343, Val Loss: 1.3850, Val Accuracy: 0.4928
+Epoch 5/20 - 2024-10-28 23:37:42.496319
+Train Loss: 1.3821, Val Loss: 1.3167, Val Accuracy: 0.5142
+Epoch 6/20 - 2024-10-28 23:37:50.665445
+Train Loss: 1.3389, Val Loss: 1.3114, Val Accuracy: 0.5238
+Epoch 7/20 - 2024-10-28 23:37:58.821656
+Train Loss: 1.3060, Val Loss: 1.2607, Val Accuracy: 0.5420
+Epoch 8/20 - 2024-10-28 23:38:07.160431
+Train Loss: 1.2724, Val Loss: 1.2225, Val Accuracy: 0.5508
+Epoch 9/20 - 2024-10-28 23:38:15.561729
+Train Loss: 1.2521, Val Loss: 1.2067, Val Accuracy: 0.5654
+Epoch 10/20 - 2024-10-28 23:38:23.640962
+Train Loss: 1.2306, Val Loss: 1.1603, Val Accuracy: 0.5862
+Epoch 11/20 - 2024-10-28 23:38:31.735506
+Train Loss: 1.2092, Val Loss: 1.1665, Val Accuracy: 0.5884
+Epoch 12/20 - 2024-10-28 23:38:39.814969
+Train Loss: 1.1945, Val Loss: 1.1461, Val Accuracy: 0.5892
+Epoch 13/20 - 2024-10-28 23:38:47.979021
+Train Loss: 1.1819, Val Loss: 1.1204, Val Accuracy: 0.5978
+Epoch 14/20 - 2024-10-28 23:38:56.057518
+Train Loss: 1.1638, Val Loss: 1.1155, Val Accuracy: 0.5912
+Epoch 15/20 - 2024-10-28 23:39:04.157249
+Train Loss: 1.1592, Val Loss: 1.0958, Val Accuracy: 0.6076
+Epoch 16/20 - 2024-10-28 23:39:12.238234
+Train Loss: 1.1395, Val Loss: 1.0896, Val Accuracy: 0.6164
+Epoch 17/20 - 2024-10-28 23:39:20.318964
+Train Loss: 1.1324, Val Loss: 1.0847, Val Accuracy: 0.6166
+Epoch 18/20 - 2024-10-28 23:39:28.512973
+Train Loss: 1.1261, Val Loss: 1.0780, Val Accuracy: 0.6202
+Epoch 19/20 - 2024-10-28 23:39:36.599099
+Train Loss: 1.1133, Val Loss: 1.0807, Val Accuracy: 0.6170
+Epoch 20/20 - 2024-10-28 23:39:44.685381
+Train Loss: 1.1049, Val Loss: 1.0458, Val Accuracy: 0.6320
+Final Test Accuracy: 0.6288 - 2024-10-28 23:39:53.919288
+
+
+--- New Trial ---
+Trial 4 - 2024-10-28 23:39:53.924168
+Hyperparameters: lr=0.00037524816168131326, conv1_out_channels=24, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.4004767801701168, weight_decay=0.0003256724324385555, batch_size=128
+Epoch 1/20 - 2024-10-28 23:39:53.924245
+Train Loss: 2.0545, Val Loss: 1.8352, Val Accuracy: 0.3328
+Epoch 2/20 - 2024-10-28 23:40:03.087295
+Train Loss: 1.8191, Val Loss: 1.6922, Val Accuracy: 0.3836
+Epoch 3/20 - 2024-10-28 23:40:11.777776
+Train Loss: 1.7114, Val Loss: 1.6116, Val Accuracy: 0.4082
+Epoch 4/20 - 2024-10-28 23:40:20.497372
+Train Loss: 1.6474, Val Loss: 1.5598, Val Accuracy: 0.4188
+Epoch 5/20 - 2024-10-28 23:40:29.096285
+Train Loss: 1.6063, Val Loss: 1.5291, Val Accuracy: 0.4358
+Epoch 6/20 - 2024-10-28 23:40:37.640282
+Train Loss: 1.5769, Val Loss: 1.4974, Val Accuracy: 0.4484
+Epoch 7/20 - 2024-10-28 23:40:46.237422
+Train Loss: 1.5537, Val Loss: 1.4762, Val Accuracy: 0.4646
+Epoch 8/20 - 2024-10-28 23:40:54.796423
+Train Loss: 1.5354, Val Loss: 1.4621, Val Accuracy: 0.4586
+Epoch 9/20 - 2024-10-28 23:41:03.478816
+Train Loss: 1.5137, Val Loss: 1.4484, Val Accuracy: 0.4808
+Epoch 10/20 - 2024-10-28 23:41:11.982968
+Train Loss: 1.4945, Val Loss: 1.4193, Val Accuracy: 0.4848
+Epoch 11/20 - 2024-10-28 23:41:20.502840
+Train Loss: 1.4812, Val Loss: 1.3849, Val Accuracy: 0.5000
+Epoch 12/20 - 2024-10-28 23:41:29.091409
+Train Loss: 1.4587, Val Loss: 1.3895, Val Accuracy: 0.4948
+Epoch 13/20 - 2024-10-28 23:41:37.677958
+Train Loss: 1.4449, Val Loss: 1.3712, Val Accuracy: 0.5076
+Epoch 14/20 - 2024-10-28 23:41:46.207947
+Train Loss: 1.4329, Val Loss: 1.3447, Val Accuracy: 0.5208
+Epoch 15/20 - 2024-10-28 23:41:54.776062
+Train Loss: 1.4122, Val Loss: 1.3213, Val Accuracy: 0.5200
+Epoch 16/20 - 2024-10-28 23:42:03.402423
+Train Loss: 1.4047, Val Loss: 1.3272, Val Accuracy: 0.5208
+Epoch 17/20 - 2024-10-28 23:42:11.993850
+Train Loss: 1.3879, Val Loss: 1.3215, Val Accuracy: 0.5216
+Epoch 18/20 - 2024-10-28 23:42:20.582885
+Train Loss: 1.3707, Val Loss: 1.2754, Val Accuracy: 0.5378
+Epoch 19/20 - 2024-10-28 23:42:29.082164
+Train Loss: 1.3571, Val Loss: 1.2634, Val Accuracy: 0.5514
+Epoch 20/20 - 2024-10-28 23:42:37.682585
+Train Loss: 1.3411, Val Loss: 1.2472, Val Accuracy: 0.5514
+Final Test Accuracy: 0.5505 - 2024-10-28 23:42:47.589904
+
+
+--- New Trial ---
+Trial 5 - 2024-10-28 23:42:47.595656
+Hyperparameters: lr=0.00041351773076625346, conv1_out_channels=6, conv2_out_channels=32, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.39666872620872196, weight_decay=3.17498575638308e-05, batch_size=32
+Epoch 1/20 - 2024-10-28 23:42:47.595745
+Train Loss: 1.8734, Val Loss: 1.6346, Val Accuracy: 0.3994
+Epoch 2/20 - 2024-10-28 23:43:02.605423
+Train Loss: 1.6405, Val Loss: 1.5342, Val Accuracy: 0.4520
+Epoch 3/20 - 2024-10-28 23:43:17.430993
+Train Loss: 1.5551, Val Loss: 1.4620, Val Accuracy: 0.4640
+Epoch 4/20 - 2024-10-28 23:43:32.214154
+Train Loss: 1.4990, Val Loss: 1.4145, Val Accuracy: 0.4840
+Epoch 5/20 - 2024-10-28 23:43:47.139832
+Train Loss: 1.4536, Val Loss: 1.3798, Val Accuracy: 0.5012
+Epoch 6/20 - 2024-10-28 23:44:01.988891
+Train Loss: 1.4145, Val Loss: 1.3388, Val Accuracy: 0.5108
+Epoch 7/20 - 2024-10-28 23:44:16.810169
+Train Loss: 1.3867, Val Loss: 1.3017, Val Accuracy: 0.5288
+Epoch 8/20 - 2024-10-28 23:44:31.560770
+Train Loss: 1.3656, Val Loss: 1.3033, Val Accuracy: 0.5328
+Epoch 9/20 - 2024-10-28 23:44:46.446753
+Train Loss: 1.3385, Val Loss: 1.2999, Val Accuracy: 0.5280
+Epoch 10/20 - 2024-10-28 23:45:01.279977
+Train Loss: 1.3230, Val Loss: 1.2337, Val Accuracy: 0.5560
+Epoch 11/20 - 2024-10-28 23:45:16.115146
+Train Loss: 1.3021, Val Loss: 1.2527, Val Accuracy: 0.5548
+Epoch 12/20 - 2024-10-28 23:45:30.874948
+Train Loss: 1.2836, Val Loss: 1.1993, Val Accuracy: 0.5728
+Epoch 13/20 - 2024-10-28 23:45:45.808143
+Train Loss: 1.2711, Val Loss: 1.1831, Val Accuracy: 0.5814
+Epoch 14/20 - 2024-10-28 23:46:00.821094
+Train Loss: 1.2540, Val Loss: 1.1674, Val Accuracy: 0.5838
+Epoch 15/20 - 2024-10-28 23:46:16.484433
+Train Loss: 1.2362, Val Loss: 1.1510, Val Accuracy: 0.5860
+Epoch 16/20 - 2024-10-28 23:46:32.617821
+Train Loss: 1.2257, Val Loss: 1.1322, Val Accuracy: 0.6014
+Epoch 17/20 - 2024-10-28 23:46:48.863439
+Train Loss: 1.2141, Val Loss: 1.1232, Val Accuracy: 0.6044
+Epoch 18/20 - 2024-10-28 23:47:03.811009
+Train Loss: 1.1991, Val Loss: 1.1251, Val Accuracy: 0.6032
+Epoch 19/20 - 2024-10-28 23:47:19.094923
+Train Loss: 1.1873, Val Loss: 1.0962, Val Accuracy: 0.6130
+Epoch 20/20 - 2024-10-28 23:47:34.889058
+Train Loss: 1.1776, Val Loss: 1.0867, Val Accuracy: 0.6128
+Final Test Accuracy: 0.6149 - 2024-10-28 23:47:52.573218
+
+
+--- New Trial ---
+Trial 6 - 2024-10-28 23:47:52.580314
+Hyperparameters: lr=0.027930434313075892, conv1_out_channels=6, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.06021681488274644, weight_decay=3.1082543825532657e-06, batch_size=128
+Epoch 1/20 - 2024-10-28 23:47:52.580424
+Train Loss: 2.3127, Val Loss: 2.3046, Val Accuracy: 0.1006
+
+
+--- New Trial ---
+Trial 7 - 2024-10-28 23:48:00.725210
+Hyperparameters: lr=0.06828620828000517, conv1_out_channels=6, conv2_out_channels=64, fc1_out_features=256, fc2_out_features=128, dropout_rate=0.26093829171459837, weight_decay=0.0011668456057150522, batch_size=64
+Epoch 1/20 - 2024-10-28 23:48:00.725287
+Train Loss: 3.5050, Val Loss: 2.3078, Val Accuracy: 0.0986
+
+
+--- New Trial ---
+Trial 8 - 2024-10-28 23:48:12.552814
+Hyperparameters: lr=0.0002964816242284811, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.3004873357591499, weight_decay=0.00015936688838185571, batch_size=64
+Epoch 1/20 - 2024-10-28 23:48:12.552902
+Train Loss: 1.9291, Val Loss: 1.6904, Val Accuracy: 0.3784
+Epoch 2/20 - 2024-10-28 23:48:26.093383
+Train Loss: 1.6870, Val Loss: 1.5681, Val Accuracy: 0.4278
+Epoch 3/20 - 2024-10-28 23:48:38.724437
+Train Loss: 1.5902, Val Loss: 1.4877, Val Accuracy: 0.4540
+Epoch 4/20 - 2024-10-28 23:48:50.962722
+Train Loss: 1.5256, Val Loss: 1.4706, Val Accuracy: 0.4642
+Epoch 5/20 - 2024-10-28 23:49:04.827427
+Train Loss: 1.4793, Val Loss: 1.3931, Val Accuracy: 0.4886
+Epoch 6/20 - 2024-10-28 23:49:18.154461
+Train Loss: 1.4358, Val Loss: 1.3609, Val Accuracy: 0.5030
+Epoch 7/20 - 2024-10-28 23:49:30.891865
+Train Loss: 1.3940, Val Loss: 1.3459, Val Accuracy: 0.5094
+Epoch 8/20 - 2024-10-28 23:49:43.585283
+Train Loss: 1.3602, Val Loss: 1.2724, Val Accuracy: 0.5426
+Epoch 9/20 - 2024-10-28 23:49:56.257644
+Train Loss: 1.3203, Val Loss: 1.2530, Val Accuracy: 0.5530
+Epoch 10/20 - 2024-10-28 23:50:08.935762
+Train Loss: 1.2896, Val Loss: 1.2152, Val Accuracy: 0.5670
+Epoch 11/20 - 2024-10-28 23:50:21.731983
+Train Loss: 1.2608, Val Loss: 1.1931, Val Accuracy: 0.5730
+Epoch 12/20 - 2024-10-28 23:50:34.012727
+Train Loss: 1.2384, Val Loss: 1.1676, Val Accuracy: 0.5818
+Epoch 13/20 - 2024-10-28 23:50:46.419210
+Train Loss: 1.2117, Val Loss: 1.1570, Val Accuracy: 0.5792
+Epoch 14/20 - 2024-10-28 23:50:59.251781
+Train Loss: 1.1950, Val Loss: 1.1237, Val Accuracy: 0.5998
+Epoch 15/20 - 2024-10-28 23:51:11.620498
+Train Loss: 1.1743, Val Loss: 1.1003, Val Accuracy: 0.6080
+Epoch 16/20 - 2024-10-28 23:51:24.128398
+Train Loss: 1.1514, Val Loss: 1.0964, Val Accuracy: 0.6078
+Epoch 17/20 - 2024-10-28 23:51:37.141695
+Train Loss: 1.1380, Val Loss: 1.0787, Val Accuracy: 0.6110
+Epoch 18/20 - 2024-10-28 23:51:49.674086
+Train Loss: 1.1198, Val Loss: 1.0726, Val Accuracy: 0.6198
+Epoch 19/20 - 2024-10-28 23:52:02.222466
+Train Loss: 1.1085, Val Loss: 1.0428, Val Accuracy: 0.6250
+Epoch 20/20 - 2024-10-28 23:52:14.957168
+Train Loss: 1.0914, Val Loss: 1.0274, Val Accuracy: 0.6276
+Final Test Accuracy: 0.6306 - 2024-10-28 23:52:29.408135
+
+
+--- New Trial ---
+Trial 9 - 2024-10-28 23:52:29.416778
+Hyperparameters: lr=0.0064532143323167805, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=256, fc2_out_features=128, dropout_rate=0.15250500052332489, weight_decay=0.0016211331967295232, batch_size=32
+Epoch 1/20 - 2024-10-28 23:52:29.416893
+Train Loss: 1.9475, Val Loss: 1.8316, Val Accuracy: 0.2984
+
+
+--- New Trial ---
+Trial 10 - 2024-10-28 23:52:47.000662
+Hyperparameters: lr=1.5985736903655782e-05, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=256, fc2_out_features=128, dropout_rate=0.3061849349628384, weight_decay=0.008290612459637463, batch_size=64
+Epoch 1/20 - 2024-10-28 23:52:47.000782
+Train Loss: 2.2736, Val Loss: 2.1629, Val Accuracy: 0.2268
+
+
+--- New Trial ---
+Trial 11 - 2024-10-28 23:52:59.755621
+Hyperparameters: lr=0.0020411421916178476, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.17685408447087822, weight_decay=9.319228074911703e-05, batch_size=64
+Epoch 1/20 - 2024-10-28 23:52:59.755703
+Train Loss: 1.7449, Val Loss: 1.5277, Val Accuracy: 0.4318
+Epoch 2/20 - 2024-10-28 23:53:12.116023
+Train Loss: 1.5169, Val Loss: 1.4159, Val Accuracy: 0.4880
+Epoch 3/20 - 2024-10-28 23:53:25.539859
+Train Loss: 1.4223, Val Loss: 1.3643, Val Accuracy: 0.5092
+Epoch 4/20 - 2024-10-28 23:53:39.826899
+Train Loss: 1.3550, Val Loss: 1.3102, Val Accuracy: 0.5244
+Epoch 5/20 - 2024-10-28 23:53:53.089931
+Train Loss: 1.3090, Val Loss: 1.2503, Val Accuracy: 0.5454
+Epoch 6/20 - 2024-10-28 23:54:05.412352
+Train Loss: 1.2616, Val Loss: 1.1817, Val Accuracy: 0.5720
+Epoch 7/20 - 2024-10-28 23:54:17.635008
+Train Loss: 1.2307, Val Loss: 1.1655, Val Accuracy: 0.5854
+Epoch 8/20 - 2024-10-28 23:54:29.908320
+Train Loss: 1.2055, Val Loss: 1.1464, Val Accuracy: 0.5824
+Epoch 9/20 - 2024-10-28 23:54:43.329784
+Train Loss: 1.1794, Val Loss: 1.1257, Val Accuracy: 0.5960
+Epoch 10/20 - 2024-10-28 23:54:56.638420
+Train Loss: 1.1565, Val Loss: 1.0857, Val Accuracy: 0.6114
+Epoch 11/20 - 2024-10-28 23:55:09.109756
+Train Loss: 1.1396, Val Loss: 1.1036, Val Accuracy: 0.6018
+Epoch 12/20 - 2024-10-28 23:55:22.192634
+Train Loss: 1.1244, Val Loss: 1.0603, Val Accuracy: 0.6164
+Epoch 13/20 - 2024-10-28 23:55:35.377005
+Train Loss: 1.1099, Val Loss: 1.0717, Val Accuracy: 0.6226
+Epoch 14/20 - 2024-10-28 23:55:48.374706
+Train Loss: 1.0926, Val Loss: 1.0380, Val Accuracy: 0.6308
+Epoch 15/20 - 2024-10-28 23:56:01.279589
+Train Loss: 1.0792, Val Loss: 1.0551, Val Accuracy: 0.6218
+Epoch 16/20 - 2024-10-28 23:56:14.436684
+Train Loss: 1.0710, Val Loss: 1.0229, Val Accuracy: 0.6430
+Epoch 17/20 - 2024-10-28 23:56:28.001330
+Train Loss: 1.0500, Val Loss: 1.0053, Val Accuracy: 0.6404
+Epoch 18/20 - 2024-10-28 23:56:41.148701
+Train Loss: 1.0497, Val Loss: 1.0086, Val Accuracy: 0.6374
+Epoch 19/20 - 2024-10-28 23:56:54.593196
+Train Loss: 1.0342, Val Loss: 1.0474, Val Accuracy: 0.6350
+Epoch 20/20 - 2024-10-28 23:57:08.250020
+Train Loss: 1.0305, Val Loss: 0.9808, Val Accuracy: 0.6566
+Final Test Accuracy: 0.6527 - 2024-10-28 23:57:22.562554
+
+
+--- New Trial ---
+Trial 12 - 2024-10-28 23:57:22.576288
+Hyperparameters: lr=0.00475383920552167, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.32385321421141156, weight_decay=0.00016233521607864483, batch_size=64
+Epoch 1/20 - 2024-10-28 23:57:22.576382
+Train Loss: 1.8801, Val Loss: 1.6876, Val Accuracy: 0.3842
+Epoch 2/20 - 2024-10-28 23:57:35.479423
+Train Loss: 1.7017, Val Loss: 1.6801, Val Accuracy: 0.3692
+
+
+--- New Trial ---
+Trial 13 - 2024-10-28 23:57:48.405629
+Hyperparameters: lr=6.758692218253682e-05, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.47165316707533517, weight_decay=1.2827977373141614e-05, batch_size=64
+Epoch 1/20 - 2024-10-28 23:57:48.405728
+Train Loss: 2.1389, Val Loss: 1.9560, Val Accuracy: 0.2870
+
+
+--- New Trial ---
+Trial 14 - 2024-10-28 23:58:00.881454
+Hyperparameters: lr=0.0015091033921845296, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.1994808272790751, weight_decay=0.00014426363214892343, batch_size=64
+Epoch 1/20 - 2024-10-28 23:58:00.881556
+Train Loss: 1.7331, Val Loss: 1.7064, Val Accuracy: 0.3978
+Epoch 2/20 - 2024-10-28 23:58:14.406265
+Train Loss: 1.4777, Val Loss: 1.3377, Val Accuracy: 0.5208
+Epoch 3/20 - 2024-10-28 23:58:27.555990
+Train Loss: 1.3421, Val Loss: 1.2170, Val Accuracy: 0.5700
+Epoch 4/20 - 2024-10-28 23:58:41.210013
+Train Loss: 1.2528, Val Loss: 1.1673, Val Accuracy: 0.5776
+Epoch 5/20 - 2024-10-28 23:58:54.412106
+Train Loss: 1.1863, Val Loss: 1.1069, Val Accuracy: 0.6032
+Epoch 6/20 - 2024-10-28 23:59:07.879297
+Train Loss: 1.1372, Val Loss: 1.0787, Val Accuracy: 0.6106
+Epoch 7/20 - 2024-10-28 23:59:21.631097
+Train Loss: 1.1033, Val Loss: 1.0893, Val Accuracy: 0.6102
+Epoch 8/20 - 2024-10-28 23:59:34.991624
+Train Loss: 1.0768, Val Loss: 1.0559, Val Accuracy: 0.6254
+Epoch 9/20 - 2024-10-28 23:59:47.886108
+Train Loss: 1.0473, Val Loss: 1.0146, Val Accuracy: 0.6462
+Epoch 10/20 - 2024-10-29 00:00:00.802729
+Train Loss: 1.0276, Val Loss: 0.9567, Val Accuracy: 0.6638
+Epoch 11/20 - 2024-10-29 00:00:13.231886
+Train Loss: 1.0050, Val Loss: 0.9768, Val Accuracy: 0.6496
+Epoch 12/20 - 2024-10-29 00:00:26.049657
+Train Loss: 0.9880, Val Loss: 0.9382, Val Accuracy: 0.6762
+Epoch 13/20 - 2024-10-29 00:00:38.419168
+Train Loss: 0.9594, Val Loss: 0.9527, Val Accuracy: 0.6620
+Epoch 14/20 - 2024-10-29 00:00:50.717835
+Train Loss: 0.9488, Val Loss: 0.9670, Val Accuracy: 0.6630
+Epoch 15/20 - 2024-10-29 00:01:02.955792
+Train Loss: 0.9397, Val Loss: 0.9043, Val Accuracy: 0.6802
+Epoch 16/20 - 2024-10-29 00:01:15.253935
+Train Loss: 0.9219, Val Loss: 0.8727, Val Accuracy: 0.7008
+Epoch 17/20 - 2024-10-29 00:01:27.476898
+Train Loss: 0.9098, Val Loss: 0.8405, Val Accuracy: 0.6984
+Epoch 18/20 - 2024-10-29 00:01:39.752166
+Train Loss: 0.8985, Val Loss: 0.8626, Val Accuracy: 0.7000
+Epoch 19/20 - 2024-10-29 00:01:52.044493
+Train Loss: 0.8894, Val Loss: 0.8358, Val Accuracy: 0.7042
+Epoch 20/20 - 2024-10-29 00:02:04.331441
+Train Loss: 0.8792, Val Loss: 0.8537, Val Accuracy: 0.7008
+Final Test Accuracy: 0.7036 - 2024-10-29 00:02:18.307551
+
+
+--- New Trial ---
+Trial 15 - 2024-10-29 00:02:18.321543
+Hyperparameters: lr=0.002113845284059082, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.19717805301392935, weight_decay=6.658823873861409e-06, batch_size=64
+Epoch 1/20 - 2024-10-29 00:02:18.321646
+Train Loss: 1.7344, Val Loss: 1.5114, Val Accuracy: 0.4520
+Epoch 2/20 - 2024-10-29 00:02:30.717828
+Train Loss: 1.4871, Val Loss: 1.4324, Val Accuracy: 0.4890
+Epoch 3/20 - 2024-10-29 00:02:43.034546
+Train Loss: 1.3795, Val Loss: 1.2864, Val Accuracy: 0.5398
+Epoch 4/20 - 2024-10-29 00:02:55.223852
+Train Loss: 1.2946, Val Loss: 1.2766, Val Accuracy: 0.5434
+Epoch 5/20 - 2024-10-29 00:03:07.494654
+Train Loss: 1.2417, Val Loss: 1.1848, Val Accuracy: 0.5748
+Epoch 6/20 - 2024-10-29 00:03:19.699883
+Train Loss: 1.1977, Val Loss: 1.1527, Val Accuracy: 0.6026
+Epoch 7/20 - 2024-10-29 00:03:33.063984
+Train Loss: 1.1604, Val Loss: 1.1031, Val Accuracy: 0.6156
+Epoch 8/20 - 2024-10-29 00:03:46.754649
+Train Loss: 1.1267, Val Loss: 1.0779, Val Accuracy: 0.6148
+Epoch 9/20 - 2024-10-29 00:03:59.498739
+Train Loss: 1.0910, Val Loss: 1.0163, Val Accuracy: 0.6458
+Epoch 10/20 - 2024-10-29 00:04:12.361382
+Train Loss: 1.0798, Val Loss: 1.0855, Val Accuracy: 0.6184
+Epoch 11/20 - 2024-10-29 00:04:25.472087
+Train Loss: 1.0555, Val Loss: 1.0156, Val Accuracy: 0.6458
+Epoch 12/20 - 2024-10-29 00:04:37.961697
+Train Loss: 1.0402, Val Loss: 1.0063, Val Accuracy: 0.6500
+Epoch 13/20 - 2024-10-29 00:04:50.346453
+Train Loss: 1.0178, Val Loss: 0.9697, Val Accuracy: 0.6530
+Epoch 14/20 - 2024-10-29 00:05:02.805583
+Train Loss: 1.0068, Val Loss: 0.9937, Val Accuracy: 0.6536
+Epoch 15/20 - 2024-10-29 00:05:15.771723
+Train Loss: 0.9997, Val Loss: 0.9517, Val Accuracy: 0.6668
+Epoch 16/20 - 2024-10-29 00:05:28.259619
+Train Loss: 0.9800, Val Loss: 0.9344, Val Accuracy: 0.6746
+Epoch 17/20 - 2024-10-29 00:05:40.588285
+Train Loss: 0.9742, Val Loss: 0.9307, Val Accuracy: 0.6658
+Epoch 18/20 - 2024-10-29 00:05:53.748495
+Train Loss: 0.9633, Val Loss: 0.9198, Val Accuracy: 0.6774
+Epoch 19/20 - 2024-10-29 00:06:07.483747
+Train Loss: 0.9515, Val Loss: 0.9201, Val Accuracy: 0.6766
+Epoch 20/20 - 2024-10-29 00:06:20.002093
+Train Loss: 0.9383, Val Loss: 0.9107, Val Accuracy: 0.6814
+Final Test Accuracy: 0.6842 - 2024-10-29 00:06:34.314927
+
+
+--- New Trial ---
+Trial 16 - 2024-10-29 00:06:34.328283
+Hyperparameters: lr=0.013675901566943262, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.2091154968421291, weight_decay=7.125172771636305e-06, batch_size=64
+Epoch 1/20 - 2024-10-29 00:06:34.328386
+Train Loss: 2.3065, Val Loss: 2.3036, Val Accuracy: 0.0960
+
+
+--- New Trial ---
+Trial 17 - 2024-10-29 00:06:47.008853
+Hyperparameters: lr=0.0009358145087805704, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.22567708421299282, weight_decay=5.67462453335963e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:06:47.008954
+Train Loss: 1.7277, Val Loss: 1.4756, Val Accuracy: 0.4626
+Epoch 2/20 - 2024-10-29 00:07:04.751576
+Train Loss: 1.4703, Val Loss: 1.3503, Val Accuracy: 0.5154
+Epoch 3/20 - 2024-10-29 00:07:21.663801
+Train Loss: 1.3600, Val Loss: 1.2847, Val Accuracy: 0.5460
+Epoch 4/20 - 2024-10-29 00:07:38.551758
+Train Loss: 1.2874, Val Loss: 1.1911, Val Accuracy: 0.5816
+Epoch 5/20 - 2024-10-29 00:07:55.499159
+Train Loss: 1.2235, Val Loss: 1.1278, Val Accuracy: 0.6070
+Epoch 6/20 - 2024-10-29 00:08:12.681023
+Train Loss: 1.1768, Val Loss: 1.0964, Val Accuracy: 0.6096
+Epoch 7/20 - 2024-10-29 00:08:29.563679
+Train Loss: 1.1360, Val Loss: 1.1015, Val Accuracy: 0.6072
+Epoch 8/20 - 2024-10-29 00:08:46.466163
+Train Loss: 1.1071, Val Loss: 1.0001, Val Accuracy: 0.6510
+Epoch 9/20 - 2024-10-29 00:09:03.340286
+Train Loss: 1.0740, Val Loss: 1.0139, Val Accuracy: 0.6466
+Epoch 10/20 - 2024-10-29 00:09:20.275476
+Train Loss: 1.0462, Val Loss: 1.0034, Val Accuracy: 0.6508
+Epoch 11/20 - 2024-10-29 00:09:37.145184
+Train Loss: 1.0293, Val Loss: 0.9747, Val Accuracy: 0.6570
+Epoch 12/20 - 2024-10-29 00:09:54.053611
+Train Loss: 1.0112, Val Loss: 0.9751, Val Accuracy: 0.6498
+Epoch 13/20 - 2024-10-29 00:10:10.947178
+Train Loss: 1.0000, Val Loss: 0.9733, Val Accuracy: 0.6622
+Epoch 14/20 - 2024-10-29 00:10:28.309880
+Train Loss: 0.9839, Val Loss: 0.9409, Val Accuracy: 0.6746
+Epoch 15/20 - 2024-10-29 00:10:45.327896
+Train Loss: 0.9706, Val Loss: 0.9221, Val Accuracy: 0.6784
+Epoch 16/20 - 2024-10-29 00:11:02.295775
+Train Loss: 0.9496, Val Loss: 0.9186, Val Accuracy: 0.6738
+Epoch 17/20 - 2024-10-29 00:11:19.442728
+Train Loss: 0.9436, Val Loss: 0.8907, Val Accuracy: 0.6846
+Epoch 18/20 - 2024-10-29 00:11:36.321991
+Train Loss: 0.9299, Val Loss: 0.9003, Val Accuracy: 0.6870
+Epoch 19/20 - 2024-10-29 00:11:53.399255
+Train Loss: 0.9178, Val Loss: 0.8818, Val Accuracy: 0.6820
+Epoch 20/20 - 2024-10-29 00:12:10.463744
+Train Loss: 0.9032, Val Loss: 0.9068, Val Accuracy: 0.6736
+Final Test Accuracy: 0.6899 - 2024-10-29 00:12:29.835936
+
+
+--- New Trial ---
+Trial 18 - 2024-10-29 00:12:29.847517
+Hyperparameters: lr=0.0009666643342865435, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.24408761576788005, weight_decay=1.0166961254978904e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:12:29.847622
+Train Loss: 1.7775, Val Loss: 1.5465, Val Accuracy: 0.4176
+Epoch 2/20 - 2024-10-29 00:12:46.782661
+Train Loss: 1.5341, Val Loss: 1.3862, Val Accuracy: 0.4884
+Epoch 3/20 - 2024-10-29 00:13:04.009134
+Train Loss: 1.4170, Val Loss: 1.2920, Val Accuracy: 0.5356
+Epoch 4/20 - 2024-10-29 00:13:20.959021
+Train Loss: 1.3345, Val Loss: 1.2487, Val Accuracy: 0.5594
+Epoch 5/20 - 2024-10-29 00:13:38.723612
+Train Loss: 1.2642, Val Loss: 1.1627, Val Accuracy: 0.5832
+Epoch 6/20 - 2024-10-29 00:13:55.935533
+Train Loss: 1.2164, Val Loss: 1.1592, Val Accuracy: 0.5850
+Epoch 7/20 - 2024-10-29 00:14:14.690889
+Train Loss: 1.1791, Val Loss: 1.1065, Val Accuracy: 0.6134
+Epoch 8/20 - 2024-10-29 00:14:31.811727
+Train Loss: 1.1462, Val Loss: 1.0614, Val Accuracy: 0.6222
+Epoch 9/20 - 2024-10-29 00:14:48.943378
+Train Loss: 1.1132, Val Loss: 1.0295, Val Accuracy: 0.6314
+Epoch 10/20 - 2024-10-29 00:15:05.895762
+Train Loss: 1.0963, Val Loss: 1.0370, Val Accuracy: 0.6352
+Epoch 11/20 - 2024-10-29 00:15:23.835132
+Train Loss: 1.0793, Val Loss: 1.0011, Val Accuracy: 0.6474
+Epoch 12/20 - 2024-10-29 00:15:42.322683
+Train Loss: 1.0535, Val Loss: 0.9947, Val Accuracy: 0.6488
+Epoch 13/20 - 2024-10-29 00:16:00.276227
+Train Loss: 1.0289, Val Loss: 0.9430, Val Accuracy: 0.6674
+Epoch 14/20 - 2024-10-29 00:16:18.178314
+Train Loss: 1.0137, Val Loss: 0.9549, Val Accuracy: 0.6650
+Epoch 15/20 - 2024-10-29 00:16:35.425565
+Train Loss: 1.0040, Val Loss: 0.9601, Val Accuracy: 0.6578
+Epoch 16/20 - 2024-10-29 00:16:52.280213
+Train Loss: 0.9824, Val Loss: 0.9164, Val Accuracy: 0.6838
+Epoch 17/20 - 2024-10-29 00:17:09.199688
+Train Loss: 0.9687, Val Loss: 0.9547, Val Accuracy: 0.6660
+Epoch 18/20 - 2024-10-29 00:17:26.003022
+Train Loss: 0.9581, Val Loss: 0.8948, Val Accuracy: 0.6872
+Epoch 19/20 - 2024-10-29 00:17:43.552485
+Train Loss: 0.9431, Val Loss: 0.8926, Val Accuracy: 0.6898
+Epoch 20/20 - 2024-10-29 00:18:00.576835
+Train Loss: 0.9349, Val Loss: 0.8743, Val Accuracy: 0.6928
+Final Test Accuracy: 0.6957 - 2024-10-29 00:18:19.369875
+
+
+--- New Trial ---
+Trial 19 - 2024-10-29 00:18:19.381452
+Hyperparameters: lr=8.742532435894992e-05, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.2615051434413511, weight_decay=1.0665114532553445e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:18:19.381536
+Train Loss: 1.9933, Val Loss: 1.7963, Val Accuracy: 0.3470
+
+
+--- New Trial ---
+Trial 20 - 2024-10-29 00:18:36.911459
+Hyperparameters: lr=0.005197852930503046, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.34153870118626106, weight_decay=0.000442342094221934, batch_size=32
+Epoch 1/20 - 2024-10-29 00:18:36.911559
+Train Loss: 1.9906, Val Loss: 1.9094, Val Accuracy: 0.2374
+
+
+--- New Trial ---
+Trial 21 - 2024-10-29 00:18:54.109924
+Hyperparameters: lr=0.0011980706387152789, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.23021672363597456, weight_decay=2.7571836077736913e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:18:54.110013
+Train Loss: 1.7567, Val Loss: 1.5399, Val Accuracy: 0.4332
+Epoch 2/20 - 2024-10-29 00:19:11.454223
+Train Loss: 1.5047, Val Loss: 1.3640, Val Accuracy: 0.5032
+Epoch 3/20 - 2024-10-29 00:19:28.618552
+Train Loss: 1.3787, Val Loss: 1.2560, Val Accuracy: 0.5490
+Epoch 4/20 - 2024-10-29 00:19:45.631745
+Train Loss: 1.2915, Val Loss: 1.1928, Val Accuracy: 0.5604
+Epoch 5/20 - 2024-10-29 00:20:02.470029
+Train Loss: 1.2288, Val Loss: 1.1536, Val Accuracy: 0.5856
+Epoch 6/20 - 2024-10-29 00:20:19.299480
+Train Loss: 1.1975, Val Loss: 1.0958, Val Accuracy: 0.6080
+Epoch 7/20 - 2024-10-29 00:20:36.147826
+Train Loss: 1.1536, Val Loss: 1.0921, Val Accuracy: 0.6130
+Epoch 8/20 - 2024-10-29 00:20:53.034141
+Train Loss: 1.1193, Val Loss: 1.0171, Val Accuracy: 0.6364
+Epoch 9/20 - 2024-10-29 00:21:09.854497
+Train Loss: 1.0913, Val Loss: 1.0299, Val Accuracy: 0.6262
+Epoch 10/20 - 2024-10-29 00:21:26.752847
+Train Loss: 1.0725, Val Loss: 1.0374, Val Accuracy: 0.6404
+Epoch 11/20 - 2024-10-29 00:21:44.228556
+Train Loss: 1.0497, Val Loss: 1.0253, Val Accuracy: 0.6404
+Epoch 12/20 - 2024-10-29 00:22:01.129459
+Train Loss: 1.0336, Val Loss: 0.9578, Val Accuracy: 0.6642
+Epoch 13/20 - 2024-10-29 00:22:19.298250
+Train Loss: 1.0248, Val Loss: 0.9487, Val Accuracy: 0.6668
+Epoch 14/20 - 2024-10-29 00:22:36.457766
+Train Loss: 1.0020, Val Loss: 0.9486, Val Accuracy: 0.6618
+Epoch 15/20 - 2024-10-29 00:22:53.280400
+Train Loss: 0.9928, Val Loss: 0.9368, Val Accuracy: 0.6764
+Epoch 16/20 - 2024-10-29 00:23:10.071171
+Train Loss: 0.9724, Val Loss: 0.9417, Val Accuracy: 0.6686
+Epoch 17/20 - 2024-10-29 00:23:26.874111
+Train Loss: 0.9606, Val Loss: 0.9141, Val Accuracy: 0.6758
+Epoch 18/20 - 2024-10-29 00:23:43.678225
+Train Loss: 0.9504, Val Loss: 0.8884, Val Accuracy: 0.6856
+Epoch 19/20 - 2024-10-29 00:24:00.461128
+Train Loss: 0.9425, Val Loss: 0.9061, Val Accuracy: 0.6822
+Epoch 20/20 - 2024-10-29 00:24:17.294340
+Train Loss: 0.9295, Val Loss: 0.9014, Val Accuracy: 0.6870
+Final Test Accuracy: 0.6752 - 2024-10-29 00:24:35.906352
+
+
+--- New Trial ---
+Trial 22 - 2024-10-29 00:24:35.918765
+Hyperparameters: lr=0.0008061342800361346, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.1301914647793605, weight_decay=4.913965242764417e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:24:35.918846
+Train Loss: 1.7299, Val Loss: 1.5040, Val Accuracy: 0.4514
+Epoch 2/20 - 2024-10-29 00:24:52.790635
+Train Loss: 1.4605, Val Loss: 1.3349, Val Accuracy: 0.5080
+Epoch 3/20 - 2024-10-29 00:25:09.628975
+Train Loss: 1.3261, Val Loss: 1.1945, Val Accuracy: 0.5668
+Epoch 4/20 - 2024-10-29 00:25:26.484815
+Train Loss: 1.2229, Val Loss: 1.1247, Val Accuracy: 0.5960
+Epoch 5/20 - 2024-10-29 00:25:43.345128
+Train Loss: 1.1580, Val Loss: 1.0782, Val Accuracy: 0.6202
+Epoch 6/20 - 2024-10-29 00:26:01.026616
+Train Loss: 1.0985, Val Loss: 1.0471, Val Accuracy: 0.6304
+Epoch 7/20 - 2024-10-29 00:26:18.636492
+Train Loss: 1.0619, Val Loss: 0.9854, Val Accuracy: 0.6476
+Epoch 8/20 - 2024-10-29 00:26:36.382982
+Train Loss: 1.0084, Val Loss: 0.9668, Val Accuracy: 0.6578
+Epoch 9/20 - 2024-10-29 00:26:54.519034
+Train Loss: 0.9907, Val Loss: 0.9372, Val Accuracy: 0.6708
+Epoch 10/20 - 2024-10-29 00:27:14.013107
+Train Loss: 0.9600, Val Loss: 0.9076, Val Accuracy: 0.6784
+Epoch 11/20 - 2024-10-29 00:27:31.217625
+Train Loss: 0.9387, Val Loss: 0.9225, Val Accuracy: 0.6784
+Epoch 12/20 - 2024-10-29 00:27:48.694503
+Train Loss: 0.9206, Val Loss: 0.9099, Val Accuracy: 0.6774
+Epoch 13/20 - 2024-10-29 00:28:06.286064
+Train Loss: 0.9037, Val Loss: 0.8590, Val Accuracy: 0.6944
+Epoch 14/20 - 2024-10-29 00:28:23.603475
+Train Loss: 0.8826, Val Loss: 0.8614, Val Accuracy: 0.6926
+Epoch 15/20 - 2024-10-29 00:28:41.403145
+Train Loss: 0.8689, Val Loss: 0.8673, Val Accuracy: 0.6974
+Epoch 16/20 - 2024-10-29 00:28:58.558663
+Train Loss: 0.8673, Val Loss: 0.8298, Val Accuracy: 0.7160
+Epoch 17/20 - 2024-10-29 00:29:15.526362
+Train Loss: 0.8443, Val Loss: 0.8373, Val Accuracy: 0.7102
+Epoch 18/20 - 2024-10-29 00:29:32.462628
+Train Loss: 0.8297, Val Loss: 0.8193, Val Accuracy: 0.7074
+Epoch 19/20 - 2024-10-29 00:29:49.485073
+Train Loss: 0.8269, Val Loss: 0.8175, Val Accuracy: 0.7080
+Epoch 20/20 - 2024-10-29 00:30:06.951726
+Train Loss: 0.8113, Val Loss: 0.8475, Val Accuracy: 0.7088
+Final Test Accuracy: 0.7115 - 2024-10-29 00:30:26.412720
+
+
+--- New Trial ---
+Trial 23 - 2024-10-29 00:30:26.425247
+Hyperparameters: lr=0.00012977983817129691, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.14569778122000557, weight_decay=1.047721967523924e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:30:26.425339
+Train Loss: 1.9273, Val Loss: 1.7339, Val Accuracy: 0.3688
+
+
+--- New Trial ---
+Trial 24 - 2024-10-29 00:30:43.347614
+Hyperparameters: lr=0.0007552465460153717, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.1354769390184544, weight_decay=6.278860415722061e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:30:43.347700
+Train Loss: 1.7389, Val Loss: 1.5030, Val Accuracy: 0.4458
+Epoch 2/20 - 2024-10-29 00:31:00.232094
+Train Loss: 1.4733, Val Loss: 1.3843, Val Accuracy: 0.4930
+Epoch 3/20 - 2024-10-29 00:31:17.271502
+Train Loss: 1.3347, Val Loss: 1.2602, Val Accuracy: 0.5548
+Epoch 4/20 - 2024-10-29 00:31:34.131626
+Train Loss: 1.2454, Val Loss: 1.1693, Val Accuracy: 0.5892
+Epoch 5/20 - 2024-10-29 00:31:50.981102
+Train Loss: 1.1743, Val Loss: 1.1258, Val Accuracy: 0.5968
+Epoch 6/20 - 2024-10-29 00:32:07.799392
+Train Loss: 1.1277, Val Loss: 1.0777, Val Accuracy: 0.6224
+Epoch 7/20 - 2024-10-29 00:32:24.449273
+Train Loss: 1.0867, Val Loss: 1.0560, Val Accuracy: 0.6338
+Epoch 8/20 - 2024-10-29 00:32:41.605242
+Train Loss: 1.0509, Val Loss: 1.0318, Val Accuracy: 0.6402
+Epoch 9/20 - 2024-10-29 00:32:58.745854
+Train Loss: 1.0182, Val Loss: 0.9844, Val Accuracy: 0.6576
+Epoch 10/20 - 2024-10-29 00:33:16.201025
+Train Loss: 1.0006, Val Loss: 0.9534, Val Accuracy: 0.6734
+Epoch 11/20 - 2024-10-29 00:33:34.239075
+Train Loss: 0.9824, Val Loss: 0.9894, Val Accuracy: 0.6418
+Epoch 12/20 - 2024-10-29 00:33:52.911007
+Train Loss: 0.9564, Val Loss: 0.9516, Val Accuracy: 0.6630
+Epoch 13/20 - 2024-10-29 00:34:12.558961
+Train Loss: 0.9380, Val Loss: 0.9288, Val Accuracy: 0.6772
+Epoch 14/20 - 2024-10-29 00:34:31.154364
+Train Loss: 0.9181, Val Loss: 0.8984, Val Accuracy: 0.6886
+Epoch 15/20 - 2024-10-29 00:34:48.623596
+Train Loss: 0.9014, Val Loss: 0.8940, Val Accuracy: 0.6866
+Epoch 16/20 - 2024-10-29 00:35:06.038652
+Train Loss: 0.8869, Val Loss: 0.8716, Val Accuracy: 0.6932
+Epoch 17/20 - 2024-10-29 00:35:22.945314
+Train Loss: 0.8711, Val Loss: 0.8323, Val Accuracy: 0.7128
+Epoch 18/20 - 2024-10-29 00:35:39.910094
+Train Loss: 0.8562, Val Loss: 0.8331, Val Accuracy: 0.7104
+Epoch 19/20 - 2024-10-29 00:35:56.795274
+Train Loss: 0.8474, Val Loss: 0.8139, Val Accuracy: 0.7200
+Epoch 20/20 - 2024-10-29 00:36:13.683982
+Train Loss: 0.8395, Val Loss: 0.8326, Val Accuracy: 0.7028
+Final Test Accuracy: 0.7151 - 2024-10-29 00:36:32.416113
+
+
+--- New Trial ---
+Trial 25 - 2024-10-29 00:36:32.430788
+Hyperparameters: lr=0.0006523060286507244, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.10560601589405277, weight_decay=5.798367925597052e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:36:32.430874
+Train Loss: 1.7350, Val Loss: 1.5137, Val Accuracy: 0.4440
+Epoch 2/20 - 2024-10-29 00:36:49.935954
+Train Loss: 1.4575, Val Loss: 1.3660, Val Accuracy: 0.5044
+Epoch 3/20 - 2024-10-29 00:37:07.271732
+Train Loss: 1.3280, Val Loss: 1.2533, Val Accuracy: 0.5532
+Epoch 4/20 - 2024-10-29 00:37:24.355906
+Train Loss: 1.2416, Val Loss: 1.1832, Val Accuracy: 0.5776
+Epoch 5/20 - 2024-10-29 00:37:41.506554
+Train Loss: 1.1673, Val Loss: 1.1073, Val Accuracy: 0.6108
+Epoch 6/20 - 2024-10-29 00:37:58.432307
+Train Loss: 1.1131, Val Loss: 1.1275, Val Accuracy: 0.5964
+Epoch 7/20 - 2024-10-29 00:38:15.408878
+Train Loss: 1.0728, Val Loss: 1.0348, Val Accuracy: 0.6300
+Epoch 8/20 - 2024-10-29 00:38:32.322087
+Train Loss: 1.0414, Val Loss: 0.9897, Val Accuracy: 0.6556
+Epoch 9/20 - 2024-10-29 00:38:49.174382
+Train Loss: 1.0080, Val Loss: 0.9656, Val Accuracy: 0.6534
+Epoch 10/20 - 2024-10-29 00:39:06.132968
+Train Loss: 0.9744, Val Loss: 0.9863, Val Accuracy: 0.6544
+Epoch 11/20 - 2024-10-29 00:39:23.682601
+Train Loss: 0.9570, Val Loss: 0.9430, Val Accuracy: 0.6592
+Epoch 12/20 - 2024-10-29 00:39:40.810926
+Train Loss: 0.9345, Val Loss: 0.9036, Val Accuracy: 0.6786
+Epoch 13/20 - 2024-10-29 00:39:57.792625
+Train Loss: 0.9087, Val Loss: 0.9027, Val Accuracy: 0.6848
+Epoch 14/20 - 2024-10-29 00:40:14.763554
+Train Loss: 0.8874, Val Loss: 0.8961, Val Accuracy: 0.6880
+Epoch 15/20 - 2024-10-29 00:40:32.071886
+Train Loss: 0.8723, Val Loss: 0.8570, Val Accuracy: 0.6948
+Epoch 16/20 - 2024-10-29 00:40:49.291510
+Train Loss: 0.8547, Val Loss: 0.8741, Val Accuracy: 0.6916
+Epoch 17/20 - 2024-10-29 00:41:06.165168
+Train Loss: 0.8376, Val Loss: 0.8858, Val Accuracy: 0.6950
+Epoch 18/20 - 2024-10-29 00:41:23.212790
+Train Loss: 0.8303, Val Loss: 0.8226, Val Accuracy: 0.7130
+Epoch 19/20 - 2024-10-29 00:41:40.409767
+Train Loss: 0.8092, Val Loss: 0.8369, Val Accuracy: 0.7060
+Epoch 20/20 - 2024-10-29 00:41:57.421026
+Train Loss: 0.8017, Val Loss: 0.8226, Val Accuracy: 0.7108
+Final Test Accuracy: 0.7133 - 2024-10-29 00:42:16.480413
+
+
+--- New Trial ---
+Trial 26 - 2024-10-29 00:42:16.492562
+Hyperparameters: lr=0.00016280283187819242, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.11456838005872529, weight_decay=5.971454658209811e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:42:16.492650
+Train Loss: 1.8611, Val Loss: 1.6615, Val Accuracy: 0.3874
+
+
+--- New Trial ---
+Trial 27 - 2024-10-29 00:42:33.994449
+Hyperparameters: lr=0.000859071648578362, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.04020651325076101, weight_decay=1.6838042308899545e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:42:33.994543
+Train Loss: 1.6721, Val Loss: 1.4449, Val Accuracy: 0.4698
+Epoch 2/20 - 2024-10-29 00:42:51.241931
+Train Loss: 1.3980, Val Loss: 1.3258, Val Accuracy: 0.5296
+Epoch 3/20 - 2024-10-29 00:43:08.581895
+Train Loss: 1.2535, Val Loss: 1.2307, Val Accuracy: 0.5596
+Epoch 4/20 - 2024-10-29 00:43:26.390603
+Train Loss: 1.1618, Val Loss: 1.1272, Val Accuracy: 0.5966
+Epoch 5/20 - 2024-10-29 00:43:43.318548
+Train Loss: 1.0907, Val Loss: 1.0626, Val Accuracy: 0.6230
+Epoch 6/20 - 2024-10-29 00:44:00.114103
+Train Loss: 1.0484, Val Loss: 1.0460, Val Accuracy: 0.6414
+Epoch 7/20 - 2024-10-29 00:44:17.057197
+Train Loss: 1.0050, Val Loss: 0.9790, Val Accuracy: 0.6518
+Epoch 8/20 - 2024-10-29 00:44:34.205898
+Train Loss: 0.9688, Val Loss: 0.9911, Val Accuracy: 0.6562
+Epoch 9/20 - 2024-10-29 00:44:51.158367
+Train Loss: 0.9399, Val Loss: 0.9348, Val Accuracy: 0.6714
+Epoch 10/20 - 2024-10-29 00:45:08.328458
+Train Loss: 0.9100, Val Loss: 0.9226, Val Accuracy: 0.6766
+Epoch 11/20 - 2024-10-29 00:45:25.202224
+Train Loss: 0.8902, Val Loss: 0.9016, Val Accuracy: 0.6800
+Epoch 12/20 - 2024-10-29 00:45:42.075407
+Train Loss: 0.8706, Val Loss: 0.8626, Val Accuracy: 0.6934
+Epoch 13/20 - 2024-10-29 00:45:58.870082
+Train Loss: 0.8558, Val Loss: 0.8794, Val Accuracy: 0.6926
+Epoch 14/20 - 2024-10-29 00:46:15.718950
+Train Loss: 0.8387, Val Loss: 0.9162, Val Accuracy: 0.6790
+Epoch 15/20 - 2024-10-29 00:46:32.555064
+Train Loss: 0.8189, Val Loss: 0.8193, Val Accuracy: 0.7146
+Epoch 16/20 - 2024-10-29 00:46:49.401997
+Train Loss: 0.8152, Val Loss: 0.8449, Val Accuracy: 0.6980
+Epoch 17/20 - 2024-10-29 00:47:06.314504
+Train Loss: 0.7965, Val Loss: 0.8576, Val Accuracy: 0.6992
+Epoch 18/20 - 2024-10-29 00:47:23.095282
+Train Loss: 0.7808, Val Loss: 0.8460, Val Accuracy: 0.7042
+Epoch 19/20 - 2024-10-29 00:47:39.933015
+Train Loss: 0.7748, Val Loss: 0.8065, Val Accuracy: 0.7200
+Epoch 20/20 - 2024-10-29 00:47:56.772205
+Train Loss: 0.7651, Val Loss: 0.8135, Val Accuracy: 0.7106
+Final Test Accuracy: 0.7160 - 2024-10-29 00:48:15.426224
+
+
+--- New Trial ---
+Trial 28 - 2024-10-29 00:48:15.438015
+Hyperparameters: lr=2.1248724299831196e-05, conv1_out_channels=24, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.0014534180567098987, weight_decay=1.4564323712298586e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:48:15.438115
+Train Loss: 2.1404, Val Loss: 1.9990, Val Accuracy: 0.2664
+
+
+--- New Trial ---
+Trial 29 - 2024-10-29 00:48:30.865387
+Hyperparameters: lr=0.003436492216003496, conv1_out_channels=24, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.07026670220456432, weight_decay=2.6122882815963478e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:48:30.865476
+Train Loss: 1.7703, Val Loss: 1.6455, Val Accuracy: 0.3992
+
+
+--- New Trial ---
+Trial 30 - 2024-10-29 00:48:46.320304
+Hyperparameters: lr=0.0006277879753730787, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.03355863968930756, weight_decay=5.951444998282071e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:48:46.320400
+Train Loss: 1.6778, Val Loss: 1.5090, Val Accuracy: 0.4526
+Epoch 2/20 - 2024-10-29 00:49:03.200127
+Train Loss: 1.4176, Val Loss: 1.2981, Val Accuracy: 0.5242
+Epoch 3/20 - 2024-10-29 00:49:20.010928
+Train Loss: 1.2882, Val Loss: 1.2625, Val Accuracy: 0.5428
+Epoch 4/20 - 2024-10-29 00:49:36.809588
+Train Loss: 1.2044, Val Loss: 1.1749, Val Accuracy: 0.5812
+Epoch 5/20 - 2024-10-29 00:49:53.601434
+Train Loss: 1.1342, Val Loss: 1.1081, Val Accuracy: 0.6032
+Epoch 6/20 - 2024-10-29 00:50:10.460780
+Train Loss: 1.0837, Val Loss: 1.0642, Val Accuracy: 0.6206
+Epoch 7/20 - 2024-10-29 00:50:27.272778
+Train Loss: 1.0316, Val Loss: 1.0229, Val Accuracy: 0.6334
+Epoch 8/20 - 2024-10-29 00:50:44.083743
+Train Loss: 0.9962, Val Loss: 0.9987, Val Accuracy: 0.6464
+Epoch 9/20 - 2024-10-29 00:51:00.926475
+Train Loss: 0.9666, Val Loss: 0.9812, Val Accuracy: 0.6612
+Epoch 10/20 - 2024-10-29 00:51:17.794908
+Train Loss: 0.9405, Val Loss: 0.9343, Val Accuracy: 0.6754
+Epoch 11/20 - 2024-10-29 00:51:34.559789
+Train Loss: 0.9069, Val Loss: 0.9235, Val Accuracy: 0.6770
+Epoch 12/20 - 2024-10-29 00:51:51.326465
+Train Loss: 0.8829, Val Loss: 0.8926, Val Accuracy: 0.6872
+Epoch 13/20 - 2024-10-29 00:52:08.110306
+Train Loss: 0.8671, Val Loss: 0.8936, Val Accuracy: 0.6838
+Epoch 14/20 - 2024-10-29 00:52:24.974905
+Train Loss: 0.8424, Val Loss: 0.8498, Val Accuracy: 0.6928
+Epoch 15/20 - 2024-10-29 00:52:41.733430
+Train Loss: 0.8276, Val Loss: 0.8557, Val Accuracy: 0.6964
+Epoch 16/20 - 2024-10-29 00:52:58.500567
+Train Loss: 0.8105, Val Loss: 0.8791, Val Accuracy: 0.6890
+Epoch 17/20 - 2024-10-29 00:53:15.291504
+Train Loss: 0.7979, Val Loss: 0.8380, Val Accuracy: 0.7064
+Epoch 18/20 - 2024-10-29 00:53:31.953851
+Train Loss: 0.7817, Val Loss: 0.8282, Val Accuracy: 0.7102
+Epoch 19/20 - 2024-10-29 00:53:48.597398
+Train Loss: 0.7685, Val Loss: 0.8154, Val Accuracy: 0.7112
+Epoch 20/20 - 2024-10-29 00:54:05.233149
+Train Loss: 0.7599, Val Loss: 0.8034, Val Accuracy: 0.7148
+Final Test Accuracy: 0.7136 - 2024-10-29 00:54:23.780109
+
+
+--- New Trial ---
+Trial 31 - 2024-10-29 00:54:23.792438
+Hyperparameters: lr=0.0005830839838542892, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.039337513080210613, weight_decay=6.714128514471346e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:54:23.792536
+Train Loss: 1.7032, Val Loss: 1.5300, Val Accuracy: 0.4336
+Epoch 2/20 - 2024-10-29 00:54:40.635328
+Train Loss: 1.4531, Val Loss: 1.3557, Val Accuracy: 0.5142
+Epoch 3/20 - 2024-10-29 00:54:57.518162
+Train Loss: 1.3386, Val Loss: 1.2951, Val Accuracy: 0.5342
+
+
+--- New Trial ---
+Trial 32 - 2024-10-29 00:55:14.744558
+Hyperparameters: lr=0.00017998669088628222, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.03251158600574448, weight_decay=4.049405509383575e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:55:14.744647
+Train Loss: 1.8265, Val Loss: 1.6316, Val Accuracy: 0.4044
+
+
+--- New Trial ---
+Trial 33 - 2024-10-29 00:55:31.528591
+Hyperparameters: lr=0.0002368478163571172, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.08993514819123702, weight_decay=1.3966566226004582e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:55:31.528689
+Train Loss: 1.8317, Val Loss: 1.6205, Val Accuracy: 0.4032
+
+
+--- New Trial ---
+Trial 34 - 2024-10-29 00:55:48.414257
+Hyperparameters: lr=0.0005991151554759829, conv1_out_channels=6, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.03547429479309653, weight_decay=0.0002800638571551554, batch_size=32
+Epoch 1/20 - 2024-10-29 00:55:48.414341
+Train Loss: 1.7709, Val Loss: 1.5775, Val Accuracy: 0.4212
+
+
+--- New Trial ---
+Trial 35 - 2024-10-29 00:56:03.847250
+Hyperparameters: lr=0.002842403778864199, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.08278067892521382, weight_decay=2.055089833784118e-05, batch_size=128
+Epoch 1/20 - 2024-10-29 00:56:03.847338
+Train Loss: 1.7836, Val Loss: 1.5677, Val Accuracy: 0.4208
+
+
+--- New Trial ---
+Trial 36 - 2024-10-29 00:56:14.063956
+Hyperparameters: lr=3.647687616769083e-05, conv1_out_channels=6, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.11154166577863012, weight_decay=8.579841885824097e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:56:14.064048
+Train Loss: 2.1054, Val Loss: 1.9588, Val Accuracy: 0.2914
+
+
+--- New Trial ---
+Trial 37 - 2024-10-29 00:56:29.406683
+Hyperparameters: lr=0.000480054201076714, conv1_out_channels=24, conv2_out_channels=16, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.061997629594373264, weight_decay=4.468976068369741e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:56:29.406763
+Train Loss: 1.7907, Val Loss: 1.6095, Val Accuracy: 0.4032
+
+
+--- New Trial ---
+Trial 38 - 2024-10-29 00:56:45.043917
+Hyperparameters: lr=0.00871752827534447, conv1_out_channels=6, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.019971791736518085, weight_decay=0.0007052892984663058, batch_size=128
+Epoch 1/20 - 2024-10-29 00:56:45.043999
+Train Loss: 1.8200, Val Loss: 1.7187, Val Accuracy: 0.3582
+
+
+--- New Trial ---
+Trial 39 - 2024-10-29 00:56:53.459208
+Hyperparameters: lr=0.0002763628057029208, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.10922177559151071, weight_decay=2.8682709590346443e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 00:56:53.459288
+Train Loss: 1.7805, Val Loss: 1.5595, Val Accuracy: 0.4368
+Epoch 2/20 - 2024-10-29 00:57:10.472872
+Train Loss: 1.5271, Val Loss: 1.4466, Val Accuracy: 0.4702
+
+
+--- New Trial ---
+Trial 40 - 2024-10-29 00:57:27.363579
+Hyperparameters: lr=0.0014223357403298934, conv1_out_channels=6, conv2_out_channels=16, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.05626898213740027, weight_decay=0.00022135255781686105, batch_size=128
+Epoch 1/20 - 2024-10-29 00:57:27.363658
+Train Loss: 1.8752, Val Loss: 1.6828, Val Accuracy: 0.3884
+
+
+--- New Trial ---
+Trial 41 - 2024-10-29 00:57:35.230191
+Hyperparameters: lr=0.0007563959739376089, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.14305279843881863, weight_decay=7.93695011953231e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 00:57:35.230271
+Train Loss: 1.7376, Val Loss: 1.5102, Val Accuracy: 0.4438
+Epoch 2/20 - 2024-10-29 00:57:51.997886
+Train Loss: 1.4726, Val Loss: 1.3574, Val Accuracy: 0.5044
+Epoch 3/20 - 2024-10-29 00:58:08.719504
+Train Loss: 1.3307, Val Loss: 1.2459, Val Accuracy: 0.5568
+Epoch 4/20 - 2024-10-29 00:58:25.433697
+Train Loss: 1.2423, Val Loss: 1.1694, Val Accuracy: 0.5726
+Epoch 5/20 - 2024-10-29 00:58:42.153386
+Train Loss: 1.1673, Val Loss: 1.1157, Val Accuracy: 0.5982
+Epoch 6/20 - 2024-10-29 00:58:58.943272
+Train Loss: 1.1171, Val Loss: 1.0295, Val Accuracy: 0.6348
+Epoch 7/20 - 2024-10-29 00:59:15.709417
+Train Loss: 1.0743, Val Loss: 1.0630, Val Accuracy: 0.6218
+Epoch 8/20 - 2024-10-29 00:59:32.505585
+Train Loss: 1.0387, Val Loss: 0.9795, Val Accuracy: 0.6532
+Epoch 9/20 - 2024-10-29 00:59:49.226582
+Train Loss: 1.0087, Val Loss: 0.9638, Val Accuracy: 0.6528
+Epoch 10/20 - 2024-10-29 01:00:06.046399
+Train Loss: 0.9843, Val Loss: 0.9774, Val Accuracy: 0.6538
+Epoch 11/20 - 2024-10-29 01:00:23.058007
+Train Loss: 0.9614, Val Loss: 0.9242, Val Accuracy: 0.6738
+Epoch 12/20 - 2024-10-29 01:00:40.051595
+Train Loss: 0.9403, Val Loss: 0.8932, Val Accuracy: 0.6878
+Epoch 13/20 - 2024-10-29 01:00:56.848275
+Train Loss: 0.9244, Val Loss: 0.9048, Val Accuracy: 0.6828
+Epoch 14/20 - 2024-10-29 01:01:13.588975
+Train Loss: 0.9014, Val Loss: 0.8894, Val Accuracy: 0.6894
+Epoch 15/20 - 2024-10-29 01:01:30.395143
+Train Loss: 0.8864, Val Loss: 0.8860, Val Accuracy: 0.6936
+Epoch 16/20 - 2024-10-29 01:01:47.121911
+Train Loss: 0.8812, Val Loss: 0.8715, Val Accuracy: 0.6998
+Epoch 17/20 - 2024-10-29 01:02:03.860458
+Train Loss: 0.8598, Val Loss: 0.8610, Val Accuracy: 0.6990
+Epoch 18/20 - 2024-10-29 01:02:20.532353
+Train Loss: 0.8525, Val Loss: 0.8434, Val Accuracy: 0.7052
+Epoch 19/20 - 2024-10-29 01:02:37.302922
+Train Loss: 0.8386, Val Loss: 0.8631, Val Accuracy: 0.7016
+Epoch 20/20 - 2024-10-29 01:02:54.205537
+Train Loss: 0.8312, Val Loss: 0.8416, Val Accuracy: 0.7096
+Final Test Accuracy: 0.7049 - 2024-10-29 01:03:12.803759
+
+
+--- New Trial ---
+Trial 42 - 2024-10-29 01:03:12.817037
+Hyperparameters: lr=0.000407281476605996, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.12747625073866606, weight_decay=4.055158930168224e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 01:03:12.817160
+Train Loss: 1.7621, Val Loss: 1.5369, Val Accuracy: 0.4338
+Epoch 2/20 - 2024-10-29 01:03:29.770947
+Train Loss: 1.5162, Val Loss: 1.4412, Val Accuracy: 0.4810
+
+
+--- New Trial ---
+Trial 43 - 2024-10-29 01:03:46.647727
+Hyperparameters: lr=0.0007809436645421514, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.16775299214522932, weight_decay=2.1029849294885215e-06, batch_size=32
+Epoch 1/20 - 2024-10-29 01:03:46.647811
+Train Loss: 1.7508, Val Loss: 1.5204, Val Accuracy: 0.4424
+Epoch 2/20 - 2024-10-29 01:04:03.476042
+Train Loss: 1.4852, Val Loss: 1.4360, Val Accuracy: 0.4766
+
+
+--- New Trial ---
+Trial 44 - 2024-10-29 01:04:20.354761
+Hyperparameters: lr=0.0031147808628208522, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.09129137265522869, weight_decay=1.072046768295495e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 01:04:20.354855
+Train Loss: 1.7295, Val Loss: 1.5401, Val Accuracy: 0.4336
+Epoch 2/20 - 2024-10-29 01:04:37.194539
+Train Loss: 1.5020, Val Loss: 1.4266, Val Accuracy: 0.4806
+
+
+--- New Trial ---
+Trial 45 - 2024-10-29 01:04:54.143576
+Hyperparameters: lr=0.00032536340843770196, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.051835338667907474, weight_decay=0.00011288507701643997, batch_size=32
+Epoch 1/20 - 2024-10-29 01:04:54.143646
+Train Loss: 1.7512, Val Loss: 1.5365, Val Accuracy: 0.4432
+Epoch 2/20 - 2024-10-29 01:05:11.099679
+Train Loss: 1.4795, Val Loss: 1.3983, Val Accuracy: 0.4874
+
+
+--- New Trial ---
+Trial 46 - 2024-10-29 01:05:28.034208
+Hyperparameters: lr=0.00218022184941394, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.008891791695592323, weight_decay=3.898454838764419e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 01:05:28.034295
+Train Loss: 1.6791, Val Loss: 1.4671, Val Accuracy: 0.4656
+Epoch 2/20 - 2024-10-29 01:05:44.886626
+Train Loss: 1.4065, Val Loss: 1.3730, Val Accuracy: 0.4876
+
+
+--- New Trial ---
+Trial 47 - 2024-10-29 01:06:01.690639
+Hyperparameters: lr=0.0013135840036109336, conv1_out_channels=24, conv2_out_channels=32, fc1_out_features=120, fc2_out_features=84, dropout_rate=0.17819792221891348, weight_decay=2.3116672810597044e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 01:06:01.690727
+Train Loss: 1.7356, Val Loss: 1.5689, Val Accuracy: 0.4240
+
+
+--- New Trial ---
+Trial 48 - 2024-10-29 01:06:18.042869
+Hyperparameters: lr=0.0005764271716607399, conv1_out_channels=6, conv2_out_channels=64, fc1_out_features=256, fc2_out_features=84, dropout_rate=0.1314244778255412, weight_decay=8.358093037309349e-05, batch_size=128
+Epoch 1/20 - 2024-10-29 01:06:18.042958
+Train Loss: 1.8888, Val Loss: 1.7037, Val Accuracy: 0.3736
+
+
+--- New Trial ---
+Trial 49 - 2024-10-29 01:06:26.913646
+Hyperparameters: lr=0.00010502334674348505, conv1_out_channels=24, conv2_out_channels=64, fc1_out_features=120, fc2_out_features=128, dropout_rate=0.0724332861851107, weight_decay=1.5927062825153332e-05, batch_size=32
+Epoch 1/20 - 2024-10-29 01:06:26.913757
+Train Loss: 1.9207, Val Loss: 1.7362, Val Accuracy: 0.3530
