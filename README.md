@@ -1,11 +1,11 @@
 # Machine-Learning-Notebooks
-Welcome to the machine learning techniques and methods repository, featuring example notebooks implemented by me! 🚀
+Welcome to the machine learning and deep learning repository, featuring example projects implemented by me! 🚀
 
 ---
 
 ## Google Colab notebooks:
 
-You can also check out these projects on Google Colab:
+You can also check out some of the projects on Google Colab:
 
 - [[EDA & Dimensionality Reduction] Bank Marketing](https://drive.google.com/file/d/10TmpBAchH-TEIrfDNBgStycRXbxPYB7i/view?usp=sharing)
 
