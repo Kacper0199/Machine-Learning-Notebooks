@@ -1,8 +1,6 @@
 # Machine-Learning-Notebooks
 Welcome to the machine learning techniques and methods repository, featuring example notebooks implemented by me! 🚀
 
-This collection provides hands-on exploration of various machine learning techniques and methods. Whether you're a beginner looking to grasp foundational concepts or an experienced practitioner aiming to refine your skills, these notebooks offer practical insights and code implementations.
-
 ---
 
 ## Google Colab notebooks:
