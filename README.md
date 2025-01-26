@@ -1,5 +1,5 @@
 # Machine-Learning-Notebooks
-Welcome to the machine learning and deep learning repository, featuring example projects implemented by me! 🚀
+Welcome to the machine learning and deep learning repository, featuring example projects implemented by me.
 
 ---
 
